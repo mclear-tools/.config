@@ -1,0 +1,63 @@
+q
+clear
+cd
+!beet play -a Shuttle358
+help
+?
+add -q .config/cmus/playlist.pl
+add .config/cmus/playlist.pl
+load .config/cmus/playlist.pl
+load
+load ~/.config/cmus/playlist.pl
+load ~/.comfig/cmus/playlist.pl
+load Dropbox/Music/work.pls
+load Dropbox/Music/
+load Dropbox/
+load playlist
+play playlist 
+playlist
+play
+set replaygain=1
+set replaygain=2
+set replaygain=true
+set replay_gain=true
+set replaygain_limit
+replaygain
+replaygain_limit=true
+replaygain_limit
+set softvol=true
+vol 
+amixer
+mixer
+vol -10%
+volume
+volum
+qy
+toggle
+next
+prev
+!beet play Shuttle358
+exq
+delete
+add ~/Dropbox/Music
+a
+add
+-q
+clea
+beet play -a Loscil
+Q
+load work
+save work
+save
+exit
+!beet play Lusine
+beet play Lusine
+load Bill Frisell/
+clear q
+clera -q
+-p
+p
+man cmus
+tutorial
+qa
+cmus-tutorial
