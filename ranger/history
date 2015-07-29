@@ -7,11 +7,9 @@ open
 open_with open
 lkjlkjkl
 delte
-delete
 beet import 
 !beet import Pop Ambient 2010
 search site
-open_with vim
 show_hidden=true
 show_hidden true
 lhl
@@ -33,7 +31,15 @@ git stash
 Git stash
 l
 help
-open_with nvim
-
-open_with 
 open_with jjkk
+open_with vim
+delete
+open_with 
+delete 
+open_with nvim
+search bin
+!
+shell touch rdiocurrent.sh
+
+search rdio
+shell chmod +x rdiocurrent.sh

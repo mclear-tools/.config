@@ -1,9 +1,20 @@
+add -p
+-p
+add to playlist
 q
+current
+S
+status_display_program=/Users/Roambot/Dropbox/Personal/Hacks/cmus-growl
+status_display_program=/Users/Roambot/Dropbox/Personal/Hacks/cmus-growl/cmus-growl
 clear
-cd
-!beet play -a Shuttle358
 help
 ?
+add
+export HOMEBREW_GITHUB_API_TOKEN=52065f9318f4a9e8c58d8e841a0
+/Users/Roambot/Dropbox/Personal/Hacks/cmus-growl
+status_display_program=/path/to/cmus-growl
+cd
+!beet play -a Shuttle358
 add -q .config/cmus/playlist.pl
 add .config/cmus/playlist.pl
 load .config/cmus/playlist.pl
@@ -41,7 +52,6 @@ exq
 delete
 add ~/Dropbox/Music
 a
-add
 -q
 clea
 beet play -a Loscil
@@ -55,7 +65,6 @@ beet play Lusine
 load Bill Frisell/
 clear q
 clera -q
--p
 p
 man cmus
 tutorial

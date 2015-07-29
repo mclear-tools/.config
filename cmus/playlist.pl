@@ -100,3 +100,8 @@
 /Users/Roambot/Dropbox/Music/Aphex Twin/2003 26 Mixes for Cash/10 Change (Aphex Twin mix #2).mp3
 /Users/Roambot/Dropbox/Music/Broken Social Scene/2003 You Forgot It in People/09 Late Nineties Bedroom Rock for the Missionaries.mp3
 /Users/Roambot/Dropbox/Music/Broken Social Scene/2003 You Forgot It in People/10 Shampoo Suicide.mp3
+/Users/Roambot/Dropbox/Music/Lusine/2005 Inside_Out EP/02 Sunset.mp3
+/Users/Roambot/Dropbox/Music/Lusine/2005 Inside_Out EP/04 Keep Me Fading.mp3
+/Users/Roambot/Dropbox/Music/Lusine/2006 Emerald EP/03 Emerald.mp3
+/Users/Roambot/Dropbox/Music/Lusine/2007 Language Barrier/04 Stones Throw.mp3
+/Users/Roambot/Dropbox/Music/Lusine/2007 Language Barrier/08 On the Line.mp3

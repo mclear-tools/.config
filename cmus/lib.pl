@@ -3269,7 +3269,7 @@
 /Users/Roambot/Dropbox/Music/Smog/1996 The Doctor Came at Dawn/06 Everything You Touch Becomes a Crutch.mp3
 /Users/Roambot/Dropbox/Music/Smog/1996 The Doctor Came at Dawn/07 All Your Women Things.mp3
 /Users/Roambot/Dropbox/Music/Smog/1996 The Doctor Came at Dawn/08 Whistling Teapot (Rag).mp3
-/Users/Roambot/Dropbox/Music/Smog/1996 The Doctor Came at Dawn/09 Four Hearts in a Can.mp3
+/Users/Roambot/Dropbox/Music/Smog/1996 The Doctor Came at Dawn/09 four hearts in a can.mp3
 /Users/Roambot/Dropbox/Music/Smog/1996 The Doctor Came at Dawn/10 Hangman Blues.mp3
 /Users/Roambot/Dropbox/Music/Smog/1997 Red Apple Falls/01 The Morning Paper.mp3
 /Users/Roambot/Dropbox/Music/Smog/1997 Red Apple Falls/02 Blood Red Bird.mp3
