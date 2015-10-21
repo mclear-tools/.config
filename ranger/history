@@ -1,25 +1,3 @@
-open_with jjj
-open_with clearview
-open_with skim
-open_with skm
-open_with %s
-open
-open_with open
-lkjlkjkl
-delte
-beet import 
-!beet import Pop Ambient 2010
-search site
-show_hidden=true
-show_hidden true
-lhl
-open_with j
-set show_hidden
-e pandoc.vim
-set show_hidden true
-open_with k
-open_with Clearview
-open_with default
 open_with Preview
 git pull
 cdf
@@ -32,14 +10,41 @@ Git stash
 l
 help
 open_with jjkk
-open_with vim
-delete
-open_with 
 delete 
-open_with nvim
 search bin
-!
 shell touch rdiocurrent.sh
-
 search rdio
 shell chmod +x rdiocurrent.sh
+!cd
+!
+!~
+open elinks
+open_with elinks
+open_with skim
+open_with clearview
+open_with skim.app
+tabnew
+tab
+new tab
+help tabs
+j
+open_with cmus
+open_with vox
+open_with vox.app
+open_with /Applications/vox.app
+
+open_w`h
+open_with vim
+open_with 
+search Qu
+search lin
+search lib
+search qui
+f
+finder
+open
+open_with emacs
+open_with nvim
+delete
+search org
+search inline

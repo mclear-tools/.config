@@ -1102,6 +1102,165 @@
 /Users/Roambot/Dropbox/Music/Bill Frisell/2010 Beautiful Dreamers/14 Sweetie.mp3
 /Users/Roambot/Dropbox/Music/Bill Frisell/2010 Beautiful Dreamers/15 All We Can Do.mp3
 /Users/Roambot/Dropbox/Music/Bill Frisell/2010 Beautiful Dreamers/16 Who Was That Girl_.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/1991 Microgravity/01 Microgravity.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/1991 Microgravity/02 Baby Satellite.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/1991 Microgravity/03 Tranquilizer.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/1991 Microgravity/04 The Fairy Tale.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/1991 Microgravity/05 Cloudwalker II.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/1991 Microgravity/06 Chromosphere.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/1991 Microgravity/07 Cygnus-A.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/1991 Microgravity/08 Baby Interphase.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/1991 Microgravity/09 Biosphere.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/1994 Patashnik/01 Phantasm.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/1994 Patashnik/02 Startoucher.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/1994 Patashnik/03 Decryption.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/1994 Patashnik/04 Novelty Waves.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/1994 Patashnik/05 Patashnik.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/1994 Patashnik/06 Mir.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/1994 Patashnik/07 The Shield.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/1994 Patashnik/08 Seti Project.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/1994 Patashnik/09 Mestigoth.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/1994 Patashnik/10 Botanical Dimensions.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/1994 Patashnik/11 Caboose.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/1994 Patashnik/12 En-trance.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/1997 Insomnia_ No Peace for the Wicked/01 Proem.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/1997 Insomnia_ No Peace for the Wicked/02 Lounge.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/1997 Insomnia_ No Peace for the Wicked/03 Forum.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/1997 Insomnia_ No Peace for the Wicked/04 Field.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/1997 Insomnia_ No Peace for the Wicked/05 Probe.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/1997 Insomnia_ No Peace for the Wicked/06 Yard.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/1997 Insomnia_ No Peace for the Wicked/07 Shade.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/1997 Insomnia_ No Peace for the Wicked/08 Ride.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/1997 Insomnia_ No Peace for the Wicked/09 Chamber.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/1997 Insomnia_ No Peace for the Wicked/10 2nd Field.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/1997 Insomnia_ No Peace for the Wicked/11 Rush.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/1997 Insomnia_ No Peace for the Wicked/12 Transit.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/1997 Insomnia_ No Peace for the Wicked/14 Gate.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/1997 Insomnia_ No Peace for the Wicked/15 Quay.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/1997 Insomnia_ No Peace for the Wicked/17 Insomnia (Alania mix).mp3
+/Users/Roambot/Dropbox/Music/Biosphere/1997 Substrata/01 As the Sun Kissed the Horizon.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/1997 Substrata/02 Poa Alpina.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/1997 Substrata/03 Chukhung.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/1997 Substrata/04 The Things I Tell You.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/1997 Substrata/05 Times When I Know You'll Be Sad.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/1997 Substrata/06 Hyperborea.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/1997 Substrata/07 Kobresia.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/1997 Substrata/08 Antennaria.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/1997 Substrata/09 Uva-Ursi.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/1997 Substrata/10 Sphere of No-Form.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/1997 Substrata/11 Silene.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/1999 Biosystems_ The Biosphere Remixes/01 No Government (In the Biosphere).mp3
+/Users/Roambot/Dropbox/Music/Biosphere/1999 Biosystems_ The Biosphere Remixes/02 L'eglise (Deuxieme Partie) (Biosphere Trekking mix).mp3
+/Users/Roambot/Dropbox/Music/Biosphere/1999 Biosystems_ The Biosphere Remixes/03 Allatal (Biosphere remix).mp3
+/Users/Roambot/Dropbox/Music/Biosphere/1999 Biosystems_ The Biosphere Remixes/04 Hope to God (Biosphere remix).mp3
+/Users/Roambot/Dropbox/Music/Biosphere/1999 Biosystems_ The Biosphere Remixes/05 Circuitry (Biosphere remix).mp3
+/Users/Roambot/Dropbox/Music/Biosphere/1999 Biosystems_ The Biosphere Remixes/06 Digits 3 (Biosphere's Astragalus remix).mp3
+/Users/Roambot/Dropbox/Music/Biosphere/1999 Biosystems_ The Biosphere Remixes/07 It's Gonna Be Alright (Biosphere's Angulag mix).mp3
+/Users/Roambot/Dropbox/Music/Biosphere/1999 Biosystems_ The Biosphere Remixes/08 She's a Star (Andrea's Biosphere remix).mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2000 Cirque/01 Nook & Cranny.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2000 Cirque/02 Le Grand Dome.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2000 Cirque/03 Grandiflora.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2000 Cirque/04 Black Lamb & Grey Falcon.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2000 Cirque/05 Miniature Rock Dwellers.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2000 Cirque/06 When I Leave.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2000 Cirque/07 Iberia Eterea.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2000 Cirque/08 Moistened & Dried.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2000 Cirque/09 Algae & Fungi, Part I.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2000 Cirque/10 Algae & Fungi, Part II.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2000 Cirque/11 Too Fragile to Walk On.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2002 Shenzhou/01 Shenzhou.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2002 Shenzhou/02 Spindrift.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2002 Shenzhou/03 Ancient Campfire.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2002 Shenzhou/04 Heat Leak.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2002 Shenzhou/05 Houses on the Hill.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2002 Shenzhou/06 Two Ocean Plateau.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2002 Shenzhou/07 Thermal Motion.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2002 Shenzhou/08 Path Leading to the High Grass.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2002 Shenzhou/09 Fast Atoms Escape.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2002 Shenzhou/10 Green Reflections.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2002 Shenzhou/11 Bose-Einstein Condensation.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2002 Shenzhou/12 Gravity Assist.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2004 Autour de la Lune/01 Translation.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2004 Autour de la Lune/02 Rotation.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2004 Autour de la Lune/03 Modifie.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2004 Autour de la Lune/04 Vibratoire.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2004 Autour de la Lune/05 Deviation.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2004 Autour de la Lune/06 Circulaire.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2004 Autour de la Lune/07 Disparu.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2004 Autour de la Lune/08 Inverse.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2004 Autour de la Lune/09 Tombant.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2006 Dropsonde/01 Dissolving Clouds.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2006 Dropsonde/02 Birds Fly by Flapping Their Wings.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2006 Dropsonde/03 Warmed by the Drift.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2006 Dropsonde/04 In Triple Time.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2006 Dropsonde/05 From a Solid to a Liquid.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2006 Dropsonde/06 Arafura.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2006 Dropsonde/07 Fall In, Fall Out.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2006 Dropsonde/08 Daphnis 26.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2006 Dropsonde/09 Altostratus.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2006 Dropsonde/10 Sherbrooke.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2006 Dropsonde/11 People Are Friends.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2006 Man With a Movie Camera/01 Prologue.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2006 Man With a Movie Camera/02 The Silent Orchestra.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2006 Man With a Movie Camera/03 City Wakes Up.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2006 Man With a Movie Camera/04 Freeze-Frames.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2006 Man With a Movie Camera/05 Manicure.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2006 Man With a Movie Camera/06 The Club.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2006 Man With a Movie Camera/07 Ballerina.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2006 Man With a Movie Camera/08 The Eye of the Cyclone.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2006 Man With a Movie Camera/09 Endurium.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2009 Wireless_ Live at the Arnolfini, Bristol/01 Pneuma.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2009 Wireless_ Live at the Arnolfini, Bristol/02 Shenzou.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2009 Wireless_ Live at the Arnolfini, Bristol/03 Birds Fly by Flapping Their Wings.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2009 Wireless_ Live at the Arnolfini, Bristol/04 Kobresia.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2009 Wireless_ Live at the Arnolfini, Bristol/05 When I Leave.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2009 Wireless_ Live at the Arnolfini, Bristol/06 Warmed by the Drift.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2009 Wireless_ Live at the Arnolfini, Bristol/07 The Things I Tell You.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2009 Wireless_ Live at the Arnolfini, Bristol/08 Moistened and Dried.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2009 Wireless_ Live at the Arnolfini, Bristol/09 Sherbrooke.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2009 Wireless_ Live at the Arnolfini, Bristol/10 Calais Ferryport.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2009 Wireless_ Live at the Arnolfini, Bristol/11 Pneuma II.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2010 Outside By The Fjord/01 Outside By The Fjord.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2010 Touch Radio 48/01 Live In Den Haag.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2011 N-Plants/01 Sendai-1.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2011 N-Plants/02 Shika-1.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2011 N-Plants/03 Joyo.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2011 N-Plants/04 Ikata-1.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2011 N-Plants/05 Monju-1.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2011 N-Plants/06 Genkai-1.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2011 N-Plants/07 Oi-1.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2011 N-Plants/08 Monju-2.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2011 N-Plants/09 Fujiko.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2012 Compilation 1991-2004/01 Hypnophone.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2012 Compilation 1991-2004/02 The Third Planet.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2012 Compilation 1991-2004/03 The Seal & The Hydrophone.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2012 Compilation 1991-2004/04 When I Leave (version).mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2012 Compilation 1991-2004/05 Knives in Hens.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2012 Compilation 1991-2004/06 Superfluid.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2012 Compilation 1991-2004/07 Bird Watching.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2012 Compilation 1991-2004/08 Sun-Baked.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2012 Compilation 1991-2004/09 Heights of the Depths.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2012 Compilation 1991-2004/10 Vi Kan Tenka Digitalt, Vi Kan Tala Digitalt.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2012 Compilation 1991-2004/11 Die Luftseilbahn.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2012 Compilation 1991-2004/12 Valchirie.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2012 Compilation 1991-2004/13 Visible & Invisible.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2012 Compilation 1991-2004/14 Colpa Mia.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/2012 Compilation 1991-2004/15 Reef.mp3
+/Users/Roambot/Dropbox/Music/Biosphere & Pete Namlook/0000 The Fires Of Ork 2/00 The Fires Of Ork 2.mp3
+/Users/Roambot/Dropbox/Music/Biosphere & The Higher Intelligence Agency/1999 Birmingham Frequencies/01 Cannon Hill.mp3
+/Users/Roambot/Dropbox/Music/Biosphere & The Higher Intelligence Agency/1999 Birmingham Frequencies/02 Gas Street Basin.mp3
+/Users/Roambot/Dropbox/Music/Biosphere & The Higher Intelligence Agency/1999 Birmingham Frequencies/03 Narrowboat.mp3
+/Users/Roambot/Dropbox/Music/Biosphere & The Higher Intelligence Agency/1999 Birmingham Frequencies/04 The Rotunda.mp3
+/Users/Roambot/Dropbox/Music/Biosphere & The Higher Intelligence Agency/1999 Birmingham Frequencies/05 Augusta Road.mp3
+/Users/Roambot/Dropbox/Music/Biosphere & The Higher Intelligence Agency/1999 Birmingham Frequencies/06 Daddylonglegs.mp3
+/Users/Roambot/Dropbox/Music/Biosphere & The Higher Intelligence Agency/1999 Birmingham Frequencies/07 Midpoint.mp3
+/Users/Roambot/Dropbox/Music/Biosphere _ Deathprod/1998 Nordheim Transformed/01 Trasparenza.mp3
+/Users/Roambot/Dropbox/Music/Biosphere _ Deathprod/1998 Nordheim Transformed/02 Journey to the Centre of the First 1.1.mp3
+/Users/Roambot/Dropbox/Music/Biosphere _ Deathprod/1998 Nordheim Transformed/03 Katedra Botaniki.mp3
+/Users/Roambot/Dropbox/Music/Biosphere _ Deathprod/1998 Nordheim Transformed/04 Warp_Warble.mp3
+/Users/Roambot/Dropbox/Music/Biosphere _ Deathprod/1998 Nordheim Transformed/05 Les Fleurs du Mal.mp3
+/Users/Roambot/Dropbox/Music/Biosphere _ Deathprod/1998 Nordheim Transformed/06 Twin Decks.mp3
+/Users/Roambot/Dropbox/Music/Biosphere _ Deathprod/1998 Nordheim Transformed/07 Journey to the Centre of the First 1.2.mp3
 /Users/Roambot/Dropbox/Music/Black Dog Productions/1993 Bytes/01 Object Orient.mp3
 /Users/Roambot/Dropbox/Music/Black Dog Productions/1993 Bytes/02 Caz.mp3
 /Users/Roambot/Dropbox/Music/Black Dog Productions/1993 Bytes/03 Carceres Ex Novum.mp3
@@ -1113,6 +1272,16 @@
 /Users/Roambot/Dropbox/Music/Black Dog Productions/1993 Bytes/09 Merck.mp3
 /Users/Roambot/Dropbox/Music/Black Dog Productions/1993 Bytes/10 Jauqq.mp3
 /Users/Roambot/Dropbox/Music/Black Dog Productions/1993 Bytes/11 3_4 Heart.mp3
+/Users/Roambot/Dropbox/Music/Bleep/1989 The North Pole by Submarine/01 A Byte of AMC.mp3
+/Users/Roambot/Dropbox/Music/Bleep/1989 The North Pole by Submarine/02 The Operator.mp3
+/Users/Roambot/Dropbox/Music/Bleep/1989 The North Pole by Submarine/03 Mr. Barth in the Sahara.mp3
+/Users/Roambot/Dropbox/Music/Bleep/1989 The North Pole by Submarine/04 A Fading Dream.mp3
+/Users/Roambot/Dropbox/Music/Bleep/1989 The North Pole by Submarine/05 The Conway Saddle.mp3
+/Users/Roambot/Dropbox/Music/Bleep/1989 The North Pole by Submarine/06 The Snake.mp3
+/Users/Roambot/Dropbox/Music/Bleep/1989 The North Pole by Submarine/07 Cycle 92.mp3
+/Users/Roambot/Dropbox/Music/Bleep/1989 The North Pole by Submarine/08 In Your System.mp3
+/Users/Roambot/Dropbox/Music/Bleep/1989 The North Pole by Submarine/09 Sure Be Glad When You're Dead.mp3
+/Users/Roambot/Dropbox/Music/Bleep/1989 The North Pole by Submarine/10 A Byte of AMC (The Wrong Floppy mix).mp3
 /Users/Roambot/Dropbox/Music/Blueprint/2009 Sign Language/01 Numb.mp3
 /Users/Roambot/Dropbox/Music/Blueprint/2009 Sign Language/02 Time Management Rebuilt.mp3
 /Users/Roambot/Dropbox/Music/Blueprint/2009 Sign Language/03 In the Beginning.mp3
@@ -2012,6 +2181,20 @@
 /Users/Roambot/Dropbox/Music/Dntel/2011 Life Is Full of Possibilities/20 Last Songs (vocal version).mp3
 /Users/Roambot/Dropbox/Music/Dntel/2011 Life Is Full of Possibilities/22 Anywhere Anyone (Silent Servant & Regis Sandwell District mix).mp3
 /Users/Roambot/Dropbox/Music/Dntel/2011 Life Is Full of Possibilities/23 Anywhere Anyone (Pearson Sound Beatless Reduction).mp3
+/Users/Roambot/Dropbox/Music/E-Man/2009 E-Man/01 The Difference.mp3
+/Users/Roambot/Dropbox/Music/E-Man/2009 E-Man/02 De Du Da Da Di.mp3
+/Users/Roambot/Dropbox/Music/E-Man/2009 E-Man/03 The Upland, Part I.mp3
+/Users/Roambot/Dropbox/Music/E-Man/2009 E-Man/04 Visjoner.mp3
+/Users/Roambot/Dropbox/Music/E-Man/2009 E-Man/05 The Upland, Part II.mp3
+/Users/Roambot/Dropbox/Music/E-Man/2009 E-Man/06 Great Nations.mp3
+/Users/Roambot/Dropbox/Music/E-Man/2009 E-Man/07 Hosono.mp3
+/Users/Roambot/Dropbox/Music/E-Man/2009 E-Man/08 Jeg Er Moderne.mp3
+/Users/Roambot/Dropbox/Music/E-Man/2009 E-Man/09 The Upland, Part III.mp3
+/Users/Roambot/Dropbox/Music/E-Man/2009 E-Man/10 Nibsy the Newsboy.mp3
+/Users/Roambot/Dropbox/Music/E-Man/2009 E-Man/11 Heaven & Hell.mp3
+/Users/Roambot/Dropbox/Music/E-Man/2009 E-Man/12 The Mission.mp3
+/Users/Roambot/Dropbox/Music/E-Man/2009 E-Man/13 The Upland, Part IV.mp3
+/Users/Roambot/Dropbox/Music/E-Man/2009 E-Man/14 De Du Da Da Di (original).mp3
 /Users/Roambot/Dropbox/Music/Eluvium/0000 Travels In Constants/00 Travels In Constants.mp3
 /Users/Roambot/Dropbox/Music/Eluvium/2005 Talk Amongst the Trees/01 New Animals From the Air.mp3
 /Users/Roambot/Dropbox/Music/Eluvium/2005 Talk Amongst the Trees/02 Show Us Our Homes.mp3
@@ -2128,6 +2311,18 @@
 /Users/Roambot/Dropbox/Music/Fred Hersch & Bill Frisell/1998 Songs We Know/09 I Got Rhythm.mp3
 /Users/Roambot/Dropbox/Music/Fred Hersch & Bill Frisell/1998 Songs We Know/10 Wave.mp3
 /Users/Roambot/Dropbox/Music/Fred Hersch & Bill Frisell/1998 Songs We Know/11 What Is This Thing Called Love_.mp3
+/Users/Roambot/Dropbox/Music/Geir Jenssen/2006 Cho Oyu 8201m_ Field Recordings From Tibet/01 Zhangmu_ Crossing a Landslide Area.mp3
+/Users/Roambot/Dropbox/Music/Geir Jenssen/2006 Cho Oyu 8201m_ Field Recordings From Tibet/02 Tingri_ The Last Truck.mp3
+/Users/Roambot/Dropbox/Music/Geir Jenssen/2006 Cho Oyu 8201m_ Field Recordings From Tibet/03 Jobo Rabzang_ A 6666 Metre Peak in the Cho Oyu Himal.mp3
+/Users/Roambot/Dropbox/Music/Geir Jenssen/2006 Cho Oyu 8201m_ Field Recordings From Tibet/04 Chinese Basecamp_ Near a Stone Shelter.mp3
+/Users/Roambot/Dropbox/Music/Geir Jenssen/2006 Cho Oyu 8201m_ Field Recordings From Tibet/05 Palung_ A Yak Caravan Is Coming.mp3
+/Users/Roambot/Dropbox/Music/Geir Jenssen/2006 Cho Oyu 8201m_ Field Recordings From Tibet/06 Cho Oyu Basecamp_ Morning.mp3
+/Users/Roambot/Dropbox/Music/Geir Jenssen/2006 Cho Oyu 8201m_ Field Recordings From Tibet/07 Nangpa La_ Birds Feeding on Biscuits.mp3
+/Users/Roambot/Dropbox/Music/Geir Jenssen/2006 Cho Oyu 8201m_ Field Recordings From Tibet/08 Camp 1_ Himalayan Nightflight.mp3
+/Users/Roambot/Dropbox/Music/Geir Jenssen/2006 Cho Oyu 8201m_ Field Recordings From Tibet/09 Camp 1.5_ Mountain Upon Mountain.mp3
+/Users/Roambot/Dropbox/Music/Geir Jenssen/2006 Cho Oyu 8201m_ Field Recordings From Tibet/10 Camp 2_ World Music on the Radio.mp3
+/Users/Roambot/Dropbox/Music/Geir Jenssen/2006 Cho Oyu 8201m_ Field Recordings From Tibet/11 Camp 3_ Neighbours on Oxygen.mp3
+/Users/Roambot/Dropbox/Music/Geir Jenssen/2006 Cho Oyu 8201m_ Field Recordings From Tibet/12 Summit_ Only Slight Breeze on the Summit at 8201m.mp3
 /Users/Roambot/Dropbox/Music/Gold Panda/2010 Lucky Shiner/01 You.flac
 /Users/Roambot/Dropbox/Music/Gold Panda/2010 Lucky Shiner/02 Vanilla Minus.flac
 /Users/Roambot/Dropbox/Music/Gold Panda/2010 Lucky Shiner/03 Parents.flac
@@ -2189,6 +2384,27 @@
 /Users/Roambot/Dropbox/Music/Jim Hall & Pat Metheny/1999 Jim Hall & Pat Metheny/15 Improvisation No. 4.mp3
 /Users/Roambot/Dropbox/Music/Jim Hall & Pat Metheny/1999 Jim Hall & Pat Metheny/16 Improvisation No. 5.mp3
 /Users/Roambot/Dropbox/Music/Jim Hall & Pat Metheny/1999 Jim Hall & Pat Metheny/17 All Across the City.mp3
+/Users/Roambot/Dropbox/Music/John Abercrombie Quartet/2013 39 Steps/01 Vertigo.flac
+/Users/Roambot/Dropbox/Music/John Abercrombie Quartet/2013 39 Steps/02 LST.flac
+/Users/Roambot/Dropbox/Music/John Abercrombie Quartet/2013 39 Steps/03 Bacharach.flac
+/Users/Roambot/Dropbox/Music/John Abercrombie Quartet/2013 39 Steps/04 Greenstreet.flac
+/Users/Roambot/Dropbox/Music/John Abercrombie Quartet/2013 39 Steps/05 As It Stands.flac
+/Users/Roambot/Dropbox/Music/John Abercrombie Quartet/2013 39 Steps/06 Spellbound.flac
+/Users/Roambot/Dropbox/Music/John Abercrombie Quartet/2013 39 Steps/07 Another Ralph's.flac
+/Users/Roambot/Dropbox/Music/John Abercrombie Quartet/2013 39 Steps/08 Shadow of a Doubt.flac
+/Users/Roambot/Dropbox/Music/John Abercrombie Quartet/2013 39 Steps/09 39 Steps.flac
+/Users/Roambot/Dropbox/Music/John Abercrombie Quartet/2013 39 Steps/10 Melancholy Baby.flac
+/Users/Roambot/Dropbox/Music/John Abercrombie, Dave Holland & Jack DeJohnette/1975 Gateway/01 Back-Woods Song.m4a
+/Users/Roambot/Dropbox/Music/John Abercrombie, Dave Holland & Jack DeJohnette/1975 Gateway/02 Waiting.m4a
+/Users/Roambot/Dropbox/Music/John Abercrombie, Dave Holland & Jack DeJohnette/1975 Gateway/03 May Dance.m4a
+/Users/Roambot/Dropbox/Music/John Abercrombie, Dave Holland & Jack DeJohnette/1975 Gateway/04 Unshielded Desire.m4a
+/Users/Roambot/Dropbox/Music/John Abercrombie, Dave Holland & Jack DeJohnette/1975 Gateway/05 Jamala.m4a
+/Users/Roambot/Dropbox/Music/John Abercrombie, Dave Holland & Jack DeJohnette/1975 Gateway/06 Sorcery I.m4a
+/Users/Roambot/Dropbox/Music/John Abercrombie, Dave Holland & Jack DeJohnette/2000 Gateway 2/01 Opening.m4a
+/Users/Roambot/Dropbox/Music/John Abercrombie, Dave Holland & Jack DeJohnette/2000 Gateway 2/02 Reminiscence.m4a
+/Users/Roambot/Dropbox/Music/John Abercrombie, Dave Holland & Jack DeJohnette/2000 Gateway 2/03 Sing Song.m4a
+/Users/Roambot/Dropbox/Music/John Abercrombie, Dave Holland & Jack DeJohnette/2000 Gateway 2/04 Nexus.m4a
+/Users/Roambot/Dropbox/Music/John Abercrombie, Dave Holland & Jack DeJohnette/2000 Gateway 2/05 Blue.m4a
 /Users/Roambot/Dropbox/Music/Keith Fullerton Whitman/2002 Playthroughs/01 Track3a(2waynice).mp3
 /Users/Roambot/Dropbox/Music/Keith Fullerton Whitman/2002 Playthroughs/02 Feedback Zwei.mp3
 /Users/Roambot/Dropbox/Music/Keith Fullerton Whitman/2002 Playthroughs/03 Fib01a.mp3
@@ -2911,6 +3127,17 @@
 /Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926 - 1987)/Morton Feldman/2002 String Quartet No. 2 (Flux Quartet)/28 String Quartet No. 2 (pages 115-119).mp3
 /Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926 - 1987)/Morton Feldman/2002 String Quartet No. 2 (Flux Quartet)/29 String Quartet No. 2 (pages 120-124).mp3
 /Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926 - 1987)/Morton Feldman/2004 Patterns in a Chromatic Field/01 Patterns in a Chromatic Field.mp3
+/Users/Roambot/Dropbox/Music/Near the Parenthesis/2007 Of Soft Construction/01 It's Not Even Midnight.mp3
+/Users/Roambot/Dropbox/Music/Near the Parenthesis/2007 Of Soft Construction/02 Mare Nostrum.mp3
+/Users/Roambot/Dropbox/Music/Near the Parenthesis/2007 Of Soft Construction/03 The Language Explosion.mp3
+/Users/Roambot/Dropbox/Music/Near the Parenthesis/2007 Of Soft Construction/04 Litnum.mp3
+/Users/Roambot/Dropbox/Music/Near the Parenthesis/2007 Of Soft Construction/05 The World Is Inside You Now.mp3
+/Users/Roambot/Dropbox/Music/Near the Parenthesis/2007 Of Soft Construction/06 Open Sources.mp3
+/Users/Roambot/Dropbox/Music/Near the Parenthesis/2007 Of Soft Construction/07 Trailing.mp3
+/Users/Roambot/Dropbox/Music/Near the Parenthesis/2007 Of Soft Construction/08 A Little Damaged.mp3
+/Users/Roambot/Dropbox/Music/Near the Parenthesis/2007 Of Soft Construction/09 Sitting in a Room.mp3
+/Users/Roambot/Dropbox/Music/Near the Parenthesis/2007 Of Soft Construction/10 For, From.mp3
+/Users/Roambot/Dropbox/Music/Near the Parenthesis/2007 Of Soft Construction/11 This Morning.mp3
 /Users/Roambot/Dropbox/Music/No Age/2008 Nouns/01 Miner.mp3
 /Users/Roambot/Dropbox/Music/No Age/2008 Nouns/02 Eraser.mp3
 /Users/Roambot/Dropbox/Music/No Age/2008 Nouns/03 Teen Creeps.mp3
@@ -2923,6 +3150,20 @@
 /Users/Roambot/Dropbox/Music/No Age/2008 Nouns/10 Impossible Bouquet.mp3
 /Users/Roambot/Dropbox/Music/No Age/2008 Nouns/11 Ripped Knees.mp3
 /Users/Roambot/Dropbox/Music/No Age/2008 Nouns/12 Brain Burner.mp3
+/Users/Roambot/Dropbox/Music/Pan_American/2000 360 Business _ 360 Bypass/01 Steel Stars.mp3
+/Users/Roambot/Dropbox/Music/Pan_American/2000 360 Business _ 360 Bypass/02 Code.mp3
+/Users/Roambot/Dropbox/Music/Pan_American/2000 360 Business _ 360 Bypass/03 Double Rail.mp3
+/Users/Roambot/Dropbox/Music/Pan_American/2000 360 Business _ 360 Bypass/04 Coastal.mp3
+/Users/Roambot/Dropbox/Music/Pan_American/2000 360 Business _ 360 Bypass/05 K. Luminate.mp3
+/Users/Roambot/Dropbox/Music/Pan_American/2000 360 Business _ 360 Bypass/06 Both Ends Fixed.mp3
+/Users/Roambot/Dropbox/Music/Pan_American/2004 Quiet City/01 Before.mp3
+/Users/Roambot/Dropbox/Music/Pan_American/2004 Quiet City/02 Wing.mp3
+/Users/Roambot/Dropbox/Music/Pan_American/2004 Quiet City/03 Shining Book.mp3
+/Users/Roambot/Dropbox/Music/Pan_American/2004 Quiet City/04 Inside Elevation.mp3
+/Users/Roambot/Dropbox/Music/Pan_American/2004 Quiet City/05 Skylight.mp3
+/Users/Roambot/Dropbox/Music/Pan_American/2004 Quiet City/06 Lights on Water.mp3
+/Users/Roambot/Dropbox/Music/Pan_American/2004 Quiet City/07 Het Volk.mp3
+/Users/Roambot/Dropbox/Music/Pan_American/2004 Quiet City/08 Lights of Little Towns.mp3
 /Users/Roambot/Dropbox/Music/Pat Metheny/1976 Bright Size Life/01 Bright Size Life.m4a
 /Users/Roambot/Dropbox/Music/Pat Metheny/1976 Bright Size Life/02 Sirabhorn.m4a
 /Users/Roambot/Dropbox/Music/Pat Metheny/1976 Bright Size Life/03 Unity Village.m4a
@@ -3257,6 +3498,16 @@
 /Users/Roambot/Dropbox/Music/Shuttle358/2004 Chessa/09 Logical.m4a
 /Users/Roambot/Dropbox/Music/Shuttle358/2004 Chessa/10 Dead Leaves.m4a
 /Users/Roambot/Dropbox/Music/Shuttle358/2004 Chessa/11 Scrapbook.m4a
+/Users/Roambot/Dropbox/Music/Shuttle358 2/2015 Can You Prove I Was Born/01 Can You Prove I Was Born.flac
+/Users/Roambot/Dropbox/Music/Shuttle358 2/2015 Can You Prove I Was Born/02 Imaginary Other.flac
+/Users/Roambot/Dropbox/Music/Shuttle358 2/2015 Can You Prove I Was Born/03 Meteor Heart.flac
+/Users/Roambot/Dropbox/Music/Shuttle358 2/2015 Can You Prove I Was Born/04 Paper Wings.flac
+/Users/Roambot/Dropbox/Music/Shuttle358 2/2015 Can You Prove I Was Born/05 Burrowed Vows.flac
+/Users/Roambot/Dropbox/Music/Shuttle358 2/2015 Can You Prove I Was Born/06 Bent, and Swallowed and Opened Again.flac
+/Users/Roambot/Dropbox/Music/Shuttle358 2/2015 Can You Prove I Was Born/07 Dirty Sunkiss.flac
+/Users/Roambot/Dropbox/Music/Shuttle358 2/2015 Can You Prove I Was Born/08 Prisms.flac
+/Users/Roambot/Dropbox/Music/Shuttle358 2/2015 Can You Prove I Was Born/09 A Ground Without a Figure.flac
+/Users/Roambot/Dropbox/Music/Shuttle358 2/2015 Can You Prove I Was Born/10 Years Later.flac
 /Users/Roambot/Dropbox/Music/Smog/0000 A Hit/01 A Hit.mp3
 /Users/Roambot/Dropbox/Music/Smog/0000 A Hit/02 Wine Stained Lips.mp3
 /Users/Roambot/Dropbox/Music/Smog/0000 Came Blue/01 Came Blue.mp3
@@ -3589,6 +3840,17 @@
 /Users/Roambot/Dropbox/Music/The Black Dog/2013 Tranklements/16 Spatchka.flac
 /Users/Roambot/Dropbox/Music/The Black Dog/2013 Tranklements/17 Single Light Focus (live at Tresor).flac
 /Users/Roambot/Dropbox/Music/The Black Dog/2013 Tranklements/18 Funked Industry.flac
+/Users/Roambot/Dropbox/Music/The Fires of Ork/1993 The Fires of Ork/01 The Fires of Ork I.mp3
+/Users/Roambot/Dropbox/Music/The Fires of Ork/1993 The Fires of Ork/02 Gebirge.mp3
+/Users/Roambot/Dropbox/Music/The Fires of Ork/1993 The Fires of Ork/03 Talk to the Stars.mp3
+/Users/Roambot/Dropbox/Music/The Fires of Ork/1993 The Fires of Ork/04 The Facts of Life.mp3
+/Users/Roambot/Dropbox/Music/The Fires of Ork/1993 The Fires of Ork/05 The Fires of Ork II.mp3
+/Users/Roambot/Dropbox/Music/The Higher Intelligence Agency & Biosphere/1996 Polar Sequences/01 Cimmerian Shaft.mp3
+/Users/Roambot/Dropbox/Music/The Higher Intelligence Agency & Biosphere/1996 Polar Sequences/02 Snapshot Survey.mp3
+/Users/Roambot/Dropbox/Music/The Higher Intelligence Agency & Biosphere/1996 Polar Sequences/03 White Lightning.mp3
+/Users/Roambot/Dropbox/Music/The Higher Intelligence Agency & Biosphere/1996 Polar Sequences/04 Countdown to Darkness.mp3
+/Users/Roambot/Dropbox/Music/The Higher Intelligence Agency & Biosphere/1996 Polar Sequences/05 Corona.mp3
+/Users/Roambot/Dropbox/Music/The Higher Intelligence Agency & Biosphere/1996 Polar Sequences/06 Meltwater.mp3
 /Users/Roambot/Dropbox/Music/The Sight Below/2008 Glider/01 At First Touch.mp3
 /Users/Roambot/Dropbox/Music/The Sight Below/2008 Glider/02 Dour.mp3
 /Users/Roambot/Dropbox/Music/The Sight Below/2008 Glider/03 Without Motion.mp3

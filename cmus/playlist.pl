@@ -105,3 +105,16 @@
 /Users/Roambot/Dropbox/Music/Lusine/2006 Emerald EP/03 Emerald.mp3
 /Users/Roambot/Dropbox/Music/Lusine/2007 Language Barrier/04 Stones Throw.mp3
 /Users/Roambot/Dropbox/Music/Lusine/2007 Language Barrier/08 On the Line.mp3
+/Users/Roambot/Dropbox/Music/Lusine/1999 L'usine/02 Scratch.mp3
+/Users/Roambot/Dropbox/Music/Lusine/2000 A Pseudo Steady State/03 Freak.mp3
+/Users/Roambot/Dropbox/Music/Lusine/2000 A Pseudo Steady State/08 Slipthrough.mp3
+/Users/Roambot/Dropbox/Music/Lusine/2001 Slipthrough/03 Slipthrough.mp3
+/Users/Roambot/Dropbox/Music/Lusine/2002 Iron City/05 Numbers.mp3
+/Users/Roambot/Dropbox/Music/Loscil/2001 Triple Point/04 Zero.mp3
+/Users/Roambot/Dropbox/Music/Loscil/2004 First Narrows/07 Cloister.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/1991 Microgravity/06 Chromosphere.mp3
+/Users/Roambot/Dropbox/Music/John Abercrombie, Dave Holland & Jack DeJohnette/2000 Gateway 2/01 Opening.m4a
+/Users/Roambot/Dropbox/Music/John Abercrombie, Dave Holland & Jack DeJohnette/2000 Gateway 2/02 Reminiscence.m4a
+/Users/Roambot/Dropbox/Music/John Abercrombie, Dave Holland & Jack DeJohnette/2000 Gateway 2/03 Sing Song.m4a
+/Users/Roambot/Dropbox/Music/John Abercrombie, Dave Holland & Jack DeJohnette/2000 Gateway 2/04 Nexus.m4a
+/Users/Roambot/Dropbox/Music/John Abercrombie, Dave Holland & Jack DeJohnette/2000 Gateway 2/05 Blue.m4a

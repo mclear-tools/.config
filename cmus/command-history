@@ -1,13 +1,23 @@
+q
+live-filter 
+add ~/Dropbox/Music/
+help
+tag
+tags
+colorscheme green
+colorscheme cyan
+colorscheme default
+colorscheme night
+colorscheme gray-88
+colorscheme zenburn
 add -p
 -p
 add to playlist
-q
 current
 S
 status_display_program=/Users/Roambot/Dropbox/Personal/Hacks/cmus-growl
 status_display_program=/Users/Roambot/Dropbox/Personal/Hacks/cmus-growl/cmus-growl
 clear
-help
 ?
 add
 export HOMEBREW_GITHUB_API_TOKEN=52065f9318f4a9e8c58d8e841a0
