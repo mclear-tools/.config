@@ -118,3 +118,11 @@
 /Users/Roambot/Dropbox/Music/John Abercrombie, Dave Holland & Jack DeJohnette/2000 Gateway 2/03 Sing Song.m4a
 /Users/Roambot/Dropbox/Music/John Abercrombie, Dave Holland & Jack DeJohnette/2000 Gateway 2/04 Nexus.m4a
 /Users/Roambot/Dropbox/Music/John Abercrombie, Dave Holland & Jack DeJohnette/2000 Gateway 2/05 Blue.m4a
+/Users/Roambot/Dropbox/Music/Aarktica/2007 Matchless Years/01 Seventy Jane.flac
+/Users/Roambot/Dropbox/Music/Aarktica/2007 Matchless Years/02 I Name You Sleep.flac
+/Users/Roambot/Dropbox/Music/Aarktica/2007 Matchless Years/03 Intro to Arms.flac
+/Users/Roambot/Dropbox/Music/Aarktica/2007 Matchless Years/04 Arms.flac
+/Users/Roambot/Dropbox/Music/Aarktica/2007 Matchless Years/05 Summer Tabla Dub.flac
+/Users/Roambot/Dropbox/Music/Aarktica/2007 Matchless Years/06 Happiness Boys.flac
+/Users/Roambot/Dropbox/Music/Aarktica/2007 Matchless Years/07 Matchless.flac
+/Users/Roambot/Dropbox/Music/Aarktica/2007 Matchless Years/08 Rooftop Films.flac

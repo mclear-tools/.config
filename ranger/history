@@ -45,6 +45,6 @@ finder
 open
 open_with emacs
 open_with nvim
-delete
 search org
 search inline
+delete
