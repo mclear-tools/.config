@@ -1,4 +1,10 @@
 q
+add /Users/Roambot/Dropbox/Music
+clear 
+set status_display_program=/Users/Roambot/Dropbox/Personal/bin/itunes-notify
+version
+clera
+clear
 live-filter 
 add ~/Dropbox/Music/
 help
@@ -17,7 +23,6 @@ current
 S
 status_display_program=/Users/Roambot/Dropbox/Personal/Hacks/cmus-growl
 status_display_program=/Users/Roambot/Dropbox/Personal/Hacks/cmus-growl/cmus-growl
-clear
 ?
 add
 export HOMEBREW_GITHUB_API_TOKEN=52065f9318f4a9e8c58d8e841a0

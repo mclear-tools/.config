@@ -1,11 +1,3 @@
-/Users/Roambot/Dropbox/Music/Aarktica/2007 Matchless Years/01 Seventy Jane.flac
-/Users/Roambot/Dropbox/Music/Aarktica/2007 Matchless Years/02 I Name You Sleep.flac
-/Users/Roambot/Dropbox/Music/Aarktica/2007 Matchless Years/03 Intro to Arms.flac
-/Users/Roambot/Dropbox/Music/Aarktica/2007 Matchless Years/04 Arms.flac
-/Users/Roambot/Dropbox/Music/Aarktica/2007 Matchless Years/05 Summer Tabla Dub.flac
-/Users/Roambot/Dropbox/Music/Aarktica/2007 Matchless Years/06 Happiness Boys.flac
-/Users/Roambot/Dropbox/Music/Aarktica/2007 Matchless Years/07 Matchless.flac
-/Users/Roambot/Dropbox/Music/Aarktica/2007 Matchless Years/08 Rooftop Films.flac
 /Users/Roambot/Dropbox/Music/Actress/2010 Splazsh/01 Hubble.mp3
 /Users/Roambot/Dropbox/Music/Actress/2010 Splazsh/02 Lost.mp3
 /Users/Roambot/Dropbox/Music/Actress/2010 Splazsh/03 Futureproofing.mp3
@@ -15,11 +7,11 @@
 /Users/Roambot/Dropbox/Music/Actress/2010 Splazsh/07 Maze.mp3
 /Users/Roambot/Dropbox/Music/Actress/2010 Splazsh/08 Purrple Splazsh.mp3
 /Users/Roambot/Dropbox/Music/Actress/2010 Splazsh/09 Senorita.mp3
-/Users/Roambot/Dropbox/Music/Actress/2010 Splazsh/10 Let’s Fly.mp3
 /Users/Roambot/Dropbox/Music/Actress/2010 Splazsh/11 Wrong Potion.mp3
 /Users/Roambot/Dropbox/Music/Actress/2010 Splazsh/12 Supreme Cunnilingus.mp3
 /Users/Roambot/Dropbox/Music/Actress/2010 Splazsh/13 The Kettle Men.mp3
 /Users/Roambot/Dropbox/Music/Actress/2010 Splazsh/14 Casanova.mp3
+/Users/Roambot/Dropbox/Music/Actress/2010 Splazsh/10 Let's Fly.mp3
 /Users/Roambot/Dropbox/Music/Actress/2012 R.I.P_/01 R.I.P_.mp3
 /Users/Roambot/Dropbox/Music/Actress/2012 R.I.P_/02 Ascending.mp3
 /Users/Roambot/Dropbox/Music/Actress/2012 R.I.P_/03 Holy Water.mp3
@@ -99,22 +91,21 @@
 /Users/Roambot/Dropbox/Music/AFX/2005 Analord 11/01 W32.Mydoom.AU@mm.mp3
 /Users/Roambot/Dropbox/Music/AFX/2005 Analord 11/02 VBS.Redlof.B.mp3
 /Users/Roambot/Dropbox/Music/AFX/2005 Analord 11/03 Backdoor.Ranky.S.mp3
-/Users/Roambot/Dropbox/Music/Air/1998 Moon Safari/01 La Femme d’argent.m4a
 /Users/Roambot/Dropbox/Music/Air/1998 Moon Safari/02 Sexy Boy.m4a
 /Users/Roambot/Dropbox/Music/Air/1998 Moon Safari/03 All I Need.m4a
 /Users/Roambot/Dropbox/Music/Air/1998 Moon Safari/04 Kelly, Watch the Stars!.m4a
 /Users/Roambot/Dropbox/Music/Air/1998 Moon Safari/05 Talisman.m4a
 /Users/Roambot/Dropbox/Music/Air/1998 Moon Safari/06 Remember.m4a
 /Users/Roambot/Dropbox/Music/Air/1998 Moon Safari/07 You Make It Easy.mp3
-/Users/Roambot/Dropbox/Music/Air/1998 Moon Safari/08 Ce matin-là.m4a
 /Users/Roambot/Dropbox/Music/Air/1998 Moon Safari/09 New Star in the Sky (Chanson pour Solal).m4a
-/Users/Roambot/Dropbox/Music/Air/1998 Moon Safari/10 Le Voyage de Pénélope.m4a
+/Users/Roambot/Dropbox/Music/Air/1998 Moon Safari/01 La Femme d'argent.m4a
+/Users/Roambot/Dropbox/Music/Air/1998 Moon Safari/08 Ce matin-la.m4a
+/Users/Roambot/Dropbox/Music/Air/1998 Moon Safari/10 Le Voyage de Penelope.m4a
 /Users/Roambot/Dropbox/Music/Air/2000 The Virgin Suicides/01 Playground Love.m4a
 /Users/Roambot/Dropbox/Music/Air/2000 The Virgin Suicides/02 Clouds Up.m4a
 /Users/Roambot/Dropbox/Music/Air/2000 The Virgin Suicides/03 Bathroom Girl.m4a
 /Users/Roambot/Dropbox/Music/Air/2000 The Virgin Suicides/04 Cemetary Party.m4a
 /Users/Roambot/Dropbox/Music/Air/2000 The Virgin Suicides/05 Dark Messages.m4a
-/Users/Roambot/Dropbox/Music/Air/2000 The Virgin Suicides/06 The Word ‘Hurricane’.m4a
 /Users/Roambot/Dropbox/Music/Air/2000 The Virgin Suicides/07 Dirty Trip.m4a
 /Users/Roambot/Dropbox/Music/Air/2000 The Virgin Suicides/08 Highschool Lover (Theme From The Virgin Suicides).m4a
 /Users/Roambot/Dropbox/Music/Air/2000 The Virgin Suicides/09 Afternoon Sister.m4a
@@ -122,209 +113,143 @@
 /Users/Roambot/Dropbox/Music/Air/2000 The Virgin Suicides/11 Empty House.m4a
 /Users/Roambot/Dropbox/Music/Air/2000 The Virgin Suicides/12 Dead Bodies.m4a
 /Users/Roambot/Dropbox/Music/Air/2000 The Virgin Suicides/13 Suicide Underground.m4a
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/01 Three Pieces for Orchestra, Op. 6_ I. Präludium. Langsam.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/02 Three Pieces for Orchestra, Op. 6_ II. Reigen. Anfangs etwas zögernd - Leicht beschwingt.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/03 Three Pieces for Orchestra, Op. 6_ III. Marsch. Mäßiges Marschtempo.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/04 Three Pieces from the _Lyric Suite__ I. Andante amoroso.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/05 Three Pieces from the _Lyric Suite__ II. Allegro misterioso.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/06 Three Pieces from the _Lyric Suite__ III. Adagio appassionato.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/07 Violin Concerto _To the Memory of An Angel__ I. Andante - Allegretto.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/08 Violin Concerto _To the Memory of An Angel__ II. Allegro - Adagio.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/09 Chamber Concerto for Piano and Violin With 13 Wind Instruments_ I. Thema scherzoso con variazioni.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/10 Chamber Concerto for Piano and Violin With 13 Wind Instruments_ II. Adagio.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/11 Chamber Concerto for Piano and Violin With 13 Wind Instruments_ III. Rondo ritmico con introduzione.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/12 Piano Sonata in B Minor, Op. 1.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/13 Four Pieces for Clarinet and Piano, Op. 5_ I. Mäßig.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/14 Four Pieces for Clarinet and Piano, Op. 5_ II. Sehr Langsam.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/15 Four Pieces for Clarinet and Piano, Op. 5_ III. Sehr Rasch.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/16 Four Pieces for Clarinet and Piano, Op.5_ IV. Langsam.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/17 Chamber Concerto for Piano and Violin with 13 Wind Instruments_ II. Adagio.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/18 Wein, Weib und Gesang, Op. 333.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/19 Lyric Suite for String Quartet_ I. Allegretto gioviale.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/20 Lyric Suite for String Quartet_ II. Andante amoroso.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/21 Lyric Suite for String Quartet_ III. Allegro misterioso - Trio estatico.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/22 Lyric Suite for String Quartet_ IV. Adagio Appassionato.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/23 Lyric Suite for String Quartet_ V. Presto Delirando - Tenebroso.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/24 Lyric Suite for String Quartet_ VI. Largo desolato.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/25 String Quartet, Op. 3_ 1. Langsam.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/26 String Quartet, Op. 3_ 2. Mäßige Viertel.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/27 Sieben frühe Lieder_ 1. Nacht.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/28 Sieben frühe Lieder_ 2. Schilflied.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/29 Sieben frühe Lieder_ 3. Die Nachtigall.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/30 Sieben frühe Lieder_ 4. Traumgekrönt.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/31 Sieben frühe Lieder_ 5. Im Zimmer.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/32 Sieben frühe Lieder_ 6. Liebesode.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/33 Sieben frühe Lieder_ 7. Sommertage.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/34 Schließe mir die Augen beide (1907).flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/35 An Leukon (1908).flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/36 Schließe mir die Augen beide (1925).flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/37 Lieder, Op. 2_ 1. Schlafen, schlafen.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/38 Lieder, Op. 2_ 2. Schlafend trägt man mich.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/39 Lieder, Op. 2_ 3. Nun ich der Riesen stärksten überwand.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/40 Lieder, Op. 2_ 4. Warm die Lüfte.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/41 Sieben frühe Lieder_ 1. Nacht.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/42 Sieben frühe Lieder_ 2. Schilflied.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/43 Sieben frühe Lieder_ 3. Die Nachtigall.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/44 Sieben frühe Lieder_ 4. Traumgekrönt.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/45 Sieben frühe Lieder_ 5. Im Zimmer.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/46 Sieben frühe Lieder_ 6. Liebesode.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/47 Sieben frühe Lieder_ 7. Sommertage.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/48 5 Orchesterlieder nach Ansichtskartentexten von Peter Altenberg, Op. 4_ 1. Seele, wie bist du schöner.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/49 5 Orchesterlieder nach Ansichtskartentexten von Peter Altenberg, Op. 4_ 2. Sahst du nach dem Gewitterregen den Wald.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/50 5 Orchesterlieder nach Ansichtskartentexten von Peter Altenberg, Op. 4_ 3. Über die Grenzen des All.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/51 5 Orchesterlieder nach Ansichtskartentexten von Peter Altenberg, Op. 4_ 4. Nichts ist gekommen.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/52 5 Orchesterlieder nach Ansichtskartentexten von Peter Altenberg, Op. 4_ 5. Hier ist Friede.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/53 Der Wein.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/54 Lulu Suite_ 1. Rondo.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/55 Lulu Suite_ 2. Ostinato.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/56 Lulu Suite_ 3. Lulu's Song.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/57 Lulu Suite_ 4. Variations.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/58 Lulu Suite_ 5. Adagio.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/59 Lulu_ Prolog. _Hereinspaziert in die Menagerie_.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/60 Lulu_ Act 1. _Darf ich eintreten__ - _Mein Sohn!_ ... _Wie ist dir__.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/61 Lulu_ Act 1. _Machen Sie auf!_ ... [Interlude] _Wollen Sie mir zuhaken_.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/62 Lulu_ Act 1. _Eva!_ - _Befehlen__ - _Ich finde, du siehst heute reizend aus_.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/63 Lulu_ Act 1. _Den hab' ich mir auch ganz anders vorgestellt_.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/64 Lulu_ Act 1. _Was tut denn Ihr Vater da__ Sonate _Wenn ich ihr Mann wäre_.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/65 Lulu_ Act 1. Monoritmica _Nun__ _ _Du hast eine halbe Million geheiratet_.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/66 Lulu_ Act 1. _Ich darf mich jetzt hier nicht sehen lassen_.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/67 Lulu_ Act 1. Verwandlungsmusik.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/68 Lulu_ Act 1. _Seit ich für die Bühne arbeite_ - _Noch etwas, bitte_.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/69 Lulu_ Act 1. _Über die ließe sich freilich eine interessante Oper schreiben_ ... _ Das hättest du dir besser erspart_.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/70 Lulu_ Act 1. _Wie kannst du die Szene gegen mich ausspielen_ ... _Sehr geehrtes Fräulein .._.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/71 Lulu_ Act 2. _Sie glauben nicht_ - _Könntest du dich für heute nachmittag_.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/72 Lulu_ Act 2. _Gott sei dank, dass wir endlich_ ... _Hast oben abgeschlossen__.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/73 Lulu_ Act 2. _Die Matinée wird, wie ich mir denke_.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/74 Lulu_ Act 2. _Sein Vater!_ ... _Du Kreatur, die mich durch den Strassenkot_.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/75 Lulu_ Act 2. _Wenn sich die Menschen_ ... _Du kannst mich nicht dem Gericht_.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/76 Lulu_ Act 2. Filmmusik.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/77 Lulu_ Act 2. _Er lässt auf sich warten_.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/78 Lulu_ Act 2. _Sie wollten der verrückten Rakete_ - _Mit wem habe ich ... Sie__.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/79 Lulu_ Act 2. _Hü, kleine Lulu_ - _O Freiheit! Herr Gott im Himmel!_.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/80 Lulu_ Act 2. _Wenn deine beiden grossen Kinderaugen_ - _Durch dieses Kleid_.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/81 Lulu_ Act 3. _Meine Herrn und Damen!_ ... _Der Staatsanwalt bezahlt demjenigen_.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/82 Lulu_ Act 3. _Brilliant! Es geht brilliant_.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/83 Lulu_ Act 3. _Einen Moment! Hast du meinen Brief gelesen__.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/84 Lulu_ Act 3. _Ich brauche nämlich notwendig Geld_.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/85 Lulu_ Act 3. _Behandeln sie mich doch wenigstens anständig_.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/86 Lulu_ Act 3. _Martha! Mein liebes Herz, du kannst mich heute vor dem Tode retten_.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/87 Lulu_ Act 3. _Wollen sie wohl diese Aktie akzeptieren_.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/88 Lulu_ Act 3. Verwandlungsmusik.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/89 Lulu_ Act 3. _Der Regen trommelt zur Parade_.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/90 Lulu_ Act 3. _Wenn ich dir ungelegen komme_ - _Ihr Körper stand auf dem Höhepunkt_.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/91 Lulu_ Act 3. _Komm nur herein, mein Schatz_.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/92 Lulu_ Act 3. _Der Herr Doktor haben sich schon zur Ruhe begeben_.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/93 Lulu_ Act 3. _Wer ist das__.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/94 Lulu_ Act 3. _Das ist der letzte Abend_ - _Lulu! Mein Engel!_.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/95 Wozzeck_ Act 1, Scene 1. The Captain's room. _Langsam, Wozzeck, langsam!_.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/96 Wozzeck_ Act 1, Scene 2. An open field outside the town. _Du, der Platz ist verflucht!_ _Ach was!_.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/97 Wozzeck_ Act 1, Scene 3. Marie's room. _Tschin Bum, Tschin Bum, Bum, Bum, Bum! Hörst Bub_ Da kommen sie!_.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/98 Wozzeck_ Act 1, Scene 4. The Doctor's study. _Was erleb ich, Wozzeck__.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/99 Wozzeck_ Act 1, Scene 5. Street before Marie's door. _Geh einmal vor Dich hin!_.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/100 Wozzeck_ Act 2, Scene 1. Marie's room. _Was die Steine glänzen__.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/101 Wozzeck_ Act 2, Scene 2. Street in town. _Wohin so eilig_.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/102 Wozzeck_ Act 2, Scene 3. Street before Marie's door. _Guten Tag, Franz_.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/103 Wozzeck_ Act 2, Scene 4. Tavern garden. _Ich hab' ein Hemdlein an, das ist nicht mein_.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/104 Wozzeck_ Act 2, Scene 5. Guardroom in the barracks. _Oh oh Andres! Andres! Ich kann nicht schlafen_.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/105 Wozzeck_ Act 3, Scene 1. Marie's room. _Und ist kein Betrug_.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/106 Wozzeck_ Act 3, Scene 1. _Und kniete hin zu seinen Fuessen_.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/107 Wozzeck_ Act 3, Scene 2. Forest path by a pool. _Dort links geht's in die Stadt_.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/108 Wozzeck_ Act 3, Scene 3. A low tavern. _Tanzt Alle_.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/109 Wozzeck_ Act 3, Scene 4. Forest path by a pool. _Das Messer_ Wo ist das Messer__.flac
-/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885 – 1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/110 Wozzeck_ Act 3, Scene 5. Street before Marie's door. _Ringel, Ringel, Rosenkranz_.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/01 String Quartet No. 1 in F major, Op. 18 No. 1_ I. Allegro con brio.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/02 String Quartet No. 1 in F major, Op. 18 No. 1_ II. Adagio affettuoso ed appassionato.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/03 String Quartet No. 1 in F major, Op. 18 No. 1_ III. Scherzo_ Allegro molto - Trio.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/04 String Quartet No. 1 in F major, Op. 18 No. 1_ IV. Allegro.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/05 String Quartet No. 7 in F major, Op. 59 No. 1 _Razumovski__ I. Allegro.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/06 String Quartet No. 7 in F major, Op. 59 No. 1 _Razumovski__ II. Allegretto vivace e sempre scherzando.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/07 String Quartet No. 7 in F major, Op. 59 No. 1 _Razumovski__ III. Adagio molto e mesto - IV. Allegro_ Thème russe.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/08 String Quartet No. 2 in G major, Op. 18 No. 2_ I. Allegro.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/09 String Quartet No. 2 in G major, Op. 18 No. 2_ II. Adagio cantabile.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/10 String Quartet No. 2 in G major, Op. 18 No. 2_ III. Scherzo_ Allegro - Trio.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/11 String Quartet No. 2 in G major, Op. 18 No. 2_ IV. Allegro molto, quasi presto.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/12 String Quartet No. 6 in B-flat major, Op. 18 No. 6_ I. Allegro con brio.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/13 String Quartet No. 6 in B-flat major, Op. 18 No. 6_ II. Adagio ma non troppo.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/14 String Quartet No. 6 in B-flat major, Op. 18 No. 6_ III. Scherzo_ Allegro - Trio.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/15 String Quartet No. 6 in B-flat major, Op. 18 No. 6_ IV. _La Malinconia__ Adagio - Allegretto quasi Allegro.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/16 String Quartet No. 16 in F major, Op. 135_ I. Allegretto.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/17 String Quartet No. 16 in F major, Op. 135_ II. Vivace.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/18 String Quartet No. 16 in F major, Op. 135_ III. Lento assai, cantante e tranquillo.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/19 String Quartet No. 16 in F major, Op. 135_ IV. Grave, ma non troppo tratto - Allegro.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/20 String Quartet No. 3 in D major, Op. 18 No. 3_ I. Allegro.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/21 String Quartet No. 3 in D major, Op. 18 No. 3_ II. Andante con moto.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/22 String Quartet No. 3 in D major, Op. 18 No. 3_ III. Allegro.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/23 String Quartet No. 3 in D major, Op. 18 No. 3_ IV. Presto.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/24 String Quartet No. 5 in A major, Op. 18 No. 5_ I. Allegro.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/25 String Quartet No. 5 in A major, Op. 18 No. 5_ II. Menuetto - Trio.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/26 String Quartet No. 5 in A major, Op. 18 No. 5_ III. Andante cantabile.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/27 String Quartet No. 5 in A major, Op. 18 No. 5_ IV. Allegro.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/28 String Quartet No. 11 in F minor, Op. 95 _Serioso__ I. Allegro con brio.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/29 String Quartet No. 11 in F minor, Op. 95 _Serioso__ II. Allegretto ma non troppo.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/30 String Quartet No. 11 in F minor, Op. 95 _Serioso__ III. Allegro assai vivace ma serioso.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/31 String Quartet No. 4 in C minor, Op. 18 No. 4_ I. Allegro ma non tanto.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/32 String Quartet No. 4 in C minor, Op. 18 No. 4_ II. Scherzo_ Andante scherzoso quasi allegretto.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/33 String Quartet No. 4 in C minor, Op. 18 No. 4_ III. Menuetto_ Allegretto - Trio.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/34 String Quartet No. 4 in C minor, Op. 18 No. 4_ IV. Allegro.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/35 String Quartet No. 13 in B-flat minor, Op. 130_ I. Adagio ma non troppo - Allegro.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/36 String Quartet No. 13 in B-flat minor, Op. 130_ II. Presto.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/37 String Quartet No. 13 in B-flat minor, Op. 130_ III. Andante con moto, ma non troppo.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/38 String Quartet No. 13 in B-flat minor, Op. 130_ IV. Alla danza tedesca_ Allegro assai.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/39 String Quartet No. 13 in B-flat minor, Op. 130_ V. Cavatina_ Adagio molto espressivo.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/40 Große Fuge in B-flat major, Op. 133_ Overtura_ Allegro - Allegro - Fuga.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/41 String Quartet No. 13 in B-flat minor, Op. 130_ VI. Finale_ Allegro.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/42 String Quartet No. 8 in E minor, Op. 59 No. 2 _Rasumovsky__ I. Allegro.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/43 String Quartet No. 8 in E minor, Op. 59 No. 2 _Rasumovsky__ II. Molto adagio.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/44 String Quartet No. 8 in E minor, Op. 59 No. 2 _Rasumovsky__ III. Allegretto.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/45 String Quartet No. 8 in E minor, Op. 59 No. 2 _Rasumovsky__ IV. Finale_ Presto.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/46 String Quartet No. 12 in E-flat major, Op. 127_ I. Maestoso - Allegro.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/47 String Quartet No. 12 in E-flat major, Op. 127_ II. Adagio ma non troppo, molto cantabile.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/48 String Quartet No. 12 in E-flat major, Op. 127_ III. Scherzando vivace.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/49 String Quartet No. 12 in E-flat major, Op. 127_ IV. Finale.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/50 String Quartet No. 9 in C major, Op. 59 No. 3 _Rasumovsky__ I. Introduzione_ Andante con moto - Allegro vivace.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/51 String Quartet No. 9 in C major, Op. 59 No. 3 _Rasumovsky__ II. Andante con moto quasi allegretto.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/52 String Quartet No. 9 in C major, Op. 59 No. 3 _Rasumovsky__ III. Menuetto_ Grazioso - Trio.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/53 String Quartet No. 9 in C major, Op. 59 No. 3 _Rasumovsky__ IV. Allegro molto.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/54 String Quartet No. 14 in C-sharp minor, Op. 131_ I. Adagio ma non troppo e molto espressivo.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/55 String Quartet No. 14 in C-sharp minor, Op. 131_ II. Allegro molto vivace.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/56 String Quartet No. 14 in C-sharp minor, Op. 131_ III. Allegro moderato.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/57 String Quartet No. 14 in C-sharp minor, Op. 131_ IV. Andante ma non troppo e molto cantabile.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/58 String Quartet No. 14 in C-sharp minor, Op. 131_ V. Presto.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/59 String Quartet No. 14 in C-sharp minor, Op. 131_ VI. Adagio quasi un poco andante.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/60 String Quartet No. 10 in E-flat major, Op. 74 _Harp__ I. Poco adagio - Allegro.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/61 String Quartet No. 10 in E-flat major, Op. 74 _Harp__ II. Adagio ma non troppo.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/62 String Quartet No. 10 in E-flat major, Op. 74 _Harp__ III. Presto.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/63 String Quartet No. 10 in E-flat major, Op. 74 _Harp__ IV. Allegretto con variazioni.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/64 String Quartet No. 15 in A minor, Op. 132_ I. Allegro sostenuto - Allegro.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/65 String Quartet No. 15 in A minor, Op. 132_ II. Allegro ma non tanto.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/66 String Quartet No. 15 in A minor, Op. 132_ III. Molto adagio.flac
-/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770 - 1827)/Alban Berg Quartett/1999 The Complete String Quartets/67 String Quartet No. 15 in A minor, Op. 132_ IV. Alla marcia, assai vivace.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Alexander Paley/1997 Études (Complete)/01 Étude, op. 2 no. 1.m4a
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Alexander Paley/1997 Études (Complete)/02 12 Études, op. 8_ No. 1, Allegro.m4a
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Alexander Paley/1997 Études (Complete)/03 12 Études, op. 8_ No. 2, A capriccio, con forza.m4a
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Alexander Paley/1997 Études (Complete)/04 12 Études, op. 8_ No. 3, Tempestoso.m4a
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Alexander Paley/1997 Études (Complete)/05 12 Études, op. 8_ No. 4, Piacevole.m4a
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Alexander Paley/1997 Études (Complete)/06 12 Études, op. 8_ No. 5, Brioso.m4a
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Alexander Paley/1997 Études (Complete)/07 12 Études, op. 8_ No. 6, Con grazia.m4a
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Alexander Paley/1997 Études (Complete)/08 12 Études, op. 8_ No. 7, Presto tenebroso, agitato.m4a
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Alexander Paley/1997 Études (Complete)/09 12 Études, op. 8_ No. 8, Lento (Tempo rubato).m4a
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Alexander Paley/1997 Études (Complete)/10 12 Études, op. 8_ No. 9, Alla ballata.m4a
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Alexander Paley/1997 Études (Complete)/11 12 Études, op. 8_ No. 10, Allegro.m4a
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Alexander Paley/1997 Études (Complete)/12 12 Études, op. 8_ No. 11, Andante cantabile.m4a
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Alexander Paley/1997 Études (Complete)/13 12 Études, op. 8_ No. 12, Patetico.m4a
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Alexander Paley/1997 Études (Complete)/14 8 Études, op. 42_ No. 1, Presto.m4a
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Alexander Paley/1997 Études (Complete)/15 8 Études, op. 42_ No. 2.m4a
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Alexander Paley/1997 Études (Complete)/16 8 Études, op. 42_ No. 3, Prestissimo.m4a
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Alexander Paley/1997 Études (Complete)/17 8 Études, op. 42_ No. 4, Andante.m4a
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Alexander Paley/1997 Études (Complete)/18 8 Études, op. 42_ No. 5, Affanato.m4a
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Alexander Paley/1997 Études (Complete)/19 8 Études, op. 42_ No. 6, Esaltato.m4a
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Alexander Paley/1997 Études (Complete)/20 8 Études, op. 42_ No. 7, Agitato.m4a
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Alexander Paley/1997 Études (Complete)/21 8 Études, op. 42_ No. 8, Allegro.m4a
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Alexander Paley/1997 Études (Complete)/22 Étude, op. 49 no. 1.m4a
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Alexander Paley/1997 Études (Complete)/23 Étude, op. 56 no. 4.m4a
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Alexander Paley/1997 Études (Complete)/24 3 Études, op. 65_ No. 1, Allegro fantastico.m4a
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Alexander Paley/1997 Études (Complete)/25 3 Études, op. 65_ No. 2, Allegretto.m4a
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Alexander Paley/1997 Études (Complete)/26 3 Études, op. 65_ No. 3, Molto vivace.m4a
+/Users/Roambot/Dropbox/Music/Air/2000 The Virgin Suicides/06 The Word 'Hurricane'.m4a
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/01 Three Pieces for Orchestra, Op. 6_ I. Praludium. Langsam.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/02 Three Pieces for Orchestra, Op. 6_ II. Reigen. Anfangs etwas zogernd - Leicht beschwingt.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/03 Three Pieces for Orchestra, Op. 6_ III. Marsch. Massiges Marschtempo.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/04 Three Pieces from the _Lyric Suite__ I. Andante amoroso.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/05 Three Pieces from the _Lyric Suite__ II. Allegro misterioso.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/06 Three Pieces from the _Lyric Suite__ III. Adagio appassionato.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/07 Violin Concerto _To the Memory of An Angel__ I. Andante - Allegretto.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/08 Violin Concerto _To the Memory of An Angel__ II. Allegro - Adagio.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/09 Chamber Concerto for Piano and Violin With 13 Wind Instruments_ I. Thema scherzoso con variazioni.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/10 Chamber Concerto for Piano and Violin With 13 Wind Instruments_ II. Adagio.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/11 Chamber Concerto for Piano and Violin With 13 Wind Instruments_ III. Rondo ritmico con introduzione.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/12 Piano Sonata in B Minor, Op. 1.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/13 Four Pieces for Clarinet and Piano, Op. 5_ I. Massig.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/14 Four Pieces for Clarinet and Piano, Op. 5_ II. Sehr Langsam.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/15 Four Pieces for Clarinet and Piano, Op. 5_ III. Sehr Rasch.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/16 Four Pieces for Clarinet and Piano, Op.5_ IV. Langsam.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/17 Chamber Concerto for Piano and Violin with 13 Wind Instruments_ II. Adagio.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/18 Wein, Weib und Gesang, Op. 333.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/19 Lyric Suite for String Quartet_ I. Allegretto gioviale.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/20 Lyric Suite for String Quartet_ II. Andante amoroso.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/21 Lyric Suite for String Quartet_ III. Allegro misterioso - Trio estatico.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/22 Lyric Suite for String Quartet_ IV. Adagio Appassionato.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/23 Lyric Suite for String Quartet_ V. Presto Delirando - Tenebroso.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/24 Lyric Suite for String Quartet_ VI. Largo desolato.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/25 String Quartet, Op. 3_ 1. Langsam.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/26 String Quartet, Op. 3_ 2. Massige Viertel.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/27 Sieben fruhe Lieder_ 1. Nacht.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/28 Sieben fruhe Lieder_ 2. Schilflied.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/29 Sieben fruhe Lieder_ 3. Die Nachtigall.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/30 Sieben fruhe Lieder_ 4. Traumgekront.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/31 Sieben fruhe Lieder_ 5. Im Zimmer.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/32 Sieben fruhe Lieder_ 6. Liebesode.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/33 Sieben fruhe Lieder_ 7. Sommertage.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/34 Schliesse mir die Augen beide (1907).flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/35 An Leukon (1908).flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/36 Schliesse mir die Augen beide (1925).flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/37 Lieder, Op. 2_ 1. Schlafen, schlafen.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/38 Lieder, Op. 2_ 2. Schlafend tragt man mich.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/39 Lieder, Op. 2_ 3. Nun ich der Riesen starksten uberwand.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/40 Lieder, Op. 2_ 4. Warm die Lufte.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/41 Sieben fruhe Lieder_ 1. Nacht.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/42 Sieben fruhe Lieder_ 2. Schilflied.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/43 Sieben fruhe Lieder_ 3. Die Nachtigall.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/44 Sieben fruhe Lieder_ 4. Traumgekront.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/45 Sieben fruhe Lieder_ 5. Im Zimmer.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/46 Sieben fruhe Lieder_ 6. Liebesode.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/47 Sieben fruhe Lieder_ 7. Sommertage.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/48 5 Orchesterlieder nach Ansichtskartentexten von Peter Altenberg, Op. 4_ 1. Seele, wie bist du schoner.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/49 5 Orchesterlieder nach Ansichtskartentexten von Peter Altenberg, Op. 4_ 2. Sahst du nach dem Gewitterregen den Wald.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/50 5 Orchesterlieder nach Ansichtskartentexten von Peter Altenberg, Op. 4_ 3. Uber die Grenzen des All.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/51 5 Orchesterlieder nach Ansichtskartentexten von Peter Altenberg, Op. 4_ 4. Nichts ist gekommen.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/52 5 Orchesterlieder nach Ansichtskartentexten von Peter Altenberg, Op. 4_ 5. Hier ist Friede.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/53 Der Wein.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/54 Lulu Suite_ 1. Rondo.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/55 Lulu Suite_ 2. Ostinato.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/56 Lulu Suite_ 3. Lulu's Song.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/57 Lulu Suite_ 4. Variations.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/58 Lulu Suite_ 5. Adagio.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/59 Lulu_ Prolog. _Hereinspaziert in die Menagerie_.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/60 Lulu_ Act 1. _Darf ich eintreten__ - _Mein Sohn!_ ... _Wie ist dir__.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/61 Lulu_ Act 1. _Machen Sie auf!_ ... [Interlude] _Wollen Sie mir zuhaken_.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/62 Lulu_ Act 1. _Eva!_ - _Befehlen__ - _Ich finde, du siehst heute reizend aus_.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/63 Lulu_ Act 1. _Den hab' ich mir auch ganz anders vorgestellt_.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/64 Lulu_ Act 1. _Was tut denn Ihr Vater da__ Sonate _Wenn ich ihr Mann ware_.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/65 Lulu_ Act 1. Monoritmica _Nun__ _ _Du hast eine halbe Million geheiratet_.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/66 Lulu_ Act 1. _Ich darf mich jetzt hier nicht sehen lassen_.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/67 Lulu_ Act 1. Verwandlungsmusik.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/68 Lulu_ Act 1. _Seit ich fur die Buhne arbeite_ - _Noch etwas, bitte_.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/69 Lulu_ Act 1. _Uber die liesse sich freilich eine interessante Oper schreiben_ ... _ Das hattest du dir besser erspart_.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/70 Lulu_ Act 1. _Wie kannst du die Szene gegen mich ausspielen_ ... _Sehr geehrtes Fraulein .._.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/71 Lulu_ Act 2. _Sie glauben nicht_ - _Konntest du dich fur heute nachmittag_.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/72 Lulu_ Act 2. _Gott sei dank, dass wir endlich_ ... _Hast oben abgeschlossen__.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/73 Lulu_ Act 2. _Die Matinee wird, wie ich mir denke_.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/74 Lulu_ Act 2. _Sein Vater!_ ... _Du Kreatur, die mich durch den Strassenkot_.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/75 Lulu_ Act 2. _Wenn sich die Menschen_ ... _Du kannst mich nicht dem Gericht_.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/76 Lulu_ Act 2. Filmmusik.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/77 Lulu_ Act 2. _Er lasst auf sich warten_.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/78 Lulu_ Act 2. _Sie wollten der verruckten Rakete_ - _Mit wem habe ich ... Sie__.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/79 Lulu_ Act 2. _Hu, kleine Lulu_ - _O Freiheit! Herr Gott im Himmel!_.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/80 Lulu_ Act 2. _Wenn deine beiden grossen Kinderaugen_ - _Durch dieses Kleid_.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/81 Lulu_ Act 3. _Meine Herrn und Damen!_ ... _Der Staatsanwalt bezahlt demjenigen_.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/82 Lulu_ Act 3. _Brilliant! Es geht brilliant_.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/83 Lulu_ Act 3. _Einen Moment! Hast du meinen Brief gelesen__.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/84 Lulu_ Act 3. _Ich brauche namlich notwendig Geld_.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/85 Lulu_ Act 3. _Behandeln sie mich doch wenigstens anstandig_.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/86 Lulu_ Act 3. _Martha! Mein liebes Herz, du kannst mich heute vor dem Tode retten_.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/87 Lulu_ Act 3. _Wollen sie wohl diese Aktie akzeptieren_.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/88 Lulu_ Act 3. Verwandlungsmusik.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/89 Lulu_ Act 3. _Der Regen trommelt zur Parade_.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/90 Lulu_ Act 3. _Wenn ich dir ungelegen komme_ - _Ihr Korper stand auf dem Hohepunkt_.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/91 Lulu_ Act 3. _Komm nur herein, mein Schatz_.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/92 Lulu_ Act 3. _Der Herr Doktor haben sich schon zur Ruhe begeben_.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/93 Lulu_ Act 3. _Wer ist das__.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/94 Lulu_ Act 3. _Das ist der letzte Abend_ - _Lulu! Mein Engel!_.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/95 Wozzeck_ Act 1, Scene 1. The Captain's room. _Langsam, Wozzeck, langsam!_.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/96 Wozzeck_ Act 1, Scene 2. An open field outside the town. _Du, der Platz ist verflucht!_ _Ach was!_.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/97 Wozzeck_ Act 1, Scene 3. Marie's room. _Tschin Bum, Tschin Bum, Bum, Bum, Bum! Horst Bub_ Da kommen sie!_.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/98 Wozzeck_ Act 1, Scene 4. The Doctor's study. _Was erleb ich, Wozzeck__.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/99 Wozzeck_ Act 1, Scene 5. Street before Marie's door. _Geh einmal vor Dich hin!_.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/100 Wozzeck_ Act 2, Scene 1. Marie's room. _Was die Steine glanzen__.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/101 Wozzeck_ Act 2, Scene 2. Street in town. _Wohin so eilig_.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/102 Wozzeck_ Act 2, Scene 3. Street before Marie's door. _Guten Tag, Franz_.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/103 Wozzeck_ Act 2, Scene 4. Tavern garden. _Ich hab' ein Hemdlein an, das ist nicht mein_.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/104 Wozzeck_ Act 2, Scene 5. Guardroom in the barracks. _Oh oh Andres! Andres! Ich kann nicht schlafen_.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/105 Wozzeck_ Act 3, Scene 1. Marie's room. _Und ist kein Betrug_.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/106 Wozzeck_ Act 3, Scene 1. _Und kniete hin zu seinen Fuessen_.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/107 Wozzeck_ Act 3, Scene 2. Forest path by a pool. _Dort links geht's in die Stadt_.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/108 Wozzeck_ Act 3, Scene 3. A low tavern. _Tanzt Alle_.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/109 Wozzeck_ Act 3, Scene 4. Forest path by a pool. _Das Messer_ Wo ist das Messer__.flac
+/Users/Roambot/Dropbox/Music/Classical/Berg, Alban (1885-1935)/Alban Berg/2003 Alban Berg Collection (Deutsche Grammophon Collectors Edition)/110 Wozzeck_ Act 3, Scene 5. Street before Marie's door. _Ringel, Ringel, Rosenkranz_.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Alexander Paley/1997 Etudes (Complete)/01 Etude, op. 2 no. 1.m4a
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Alexander Paley/1997 Etudes (Complete)/02 12 Etudes, op. 8_ No. 1, Allegro.m4a
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Alexander Paley/1997 Etudes (Complete)/03 12 Etudes, op. 8_ No. 2, A capriccio, con forza.m4a
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Alexander Paley/1997 Etudes (Complete)/04 12 Etudes, op. 8_ No. 3, Tempestoso.m4a
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Alexander Paley/1997 Etudes (Complete)/05 12 Etudes, op. 8_ No. 4, Piacevole.m4a
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Alexander Paley/1997 Etudes (Complete)/06 12 Etudes, op. 8_ No. 5, Brioso.m4a
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Alexander Paley/1997 Etudes (Complete)/07 12 Etudes, op. 8_ No. 6, Con grazia.m4a
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Alexander Paley/1997 Etudes (Complete)/08 12 Etudes, op. 8_ No. 7, Presto tenebroso, agitato.m4a
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Alexander Paley/1997 Etudes (Complete)/09 12 Etudes, op. 8_ No. 8, Lento (Tempo rubato).m4a
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Alexander Paley/1997 Etudes (Complete)/10 12 Etudes, op. 8_ No. 9, Alla ballata.m4a
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Alexander Paley/1997 Etudes (Complete)/11 12 Etudes, op. 8_ No. 10, Allegro.m4a
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Alexander Paley/1997 Etudes (Complete)/12 12 Etudes, op. 8_ No. 11, Andante cantabile.m4a
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Alexander Paley/1997 Etudes (Complete)/13 12 Etudes, op. 8_ No. 12, Patetico.m4a
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Alexander Paley/1997 Etudes (Complete)/14 8 Etudes, op. 42_ No. 1, Presto.m4a
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Alexander Paley/1997 Etudes (Complete)/15 8 Etudes, op. 42_ No. 2.m4a
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Alexander Paley/1997 Etudes (Complete)/16 8 Etudes, op. 42_ No. 3, Prestissimo.m4a
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Alexander Paley/1997 Etudes (Complete)/17 8 Etudes, op. 42_ No. 4, Andante.m4a
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Alexander Paley/1997 Etudes (Complete)/18 8 Etudes, op. 42_ No. 5, Affanato.m4a
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Alexander Paley/1997 Etudes (Complete)/19 8 Etudes, op. 42_ No. 6, Esaltato.m4a
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Alexander Paley/1997 Etudes (Complete)/20 8 Etudes, op. 42_ No. 7, Agitato.m4a
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Alexander Paley/1997 Etudes (Complete)/21 8 Etudes, op. 42_ No. 8, Allegro.m4a
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Alexander Paley/1997 Etudes (Complete)/22 Etude, op. 49 no. 1.m4a
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Alexander Paley/1997 Etudes (Complete)/23 Etude, op. 56 no. 4.m4a
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Alexander Paley/1997 Etudes (Complete)/24 3 Etudes, op. 65_ No. 1, Allegro fantastico.m4a
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Alexander Paley/1997 Etudes (Complete)/25 3 Etudes, op. 65_ No. 2, Allegretto.m4a
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Alexander Paley/1997 Etudes (Complete)/26 3 Etudes, op. 65_ No. 3, Molto vivace.m4a
 /Users/Roambot/Dropbox/Music/Alva Noto/2007 Xerrox, Volume 1/01 10-22-38 Astoria.mp3
 /Users/Roambot/Dropbox/Music/Alva Noto/2007 Xerrox, Volume 1/02 Haliod Xerrox Copy 4.mp3
 /Users/Roambot/Dropbox/Music/Alva Noto/2007 Xerrox, Volume 1/03 03-10-06 Astoria.mp3
@@ -350,95 +275,115 @@
 /Users/Roambot/Dropbox/Music/Alva Noto/2009 Xerrox, Volume 2/09 Teion Acat.mp3
 /Users/Roambot/Dropbox/Music/Alva Noto/2009 Xerrox, Volume 2/10 Tek, Part 1.mp3
 /Users/Roambot/Dropbox/Music/Alva Noto/2009 Xerrox, Volume 2/11 Monophaser 3.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/1989 English Suites, BWV 806-811/01 Suite no. 1 in A major, BWV 806_ I. Prelude.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/1989 English Suites, BWV 806-811/02 Suite no. 1 in A major, BWV 806_ II. Allemande.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/1989 English Suites, BWV 806-811/03 Suite no. 1 in A major, BWV 806_ III. Courante I.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/1989 English Suites, BWV 806-811/04 Suite no. 1 in A major, BWV 806_ IV. Courante II.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/1989 English Suites, BWV 806-811/05 Suite no. 1 in A major, BWV 806_ V. Sarabande.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/1989 English Suites, BWV 806-811/06 Suite no. 1 in A major, BWV 806_ VI. Bourree I & Bourree II.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/1989 English Suites, BWV 806-811/07 Suite no. 1 in A major, BWV 806_ VII. Gigue.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/1989 English Suites, BWV 806-811/08 Suite no. 3 in G minor, BWV 808_ I. Prelude.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/1989 English Suites, BWV 806-811/09 Suite no. 3 in G minor, BWV 808_ II. Allemande.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/1989 English Suites, BWV 806-811/10 Suite no. 3 in G minor, BWV 808_ III. Courante.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/1989 English Suites, BWV 806-811/11 Suite no. 3 in G minor, BWV 808_ IV. Sarabande et les agrements de la meme Sarabande.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/1989 English Suites, BWV 806-811/12 Suite no. 3 in G minor, BWV 808_ V. Gavotte I alternativement & Gavotte II ou la Musette.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/1989 English Suites, BWV 806-811/13 Suite no. 3 in G minor, BWV 808_ VI. Gigue.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/1989 English Suites, BWV 806-811/14 Suite no. 5 in E minor, BWV 810_ I. Prelude.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/1989 English Suites, BWV 806-811/15 Suite no. 5 in E minor, BWV 810_ II. Allemande.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/1989 English Suites, BWV 806-811/16 Suite no. 5 in E minor, BWV 810_ III. Courante.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/1989 English Suites, BWV 806-811/17 Suite no. 5 in E minor, BWV 810_ IV. Sarabande.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/1989 English Suites, BWV 806-811/18 Suite no. 5 in E minor, BWV 810_ V. Passepied I en Rondeau & Passepied II.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/1989 English Suites, BWV 806-811/19 Suite no. 5 in E minor, BWV 810_ VI. Gigue.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/1989 English Suites, BWV 806-811/20 Suite no. 2 in A minor, BWV 807_ I. Prelude.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/1989 English Suites, BWV 806-811/21 Suite no. 2 in A minor, BWV 807_ II. Allemande.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/1989 English Suites, BWV 806-811/22 Suite no. 2 in A minor, BWV 807_ III. Courante.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/1989 English Suites, BWV 806-811/23 Suite no. 2 in A minor, BWV 807_ IV. Sarabande et les agrements de la meme Sarabande.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/1989 English Suites, BWV 806-811/24 Suite no. 2 in A minor, BWV 807_ V. Bourree I alternativement & Bourree II.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/1989 English Suites, BWV 806-811/25 Suite no. 2 in A minor, BWV 807_ VI. Gigue.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/1989 English Suites, BWV 806-811/26 Suite no. 4 in F major, BWV 809_ I. Prelude.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/1989 English Suites, BWV 806-811/27 Suite no. 4 in F major, BWV 809_ II. Allemande.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/1989 English Suites, BWV 806-811/28 Suite no. 4 in F major, BWV 809_ III. Courante.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/1989 English Suites, BWV 806-811/29 Suite no. 4 in F major, BWV 809_ IV. Sarabande.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/1989 English Suites, BWV 806-811/30 Suite no. 4 in F major, BWV 809_ V. Menuet I & Menuet II.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/1989 English Suites, BWV 806-811/31 Suite no. 4 in F major, BWV 809_ VI. Gigue.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/1989 English Suites, BWV 806-811/32 Suite no. 6 in D minor, BWV 811_ I. Prelude.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/1989 English Suites, BWV 806-811/33 Suite no. 6 in D minor, BWV 811_ II. Allemande.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/1989 English Suites, BWV 806-811/34 Suite no. 6 in D minor, BWV 811_ III. Courante.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/1989 English Suites, BWV 806-811/35 Suite no. 6 in D minor, BWV 811_ IV. Sarabande & Double.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/1989 English Suites, BWV 806-811/36 Suite no. 6 in D minor, BWV 811_ V. Gavotte I & Gavotte II.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/1989 English Suites, BWV 806-811/37 Suite no. 6 in D minor, BWV 811_ VI. Gigue.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/01 Praeludium.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/02 Allemande.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/03 Corrente.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/04 Sarabande.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/05 Menuet I.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/06 Menuet II.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/07 Gigue.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/08 Sinfonia.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/09 Allemande.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/10 Courante.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/11 Sarabande.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/12 Rondeaux.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/13 Capriccio.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/14 Toccata.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/15 Allemande.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/16 Corrente - Air.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/17 Sarabande.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/18 Tempo Di Gavotta.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/19 Gigue.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/20 Fantasia.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/21 Allemande.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/22 Corrente.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/23 Sarabande - Burlesca.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/24 Scherzo.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/25 Gigue.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/26 Ouverture.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/27 Allemande.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/28 Courante.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/29 Aria.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/30 Sarabande.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/31 Menuet.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/32 Gigue.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/33 Praeambulum.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/34 Allemande.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/35 Corrente.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/36 Sarabande.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/37 Tempo Di Minuetta.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/38 Passepied.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/39 Gigue.mp3
-/Users/Roambot/Dropbox/Music/Aphex Twin/1993 Selected Ambient Works 85–92/01 Xtal.mp3
-/Users/Roambot/Dropbox/Music/Aphex Twin/1993 Selected Ambient Works 85–92/02 Tha.mp3
-/Users/Roambot/Dropbox/Music/Aphex Twin/1993 Selected Ambient Works 85–92/03 Pulsewidth.mp3
-/Users/Roambot/Dropbox/Music/Aphex Twin/1993 Selected Ambient Works 85–92/04 Ageispolis.mp3
-/Users/Roambot/Dropbox/Music/Aphex Twin/1993 Selected Ambient Works 85–92/05 i.mp3
-/Users/Roambot/Dropbox/Music/Aphex Twin/1993 Selected Ambient Works 85–92/06 Green Calx.mp3
-/Users/Roambot/Dropbox/Music/Aphex Twin/1993 Selected Ambient Works 85–92/07 Heliosphan.mp3
-/Users/Roambot/Dropbox/Music/Aphex Twin/1993 Selected Ambient Works 85–92/08 We Are the Music Makers.mp3
-/Users/Roambot/Dropbox/Music/Aphex Twin/1993 Selected Ambient Works 85–92/09 Schottkey 7th Path.mp3
-/Users/Roambot/Dropbox/Music/Aphex Twin/1993 Selected Ambient Works 85–92/10 Ptolemy.mp3
-/Users/Roambot/Dropbox/Music/Aphex Twin/1993 Selected Ambient Works 85–92/11 Hedphelym.mp3
-/Users/Roambot/Dropbox/Music/Aphex Twin/1993 Selected Ambient Works 85–92/12 Delphium.mp3
-/Users/Roambot/Dropbox/Music/Aphex Twin/1993 Selected Ambient Works 85–92/13 Actium.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/1989 English Suites, BWV 806-811/01 Suite no. 1 in A major, BWV 806_ I. Prelude.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/1989 English Suites, BWV 806-811/02 Suite no. 1 in A major, BWV 806_ II. Allemande.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/1989 English Suites, BWV 806-811/03 Suite no. 1 in A major, BWV 806_ III. Courante I.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/1989 English Suites, BWV 806-811/04 Suite no. 1 in A major, BWV 806_ IV. Courante II.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/1989 English Suites, BWV 806-811/05 Suite no. 1 in A major, BWV 806_ V. Sarabande.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/1989 English Suites, BWV 806-811/06 Suite no. 1 in A major, BWV 806_ VI. Bourree I & Bourree II.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/1989 English Suites, BWV 806-811/07 Suite no. 1 in A major, BWV 806_ VII. Gigue.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/1989 English Suites, BWV 806-811/08 Suite no. 3 in G minor, BWV 808_ I. Prelude.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/1989 English Suites, BWV 806-811/09 Suite no. 3 in G minor, BWV 808_ II. Allemande.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/1989 English Suites, BWV 806-811/10 Suite no. 3 in G minor, BWV 808_ III. Courante.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/1989 English Suites, BWV 806-811/11 Suite no. 3 in G minor, BWV 808_ IV. Sarabande et les agrements de la meme Sarabande.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/1989 English Suites, BWV 806-811/12 Suite no. 3 in G minor, BWV 808_ V. Gavotte I alternativement & Gavotte II ou la Musette.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/1989 English Suites, BWV 806-811/13 Suite no. 3 in G minor, BWV 808_ VI. Gigue.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/1989 English Suites, BWV 806-811/14 Suite no. 5 in E minor, BWV 810_ I. Prelude.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/1989 English Suites, BWV 806-811/15 Suite no. 5 in E minor, BWV 810_ II. Allemande.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/1989 English Suites, BWV 806-811/16 Suite no. 5 in E minor, BWV 810_ III. Courante.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/1989 English Suites, BWV 806-811/17 Suite no. 5 in E minor, BWV 810_ IV. Sarabande.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/1989 English Suites, BWV 806-811/18 Suite no. 5 in E minor, BWV 810_ V. Passepied I en Rondeau & Passepied II.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/1989 English Suites, BWV 806-811/19 Suite no. 5 in E minor, BWV 810_ VI. Gigue.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/1989 English Suites, BWV 806-811/20 Suite no. 2 in A minor, BWV 807_ I. Prelude.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/1989 English Suites, BWV 806-811/21 Suite no. 2 in A minor, BWV 807_ II. Allemande.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/1989 English Suites, BWV 806-811/22 Suite no. 2 in A minor, BWV 807_ III. Courante.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/1989 English Suites, BWV 806-811/23 Suite no. 2 in A minor, BWV 807_ IV. Sarabande et les agrements de la meme Sarabande.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/1989 English Suites, BWV 806-811/24 Suite no. 2 in A minor, BWV 807_ V. Bourree I alternativement & Bourree II.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/1989 English Suites, BWV 806-811/25 Suite no. 2 in A minor, BWV 807_ VI. Gigue.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/1989 English Suites, BWV 806-811/26 Suite no. 4 in F major, BWV 809_ I. Prelude.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/1989 English Suites, BWV 806-811/27 Suite no. 4 in F major, BWV 809_ II. Allemande.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/1989 English Suites, BWV 806-811/28 Suite no. 4 in F major, BWV 809_ III. Courante.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/1989 English Suites, BWV 806-811/29 Suite no. 4 in F major, BWV 809_ IV. Sarabande.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/1989 English Suites, BWV 806-811/30 Suite no. 4 in F major, BWV 809_ V. Menuet I & Menuet II.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/1989 English Suites, BWV 806-811/31 Suite no. 4 in F major, BWV 809_ VI. Gigue.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/1989 English Suites, BWV 806-811/32 Suite no. 6 in D minor, BWV 811_ I. Prelude.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/1989 English Suites, BWV 806-811/33 Suite no. 6 in D minor, BWV 811_ II. Allemande.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/1989 English Suites, BWV 806-811/34 Suite no. 6 in D minor, BWV 811_ III. Courante.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/1989 English Suites, BWV 806-811/35 Suite no. 6 in D minor, BWV 811_ IV. Sarabande & Double.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/1989 English Suites, BWV 806-811/36 Suite no. 6 in D minor, BWV 811_ V. Gavotte I & Gavotte II.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/1989 English Suites, BWV 806-811/37 Suite no. 6 in D minor, BWV 811_ VI. Gigue.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/01 Praeludium.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/02 Allemande.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/03 Corrente.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/04 Sarabande.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/05 Menuet I.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/06 Menuet II.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/07 Gigue.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/08 Sinfonia.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/09 Allemande.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/10 Courante.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/11 Sarabande.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/12 Rondeaux.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/13 Capriccio.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/14 Toccata.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/15 Allemande.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/16 Corrente - Air.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/17 Sarabande.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/18 Tempo Di Gavotta.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/19 Gigue.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/20 Fantasia.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/21 Allemande.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/22 Corrente.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/23 Sarabande - Burlesca.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/24 Scherzo.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/25 Gigue.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/26 Ouverture.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/27 Allemande.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/28 Courante.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/29 Aria.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/30 Sarabande.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/31 Menuet.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/32 Gigue.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/33 Praeambulum.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/34 Allemande.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/35 Corrente.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/36 Sarabande.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/37 Tempo Di Minuetta.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/38 Passepied.mp3
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Andras Schiff/2007 6 Partitas, BWV 825-830/39 Gigue.mp3
+/Users/Roambot/Dropbox/Music/Anne Sofie von Otter & Brad Mehldau/2010 Love Songs/01 It May Not Always Be So.mp3
+/Users/Roambot/Dropbox/Music/Anne Sofie von Otter & Brad Mehldau/2010 Love Songs/02 We Met at the End of the Party.mp3
+/Users/Roambot/Dropbox/Music/Anne Sofie von Otter & Brad Mehldau/2010 Love Songs/03 Child, Child.mp3
+/Users/Roambot/Dropbox/Music/Anne Sofie von Otter & Brad Mehldau/2010 Love Songs/04 Twilight.mp3
+/Users/Roambot/Dropbox/Music/Anne Sofie von Otter & Brad Mehldau/2010 Love Songs/05 Because.mp3
+/Users/Roambot/Dropbox/Music/Anne Sofie von Otter & Brad Mehldau/2010 Love Songs/06 Dreams.mp3
+/Users/Roambot/Dropbox/Music/Anne Sofie von Otter & Brad Mehldau/2010 Love Songs/07 Did You Never Know_.mp3
+/Users/Roambot/Dropbox/Music/Anne Sofie von Otter & Brad Mehldau/2010 Love Songs/08 Avec le temps.mp3
+/Users/Roambot/Dropbox/Music/Anne Sofie von Otter & Brad Mehldau/2010 Love Songs/09 Pierre.mp3
+/Users/Roambot/Dropbox/Music/Anne Sofie von Otter & Brad Mehldau/2010 Love Songs/10 Marcie.mp3
+/Users/Roambot/Dropbox/Music/Anne Sofie von Otter & Brad Mehldau/2010 Love Songs/11 Something Good.mp3
+/Users/Roambot/Dropbox/Music/Anne Sofie von Otter & Brad Mehldau/2010 Love Songs/12 Chanson de Maxence (from Les Demoiselles de Rochefort).mp3
+/Users/Roambot/Dropbox/Music/Anne Sofie von Otter & Brad Mehldau/2010 Love Songs/13 Chanson des vieux amants.mp3
+/Users/Roambot/Dropbox/Music/Anne Sofie von Otter & Brad Mehldau/2010 Love Songs/14 Sakta vi ga genom stan (Walking My Baby Back Home).mp3
+/Users/Roambot/Dropbox/Music/Anne Sofie von Otter & Brad Mehldau/2010 Love Songs/15 Att angora en brygga.mp3
+/Users/Roambot/Dropbox/Music/Anne Sofie von Otter & Brad Mehldau/2010 Love Songs/16 Dis, quand reviendras-tu_.mp3
+/Users/Roambot/Dropbox/Music/Anne Sofie von Otter & Brad Mehldau/2010 Love Songs/17 What Are You Doing the Rest of Your Life_ (from The Happy Ending).mp3
+/Users/Roambot/Dropbox/Music/Anne Sofie von Otter & Brad Mehldau/2010 Love Songs/18 Calling You (from Bagdad Cafe).mp3
+/Users/Roambot/Dropbox/Music/Anne Sofie von Otter & Brad Mehldau/2010 Love Songs/19 Blackbird.mp3
+/Users/Roambot/Dropbox/Music/Anne Sofie von Otter & Brad Mehldau/2010 Love Songs/20 Some Other Time.mp3
+/Users/Roambot/Dropbox/Music/Aphex Twin/1993 Selected Ambient Works 85-92/01 Xtal.mp3
+/Users/Roambot/Dropbox/Music/Aphex Twin/1993 Selected Ambient Works 85-92/02 Tha.mp3
+/Users/Roambot/Dropbox/Music/Aphex Twin/1993 Selected Ambient Works 85-92/03 Pulsewidth.mp3
+/Users/Roambot/Dropbox/Music/Aphex Twin/1993 Selected Ambient Works 85-92/04 Ageispolis.mp3
+/Users/Roambot/Dropbox/Music/Aphex Twin/1993 Selected Ambient Works 85-92/05 i.mp3
+/Users/Roambot/Dropbox/Music/Aphex Twin/1993 Selected Ambient Works 85-92/06 Green Calx.mp3
+/Users/Roambot/Dropbox/Music/Aphex Twin/1993 Selected Ambient Works 85-92/07 Heliosphan.mp3
+/Users/Roambot/Dropbox/Music/Aphex Twin/1993 Selected Ambient Works 85-92/08 We Are the Music Makers.mp3
+/Users/Roambot/Dropbox/Music/Aphex Twin/1993 Selected Ambient Works 85-92/09 Schottkey 7th Path.mp3
+/Users/Roambot/Dropbox/Music/Aphex Twin/1993 Selected Ambient Works 85-92/10 Ptolemy.mp3
+/Users/Roambot/Dropbox/Music/Aphex Twin/1993 Selected Ambient Works 85-92/11 Hedphelym.mp3
+/Users/Roambot/Dropbox/Music/Aphex Twin/1993 Selected Ambient Works 85-92/12 Delphium.mp3
+/Users/Roambot/Dropbox/Music/Aphex Twin/1993 Selected Ambient Works 85-92/13 Actium.mp3
 /Users/Roambot/Dropbox/Music/Aphex Twin/1994 Selected Ambient Works, Volume II/01 [Cliffs].mp3
 /Users/Roambot/Dropbox/Music/Aphex Twin/1994 Selected Ambient Works, Volume II/02 [Radiator].mp3
 /Users/Roambot/Dropbox/Music/Aphex Twin/1994 Selected Ambient Works, Volume II/03 [Rhubarb].mp3
@@ -467,18 +412,18 @@
 /Users/Roambot/Dropbox/Music/Aphex Twin/1995 Donkey Rhubarb/02 Vaz Deferenz.mp3
 /Users/Roambot/Dropbox/Music/Aphex Twin/1995 Donkey Rhubarb/03 Icct Hedral (Philip Glass Orchestration).mp3
 /Users/Roambot/Dropbox/Music/Aphex Twin/1995 Donkey Rhubarb/04 Pancake Lizard.mp3
-/Users/Roambot/Dropbox/Music/Aphex Twin/1995 …I Care Because You Do/01 Acrid Avid Jam Shred.mp3
-/Users/Roambot/Dropbox/Music/Aphex Twin/1995 …I Care Because You Do/02 The Waxen Pith.mp3
-/Users/Roambot/Dropbox/Music/Aphex Twin/1995 …I Care Because You Do/03 Wax the Nip.mp3
-/Users/Roambot/Dropbox/Music/Aphex Twin/1995 …I Care Because You Do/04 Icct Hedral (edit).mp3
-/Users/Roambot/Dropbox/Music/Aphex Twin/1995 …I Care Because You Do/05 Ventolin (video version).mp3
-/Users/Roambot/Dropbox/Music/Aphex Twin/1995 …I Care Because You Do/06 Come On You Slags!.mp3
-/Users/Roambot/Dropbox/Music/Aphex Twin/1995 …I Care Because You Do/07 Start as You Mean to Go On.mp3
-/Users/Roambot/Dropbox/Music/Aphex Twin/1995 …I Care Because You Do/08 Wet Tip Hen Ax.mp3
-/Users/Roambot/Dropbox/Music/Aphex Twin/1995 …I Care Because You Do/09 Mookid.mp3
-/Users/Roambot/Dropbox/Music/Aphex Twin/1995 …I Care Because You Do/10 Alberto Balsalm.mp3
-/Users/Roambot/Dropbox/Music/Aphex Twin/1995 …I Care Because You Do/11 Cow Cud Is a Twin.mp3
-/Users/Roambot/Dropbox/Music/Aphex Twin/1995 …I Care Because You Do/12 Next Heap With.mp3
+/Users/Roambot/Dropbox/Music/Aphex Twin/1995 ...I Care Because You Do/01 Acrid Avid Jam Shred.mp3
+/Users/Roambot/Dropbox/Music/Aphex Twin/1995 ...I Care Because You Do/02 The Waxen Pith.mp3
+/Users/Roambot/Dropbox/Music/Aphex Twin/1995 ...I Care Because You Do/03 Wax the Nip.mp3
+/Users/Roambot/Dropbox/Music/Aphex Twin/1995 ...I Care Because You Do/04 Icct Hedral (edit).mp3
+/Users/Roambot/Dropbox/Music/Aphex Twin/1995 ...I Care Because You Do/05 Ventolin (video version).mp3
+/Users/Roambot/Dropbox/Music/Aphex Twin/1995 ...I Care Because You Do/06 Come On You Slags!.mp3
+/Users/Roambot/Dropbox/Music/Aphex Twin/1995 ...I Care Because You Do/07 Start as You Mean to Go On.mp3
+/Users/Roambot/Dropbox/Music/Aphex Twin/1995 ...I Care Because You Do/08 Wet Tip Hen Ax.mp3
+/Users/Roambot/Dropbox/Music/Aphex Twin/1995 ...I Care Because You Do/09 Mookid.mp3
+/Users/Roambot/Dropbox/Music/Aphex Twin/1995 ...I Care Because You Do/10 Alberto Balsalm.mp3
+/Users/Roambot/Dropbox/Music/Aphex Twin/1995 ...I Care Because You Do/11 Cow Cud Is a Twin.mp3
+/Users/Roambot/Dropbox/Music/Aphex Twin/1995 ...I Care Because You Do/12 Next Heap With.mp3
 /Users/Roambot/Dropbox/Music/Aphex Twin/1996 Richard D. James Album/01 4.mp3
 /Users/Roambot/Dropbox/Music/Aphex Twin/1996 Richard D. James Album/02 Cornish Acid.mp3
 /Users/Roambot/Dropbox/Music/Aphex Twin/1996 Richard D. James Album/03 Peek 824545201.mp3
@@ -491,9 +436,9 @@
 /Users/Roambot/Dropbox/Music/Aphex Twin/1996 Richard D. James Album/10 Logan Rock Witch.mp3
 /Users/Roambot/Dropbox/Music/Aphex Twin/1996 Richard D. James Album/11 Milk Man.mp3
 /Users/Roambot/Dropbox/Music/Aphex Twin/1996 Richard D. James Album/12 Inkey$.mp3
-/Users/Roambot/Dropbox/Music/Aphex Twin/1996 Richard D. James Album/13 Girl_Boy Song (£18 Snare Rush mix).mp3
 /Users/Roambot/Dropbox/Music/Aphex Twin/1996 Richard D. James Album/14 Beetles.mp3
 /Users/Roambot/Dropbox/Music/Aphex Twin/1996 Richard D. James Album/15 Girl_Boy Song (Redruth mix).mp3
+/Users/Roambot/Dropbox/Music/Aphex Twin/1996 Richard D. James Album/13 Girl_Boy Song (PS18 Snare Rush mix).mp3
 /Users/Roambot/Dropbox/Music/Aphex Twin/1997 Come to Daddy/01 Come to Daddy (Pappy mix).mp3
 /Users/Roambot/Dropbox/Music/Aphex Twin/1997 Come to Daddy/02 Flim.mp3
 /Users/Roambot/Dropbox/Music/Aphex Twin/1997 Come to Daddy/03 Come to Daddy (Little Lord Faulteroy mix).mp3
@@ -501,9 +446,9 @@
 /Users/Roambot/Dropbox/Music/Aphex Twin/1997 Come to Daddy/05 To Cure a Weakling Child (Contour Regard).mp3
 /Users/Roambot/Dropbox/Music/Aphex Twin/1997 Come to Daddy/06 Funny Little Man.mp3
 /Users/Roambot/Dropbox/Music/Aphex Twin/1997 Come to Daddy/07 Come to Daddy (Mummy mix).mp3
-/Users/Roambot/Dropbox/Music/Aphex Twin/1997 Come to Daddy/08 IZ‐US.mp3
+/Users/Roambot/Dropbox/Music/Aphex Twin/1997 Come to Daddy/08 IZ-US.mp3
 /Users/Roambot/Dropbox/Music/Aphex Twin/1999 Windowlicker/01 Windowlicker.mp3
-/Users/Roambot/Dropbox/Music/Aphex Twin/1999 Windowlicker/02 ∆Mᵢ⁻¹ = −∂ ∑ Dᵢ[n] [∑ Fⱼᵢ[n−1] + F extᵢ[n⁻¹]].mp3
+/Users/Roambot/Dropbox/Music/Aphex Twin/1999 Windowlicker/02 [_]M-1 = -[_] [_] D[n] [[_] F[n-1] + F ext[n-1]].mp3
 /Users/Roambot/Dropbox/Music/Aphex Twin/1999 Windowlicker/03 Nannou.mp3
 /Users/Roambot/Dropbox/Music/Aphex Twin/2001 Drukqs/01 Jynweythek.mp3
 /Users/Roambot/Dropbox/Music/Aphex Twin/2001 Drukqs/02 Vordhosbn.mp3
@@ -594,160 +539,160 @@
 /Users/Roambot/Dropbox/Music/Arovane/2004 Lilies/07 Tokyo Ghost Stories.mp3
 /Users/Roambot/Dropbox/Music/Arovane/2004 Lilies/08 Instant Gods Out of the Box.mp3
 /Users/Roambot/Dropbox/Music/Arovane/2004 Lilies/09 Good Bye Forever.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/01 Nocturne No. 1 in B-flat minor, Op. 9 No. 1.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/02 Nocturne No. 2 in E-flat major, Op. 9 No. 2.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/03 Nocturne No. 3 in B major, Op. 9 No. 3.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/04 Nocturne No. 4 in F major, Op. 15 No. 1.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/05 Nocturne No. 5 in F-sharp major, Op. 15 No. 2.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/06 Nocturne No. 6 in G minor, Op. 15 No. 3.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/07 Nocturne No. 7 in C-sharp minor, Op. 27 No. 1.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/08 Nocturne No. 8 in D-flat major, Op. 27 No. 2.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/09 Nocturne No. 9 in B major, Op. 32 No. 1.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/10 Nocturne No. 10 in A-flat major, Op. 32 No. 2.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/11 Nocturne No. 11 in G minor, Op. 37 No. 1.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/12 Nocturne No. 12 in G major, Op. 37 No. 2.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/13 Nocturne No. 13 in C minor, Op. 48 No. 1.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/14 Nocturne No. 14 in F-sharp minor, Op. 48 No. 2.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/15 Nocturne No. 15 in F minor, Op. 55 No. 1.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/16 Nocturne No. 16 in E-flat major, Op. 55 No. 2.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/17 Nocturne No. 17 in B major, Op. 62 No. 1.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/18 Nocturne No. 18 in E major, Op. 62 No. 2.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/19 Nocturne No. 19 in E minor, Op. 72 No. 1.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/20 Mazurka in F-sharp minor, Op. 6 No. 1.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/21 Mazurka in C-sharp minor, Op. 6 No. 2.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/22 Mazurka in E major, Op. 6 No. 3.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/23 Mazurka in E-flat minor, Op. 6 No. 4.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/24 Mazurka in B-flat major, Op. 7 No. 1.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/25 Mazurka in A minor, Op. 7 No. 2.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/26 Mazurka in F minor, Op. 7 No. 3.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/27 Mazurka in A-flat major, Op. 7 No. 4.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/28 Mazurka in C major, Op. 7 No. 5.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/29 Mazurka in B-flat major, Op. 17 No. 1.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/30 Mazurka in E minor, Op. 17 No. 2.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/31 Mazurka in A-flat major, Op. 17 No. 3.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/32 Mazurka in A minor, Op. 17 No. 4.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/33 Mazurka in G minor, Op. 24 No. 1.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/34 Mazurka in C major, Op. 24 No. 2.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/35 Mazurka in A-flat major, Op. 24 No. 3.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/36 Mazurka in B-flat minor, Op. 24 No. 4.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/37 Mazurka in C minor, Op. 30 No. 1.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/38 Mazurka in B minor, Op. 30 No. 2.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/39 Mazurka in D-flat major, Op. 30 No. 3.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/40 Mazurka in C-sharp minor, Op. 30 No. 4.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/41 Mazurka in G-sharp minor, Op. 33 No. 1.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/42 Mazurka in D major, Op. 33 No. 2.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/43 Mazurka in C major, Op. 33 No. 3.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/44 Mazurka in B minor, Op. 33 No. 4.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/45 Mazurka in C-sharp minor, Op. 41 No. 1.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/46 Mazurka in E minor, Op. 41 No. 2.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/47 Mazurka in B major, Op. 41 No. 3.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/48 Mazurka in A-flat major, Op. 41 No. 4.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/49 Mazurka in G major, Op. 50 No. 1.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/50 Mazurka in A-flat major, Op. 50 No. 2.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/51 Mazurka in C-sharp minor, Op. 50 No. 3.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/52 Mazurka in B major, Op. 56 No. 1.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/53 Mazurka in C major, Op. 56 No. 2.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/54 Mazurka in C minor, Op. 56 No. 3.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/55 Mazurka in A minor, Op. 59 No. 1.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/56 Mazurka in A-flat major, Op. 59 No. 2.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/57 Mazurka in F-sharp minor, Op. 59 No. 3.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/58 Mazurka in B major, Op. 63 No. 1.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/59 Mazurka in F minor, Op. 63 No. 2.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/60 Mazurka in C-sharp minor, Op. 63 No. 3.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/61 Mazurka in A minor, Op. Post. _à Emile Gaillard_.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/62 Mazurka in A minor, Op. Post. _Notre temps_.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/63 Mazurka in G major, Op. 67 No. 1.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/64 Mazurka in G minor, Op. 67 No. 2.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/65 Mazurka in C major, Op. 67 No. 3.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/66 Mazurka in A minor, Op. 67 No. 4.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/67 Mazurka in C major, Op. 68 No. 1.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/68 Mazurka in A minor, Op. 68 No. 2.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/69 Mazurka in F major, Op. 68 No. 3.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/70 Mazurka in F minor, Op. 68 No. 4.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/71 Ballade No. 1 in G minor, Op. 23.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/72 Ballade No. 2 in F major, Op. 38.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/73 Ballade No. 3 in A-flat major, Op. 47.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/74 Ballade No. 4 in F minor, Op. 52.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/75 Scherzo No. 1 in B minor, Op. 20.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/76 Scherzo No. 2 in B-flat minor, Op. 31.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/77 Scherzo No. 3 in C-sharp minor, Op. 39.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/78 Scherzo No. 4 in E major, Op. 54.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/79 Polonaise in C-sharp minor, Op. 26 No. 1.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/80 Polonaise in E-flat minor, Op. 26 No. 2.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/81 Polonaise in A major, Op. 40 No. 1 _Military_.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/82 Polonaise in C minor, Op. 40 No. 2.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/83 Polonaise in F-sharp minor, Op. 44.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/84 Polonaise in A-flat major, Op. 53 _Heroic_.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/85 Polonaise-Fantaisie in A-flat major, Op. 61.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/86 Sonata No. 2 in B-flat minor, Op. 35 _Funeral March__ I. Grave. Doppio movimento.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/87 Sonata No. 2 in B-flat minor, Op. 35 _Funeral March__ II. Scherzo.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/88 Sonata No. 2 in B-flat minor, Op. 35 _Funeral March__ III. Marche funèbre. Lento.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/89 Sonata No. 2 in B-flat minor, Op. 35 _Funeral March__ IV. Finale. Presto.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/90 Sonata No. 3 in B minor, Op. 58_ I. Allegro maestoso.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/91 Sonata No. 3 in B minor, Op. 58_ II. Scherzo. Molto vivace.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/92 Sonata No. 3 in B minor, Op. 58_ III. Largo.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/93 Sonata No. 3 in B minor, Op. 58_ IV. Finale. Presto, non tanto.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/94 Fantaisie in F minor, Op. 49.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/95 Piano Concerto No. 1 in E minor, Op. 11_ I. Allegro maestoso.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/96 Piano Concerto No. 1 in E minor, Op. 11_ II. Romance. Larghetto.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/97 Piano Concerto No. 1 in E minor, Op. 11_ III. Rondo. Vivace.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/98 Piano Concerto No. 2 in F minor, Op. 21_ I. Maestoso.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/99 Piano Concerto No. 2 in F minor, Op. 21_ II. Larghetto.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/100 Piano Concerto No. 2 in F minor, Op. 21_ III. Allegro vivace.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/101 Waltz No. 1 in E-flat major, Op. 18 _Grande Valse Brillante_.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/102 Waltz No. 2 in A-flat major, Op. 34 No. 1 _Valse Brillante_.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/103 Waltz No. 3 in A minor, Op. 34 No. 2 _Valse Brillante_.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/104 Waltz No. 4 in F major, Op. 34 No. 3 _Valse Brillante_.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/105 Waltz No. 5 in A-flat major, Op. 42 _Two-Four_.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/106 Waltz No. 6 in D-flat major, Op. 64 No. 1 _Minute_.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/107 Waltz No. 7 in C-sharp minor, Op. 64 No. 2.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/108 Waltz No. 8 in A-flat major, Op. 64 No. 3.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/109 Waltz No. 9 in A-flat major, Op. 69 No. 1 _L'Adieu_.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/110 Waltz No. 10 in B minor, Op. 69 No. 2.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/111 Waltz No. 11 in G-flat major, Op. 70 No. 1.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/112 Waltz No. 12 in F minor, Op. 70 No. 2.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/113 Waltz No. 13 in D-flat major, Op. 70 No. 3.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/114 Waltz No. 14 in E minor, Op. Posth_.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/115 Impromptu in A-flat major, Op. 29 No. 1.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/116 Impromptu in F-sharp major, Op. 36 No. 2.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/117 Impromptu in G-flat major, Op. 51 No. 3.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/118 Impromptu in C-sharp minor, Op. 66 No. 4 _Fantaisie-Impromptu_.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/119 Barcarolle in F-sharp major, Op. 60.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/120 Trois Nouvelles Etudes, Op. Posth_.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/121 Bolero in A minor, Op. 19.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/122 Berceuse in D-flat major, Op. 57.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/123 Tarentelle in A-flat major, Op. 43.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/124 Andante spianato and Grande Polonaise in E-flat major, Op. 22.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/125 Prelude in C major, Op. 28 No. 1.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/126 Prelude in A minor, Op. 28 No. 2.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/127 Prelude in G major, Op. 28 No. 3.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/128 Prelude in E minor, Op. 28 No. 4.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/129 Prelude in D major, Op. 28 No. 5.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/130 Prelude in B minor, Op. 28 No. 6.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/131 Prelude in A major, Op. 28 No. 7.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/132 Prelude in F-sharp minor, Op. 28 No. 8.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/133 Prelude in E major, Op. 28 No. 9.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/134 Prelude in C-sharp minor, Op. 28 No. 10.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/135 Prelude in B major, Op. 28 No. 11.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/136 Prelude in G-sharp minor, Op. 28 No. 12.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/137 Prelude in F-sharp major, Op. 28 No. 13.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/138 Prelude in E-flat minor, Op. 28 No. 14.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/139 Prelude in D-flat major, Op. 28 No. 15 _Raindrop_.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/140 Prelude in B-flat minor, Op. 28 No. 16.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/141 Prelude in A-flat major, Op. 28 No. 17.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/142 Prelude in F minor, Op. 28 No. 18.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/143 Prelude in E-flat major, Op. 28 No. 19.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/144 Prelude in C minor, Op. 28 No. 20.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/145 Prelude in B-flat major, Op. 28 No. 21.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/146 Prelude in G minor, Op. 28 No. 22.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/147 Prelude in F major, Op. 28 No. 23.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/148 Prelude in D minor, Op. 28 No. 24.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/149 Sonata in B-flat minor, Op. 35 No. 2 _Funeral March__ I. Grave - Doppio movimento.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/150 Sonata in B-flat minor, Op. 35 No. 2 _Funeral March__ II. Scherzo.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/151 Sonata in B-flat minor, Op. 35 No. 2 _Funeral March__ III. Marche funebre. Lento.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/152 Sonata in B-flat minor, Op. 35 No. 2 _Funeral March__ IV. Finale. Presto.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/153 Berceuse in D-flat major, Op. 57.mp3
-/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810 – 1849)/Arthur Rubinstein/1991 The Chopin Collection/154 Barcarolle in F-sharp major, Op. 60.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/01 Nocturne No. 1 in B-flat minor, Op. 9 No. 1.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/02 Nocturne No. 2 in E-flat major, Op. 9 No. 2.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/03 Nocturne No. 3 in B major, Op. 9 No. 3.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/04 Nocturne No. 4 in F major, Op. 15 No. 1.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/05 Nocturne No. 5 in F-sharp major, Op. 15 No. 2.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/06 Nocturne No. 6 in G minor, Op. 15 No. 3.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/07 Nocturne No. 7 in C-sharp minor, Op. 27 No. 1.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/08 Nocturne No. 8 in D-flat major, Op. 27 No. 2.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/09 Nocturne No. 9 in B major, Op. 32 No. 1.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/10 Nocturne No. 10 in A-flat major, Op. 32 No. 2.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/11 Nocturne No. 11 in G minor, Op. 37 No. 1.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/12 Nocturne No. 12 in G major, Op. 37 No. 2.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/13 Nocturne No. 13 in C minor, Op. 48 No. 1.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/14 Nocturne No. 14 in F-sharp minor, Op. 48 No. 2.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/15 Nocturne No. 15 in F minor, Op. 55 No. 1.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/16 Nocturne No. 16 in E-flat major, Op. 55 No. 2.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/17 Nocturne No. 17 in B major, Op. 62 No. 1.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/18 Nocturne No. 18 in E major, Op. 62 No. 2.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/19 Nocturne No. 19 in E minor, Op. 72 No. 1.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/20 Mazurka in F-sharp minor, Op. 6 No. 1.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/21 Mazurka in C-sharp minor, Op. 6 No. 2.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/22 Mazurka in E major, Op. 6 No. 3.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/23 Mazurka in E-flat minor, Op. 6 No. 4.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/24 Mazurka in B-flat major, Op. 7 No. 1.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/25 Mazurka in A minor, Op. 7 No. 2.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/26 Mazurka in F minor, Op. 7 No. 3.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/27 Mazurka in A-flat major, Op. 7 No. 4.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/28 Mazurka in C major, Op. 7 No. 5.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/29 Mazurka in B-flat major, Op. 17 No. 1.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/30 Mazurka in E minor, Op. 17 No. 2.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/31 Mazurka in A-flat major, Op. 17 No. 3.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/32 Mazurka in A minor, Op. 17 No. 4.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/33 Mazurka in G minor, Op. 24 No. 1.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/34 Mazurka in C major, Op. 24 No. 2.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/35 Mazurka in A-flat major, Op. 24 No. 3.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/36 Mazurka in B-flat minor, Op. 24 No. 4.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/37 Mazurka in C minor, Op. 30 No. 1.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/38 Mazurka in B minor, Op. 30 No. 2.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/39 Mazurka in D-flat major, Op. 30 No. 3.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/40 Mazurka in C-sharp minor, Op. 30 No. 4.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/41 Mazurka in G-sharp minor, Op. 33 No. 1.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/42 Mazurka in D major, Op. 33 No. 2.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/43 Mazurka in C major, Op. 33 No. 3.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/44 Mazurka in B minor, Op. 33 No. 4.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/45 Mazurka in C-sharp minor, Op. 41 No. 1.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/46 Mazurka in E minor, Op. 41 No. 2.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/47 Mazurka in B major, Op. 41 No. 3.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/48 Mazurka in A-flat major, Op. 41 No. 4.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/49 Mazurka in G major, Op. 50 No. 1.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/50 Mazurka in A-flat major, Op. 50 No. 2.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/51 Mazurka in C-sharp minor, Op. 50 No. 3.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/52 Mazurka in B major, Op. 56 No. 1.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/53 Mazurka in C major, Op. 56 No. 2.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/54 Mazurka in C minor, Op. 56 No. 3.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/55 Mazurka in A minor, Op. 59 No. 1.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/56 Mazurka in A-flat major, Op. 59 No. 2.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/57 Mazurka in F-sharp minor, Op. 59 No. 3.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/58 Mazurka in B major, Op. 63 No. 1.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/59 Mazurka in F minor, Op. 63 No. 2.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/60 Mazurka in C-sharp minor, Op. 63 No. 3.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/61 Mazurka in A minor, Op. Post. _a Emile Gaillard_.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/62 Mazurka in A minor, Op. Post. _Notre temps_.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/63 Mazurka in G major, Op. 67 No. 1.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/64 Mazurka in G minor, Op. 67 No. 2.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/65 Mazurka in C major, Op. 67 No. 3.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/66 Mazurka in A minor, Op. 67 No. 4.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/67 Mazurka in C major, Op. 68 No. 1.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/68 Mazurka in A minor, Op. 68 No. 2.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/69 Mazurka in F major, Op. 68 No. 3.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/70 Mazurka in F minor, Op. 68 No. 4.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/71 Ballade No. 1 in G minor, Op. 23.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/72 Ballade No. 2 in F major, Op. 38.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/73 Ballade No. 3 in A-flat major, Op. 47.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/74 Ballade No. 4 in F minor, Op. 52.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/75 Scherzo No. 1 in B minor, Op. 20.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/76 Scherzo No. 2 in B-flat minor, Op. 31.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/77 Scherzo No. 3 in C-sharp minor, Op. 39.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/78 Scherzo No. 4 in E major, Op. 54.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/79 Polonaise in C-sharp minor, Op. 26 No. 1.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/80 Polonaise in E-flat minor, Op. 26 No. 2.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/81 Polonaise in A major, Op. 40 No. 1 _Military_.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/82 Polonaise in C minor, Op. 40 No. 2.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/83 Polonaise in F-sharp minor, Op. 44.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/84 Polonaise in A-flat major, Op. 53 _Heroic_.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/85 Polonaise-Fantaisie in A-flat major, Op. 61.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/86 Sonata No. 2 in B-flat minor, Op. 35 _Funeral March__ I. Grave. Doppio movimento.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/87 Sonata No. 2 in B-flat minor, Op. 35 _Funeral March__ II. Scherzo.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/88 Sonata No. 2 in B-flat minor, Op. 35 _Funeral March__ III. Marche funebre. Lento.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/89 Sonata No. 2 in B-flat minor, Op. 35 _Funeral March__ IV. Finale. Presto.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/90 Sonata No. 3 in B minor, Op. 58_ I. Allegro maestoso.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/91 Sonata No. 3 in B minor, Op. 58_ II. Scherzo. Molto vivace.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/92 Sonata No. 3 in B minor, Op. 58_ III. Largo.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/93 Sonata No. 3 in B minor, Op. 58_ IV. Finale. Presto, non tanto.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/94 Fantaisie in F minor, Op. 49.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/95 Piano Concerto No. 1 in E minor, Op. 11_ I. Allegro maestoso.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/96 Piano Concerto No. 1 in E minor, Op. 11_ II. Romance. Larghetto.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/97 Piano Concerto No. 1 in E minor, Op. 11_ III. Rondo. Vivace.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/98 Piano Concerto No. 2 in F minor, Op. 21_ I. Maestoso.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/99 Piano Concerto No. 2 in F minor, Op. 21_ II. Larghetto.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/100 Piano Concerto No. 2 in F minor, Op. 21_ III. Allegro vivace.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/101 Waltz No. 1 in E-flat major, Op. 18 _Grande Valse Brillante_.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/102 Waltz No. 2 in A-flat major, Op. 34 No. 1 _Valse Brillante_.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/103 Waltz No. 3 in A minor, Op. 34 No. 2 _Valse Brillante_.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/104 Waltz No. 4 in F major, Op. 34 No. 3 _Valse Brillante_.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/105 Waltz No. 5 in A-flat major, Op. 42 _Two-Four_.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/106 Waltz No. 6 in D-flat major, Op. 64 No. 1 _Minute_.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/107 Waltz No. 7 in C-sharp minor, Op. 64 No. 2.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/108 Waltz No. 8 in A-flat major, Op. 64 No. 3.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/109 Waltz No. 9 in A-flat major, Op. 69 No. 1 _L'Adieu_.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/110 Waltz No. 10 in B minor, Op. 69 No. 2.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/111 Waltz No. 11 in G-flat major, Op. 70 No. 1.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/112 Waltz No. 12 in F minor, Op. 70 No. 2.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/113 Waltz No. 13 in D-flat major, Op. 70 No. 3.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/114 Waltz No. 14 in E minor, Op. Posth_.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/115 Impromptu in A-flat major, Op. 29 No. 1.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/116 Impromptu in F-sharp major, Op. 36 No. 2.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/117 Impromptu in G-flat major, Op. 51 No. 3.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/118 Impromptu in C-sharp minor, Op. 66 No. 4 _Fantaisie-Impromptu_.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/119 Barcarolle in F-sharp major, Op. 60.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/120 Trois Nouvelles Etudes, Op. Posth_.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/121 Bolero in A minor, Op. 19.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/122 Berceuse in D-flat major, Op. 57.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/123 Tarentelle in A-flat major, Op. 43.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/124 Andante spianato and Grande Polonaise in E-flat major, Op. 22.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/125 Prelude in C major, Op. 28 No. 1.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/126 Prelude in A minor, Op. 28 No. 2.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/127 Prelude in G major, Op. 28 No. 3.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/128 Prelude in E minor, Op. 28 No. 4.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/129 Prelude in D major, Op. 28 No. 5.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/130 Prelude in B minor, Op. 28 No. 6.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/131 Prelude in A major, Op. 28 No. 7.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/132 Prelude in F-sharp minor, Op. 28 No. 8.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/133 Prelude in E major, Op. 28 No. 9.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/134 Prelude in C-sharp minor, Op. 28 No. 10.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/135 Prelude in B major, Op. 28 No. 11.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/136 Prelude in G-sharp minor, Op. 28 No. 12.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/137 Prelude in F-sharp major, Op. 28 No. 13.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/138 Prelude in E-flat minor, Op. 28 No. 14.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/139 Prelude in D-flat major, Op. 28 No. 15 _Raindrop_.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/140 Prelude in B-flat minor, Op. 28 No. 16.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/141 Prelude in A-flat major, Op. 28 No. 17.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/142 Prelude in F minor, Op. 28 No. 18.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/143 Prelude in E-flat major, Op. 28 No. 19.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/144 Prelude in C minor, Op. 28 No. 20.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/145 Prelude in B-flat major, Op. 28 No. 21.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/146 Prelude in G minor, Op. 28 No. 22.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/147 Prelude in F major, Op. 28 No. 23.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/148 Prelude in D minor, Op. 28 No. 24.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/149 Sonata in B-flat minor, Op. 35 No. 2 _Funeral March__ I. Grave - Doppio movimento.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/150 Sonata in B-flat minor, Op. 35 No. 2 _Funeral March__ II. Scherzo.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/151 Sonata in B-flat minor, Op. 35 No. 2 _Funeral March__ III. Marche funebre. Lento.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/152 Sonata in B-flat minor, Op. 35 No. 2 _Funeral March__ IV. Finale. Presto.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/153 Berceuse in D-flat major, Op. 57.mp3
+/Users/Roambot/Dropbox/Music/Classical/Chopin, Fryderyk (1810-1849)/Arthur Rubinstein/1991 The Chopin Collection/154 Barcarolle in F-sharp major, Op. 60.mp3
 /Users/Roambot/Dropbox/Music/Atlas Sound/2008 Another Bedroom EP/01 Another Bedroom.mp3
 /Users/Roambot/Dropbox/Music/Atlas Sound/2008 Another Bedroom EP/02 It Rained.mp3
 /Users/Roambot/Dropbox/Music/Atlas Sound/2008 Another Bedroom EP/03 Stained Glass Swan.mp3
@@ -932,7 +877,7 @@
 /Users/Roambot/Dropbox/Music/Bill Frisell/2000 Ghost Town/08 What a World.m4a
 /Users/Roambot/Dropbox/Music/Bill Frisell/2000 Ghost Town/09 My Man's Gone Now.m4a
 /Users/Roambot/Dropbox/Music/Bill Frisell/2000 Ghost Town/10 Outlaw.m4a
-/Users/Roambot/Dropbox/Music/Bill Frisell/2000 Ghost Town/11 Whan I Fall in Love.m4a
+/Users/Roambot/Dropbox/Music/Bill Frisell/2000 Ghost Town/11 When I Fall in Love.m4a
 /Users/Roambot/Dropbox/Music/Bill Frisell/2000 Ghost Town/12 Big Bob.m4a
 /Users/Roambot/Dropbox/Music/Bill Frisell/2000 Ghost Town/13 Winter Always Turns to Spring.m4a
 /Users/Roambot/Dropbox/Music/Bill Frisell/2000 Ghost Town/14 Justice and Honor.m4a
@@ -1104,7 +1049,7 @@
 /Users/Roambot/Dropbox/Music/Bill Frisell/2010 Beautiful Dreamers/16 Who Was That Girl_.mp3
 /Users/Roambot/Dropbox/Music/Biosphere/1991 Microgravity/01 Microgravity.mp3
 /Users/Roambot/Dropbox/Music/Biosphere/1991 Microgravity/02 Baby Satellite.mp3
-/Users/Roambot/Dropbox/Music/Biosphere/1991 Microgravity/03 Tranquilizer.mp3
+/Users/Roambot/Dropbox/Music/Biosphere/1991 Microgravity/03 Tranquillizer.mp3
 /Users/Roambot/Dropbox/Music/Biosphere/1991 Microgravity/04 The Fairy Tale.mp3
 /Users/Roambot/Dropbox/Music/Biosphere/1991 Microgravity/05 Cloudwalker II.mp3
 /Users/Roambot/Dropbox/Music/Biosphere/1991 Microgravity/06 Chromosphere.mp3
@@ -1422,307 +1367,307 @@
 /Users/Roambot/Dropbox/Music/Boards of Canada/2013 Tomorrow's Harvest/15 New Seeds.flac
 /Users/Roambot/Dropbox/Music/Boards of Canada/2013 Tomorrow's Harvest/16 Come to Dust.flac
 /Users/Roambot/Dropbox/Music/Boards of Canada/2013 Tomorrow's Harvest/17 Semena Mertvykh.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 1/01 Valse-ballet, Op. 62.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 1/02 Fantaisie-valse.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 1/03 Quatre Ogives _ I. Première Ogive (à J.P. Contamine de Latour).flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 1/04 Quatre Ogives _ II. Seconde Ogive (à Charles Levade).flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 1/05 Quatre Ogives _ III. Troisième Ogive (à Madame Clément Le Breton).flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 1/06 Quatre Ogives _ IV. Quatrième Ogive (à Conrad Satie).flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 1/07 Trois Sarabandes.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 1/08 Trois Gymnopédies _ I. Lent et douloureux.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 1/09 Trois Gymnopédies _ II. Lent et triste.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 1/10 Trois Gymnopédies _ III. Lent et grave.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 1/11 Gnossienne No. 5.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 1/12 Gnossienne No. 1.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 1/13 Gnossienne No. 2.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 1/14 Gnossienne No. 3.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 1/15 Gnossienne No. 4.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 1/16 Première Pensée Rose+Croix.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 1/17 Le Fils des étoiles (Préludes).flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 2/01 Sonneries de la Rose_ Air de L'Ordre.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 2/02 Sonneries de la Rose_ Air du Grand Maître.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 2/03 Sonneries de la Rose_ Air du Grand prieur.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 2/04 Préludes_ Fête donnée par des Chevaliers.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 2/05 4 Préludes_ Prélude d'Eginhard.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 2/06 4 Préludes_ Premier Prélude du Nazaréen.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 2/07 4 Préludes_ Deuxième Prélude du Nazaréen.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 2/08 Ballet Chrétien_ Act I.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 2/09 Ballet Chrétien_ Act II.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 2/10 Ballet Chrétien_ Act III.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 2/11 Danses gothiques.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 2/12 Prélude de la porte héroïque du ciel.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 3/01 Messe des pauvres_ Kyrie eleison _ Dixit Domine.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 3/02 Messe des pauvres_ Prière des Orgues.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 3/03 Messe des pauvres_ Commune qui mundi nefas.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 3/04 Messe des pauvres_ Chant ecclésiastique _ Prière pour les voyageurs et les marins en danger de mort, à la très bonne et très auguste Vierge Marie, mère de Jésus.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 3/05 Messe des pauvres_ Prière pour le salut de mon âme.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 3/06 Pages mystiques_ I. Prière.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 3/07 Pages mystiques_ II. Harmonie 1.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 3/08 Pages mystiques_ II. Harmonie 2.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 3/09 Pages mystiques_ II. Harmonie 3.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 3/10 Pages mystiques_ III. Vexations.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 3/11 Gnossienne No. 6.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 3/12 Gnossienne No. 7.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 3/13 Danse de travers.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 3/14 Je te veux.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 3/15 Caresse.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 4/01 Pièces froides_ Airs à faire fuir.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 4/02 Pièces froides_ Danses de travers.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 4/03 Poudre d'or.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 4/04 Le Piccadilly.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 4/05 Rêverie du pauvre.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 4/06 Petite ouverture à danser.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 4/07 Petite Musique de Clown Triste.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 4/08 Verset laîque et somptueux.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 4/09 Le Poisson Rêveur Esquisse.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 4/10 3 Morceaux en forme de poire_ Manière de commencement.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 4/11 3 Morceaux en forme de poire_ Prolongation de même.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 4/12 3 Morceaux en forme de poire_ 1. Lentement.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 4/13 3 Morceaux en forme de poire_ 2. Enlevé.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 4/14 3 Morceaux en forme de poire_ 3. Brutal.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 4/15 3 Morceaux en forme de poire_ En Plus.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 4/16 3 Morceaux en forme de poire_ Redite.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 4/17 La Diva de l'Empire.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 4/18 Passacaille.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 4/19 Prélude en tapisserie.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 4/20 12 petits chorals_ No. 1.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 4/21 12 petits chorals_ No. 2.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 4/22 12 petits chorals_ No. 3.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 4/23 12 petits chorals_ No. 4.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 4/24 12 petits chorals_ No. 5.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 4/25 12 petits chorals_ No. 6.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 4/26 12 petits chorals_ No. 7.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 4/27 12 petits chorals_ No. 8.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 4/28 12 petits chorals_ No. 9.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 4/29 12 petits chorals_ No. 10.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 4/30 12 petits chorals_ No. 11.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 4/31 12 petits chorals_ No. 12.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 5/01 Musiques Intimes et Secrètes_ Nostalgie.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 5/02 Musiques Intimes et Secrètes_ Froide Songerie.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 5/03 Musiques intimes et secrètes_ Fâcheux exemple.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 5/04 6 Pièces de la période_ Désespoir agréable.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 5/05 6 Pièces de la période_ Effronterie.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 5/06 6 Pièces de la période_ Poésie.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 5/07 6 Pièces de la période_ Prélude canin.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 5/08 6 Pièces de la période_ Profondeur.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 5/09 6 Pièces de la période_ Songe-creux.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 5/10 Apercus désagréables_ Patorale.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 5/11 Apercus désagréables_ Choral.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 5/12 Apercus désagréables_ Fugue.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 5/13 Nouvelles pièces froides_ Sur un mur.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 5/14 Nouvelles pièces froides_ Sur un arbre.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 5/15 Nouvelles pièces froides_ Sur un pont.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 5/16 Deux Rêveries nocturnes_ Pas vite.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 5/17 Deux Rêveries nocturnes_ Très modérément.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 5/18 Carnet d'Esquisses et de Croquis_ Air.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 5/19 Carnet d'Esquisses et de Croquis_ Essais.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 5/20 Carnet d'Esquisses et de Croquis_ Notes.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 5/21 Carnet d'Esquisses et de Croquis_ Le Prisonnier maussade.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 5/22 Carnet d'Esquisses et de Croquis_ Esquisses.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 5/23 Carnet d'Esquisses et de Croquis_ Exercices.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 5/24 Carnet d'Esquisses et de Croquis_ Notes.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 5/25 Carnet d'Esquisses et de Croquis_ Harmonies.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 5/26 Carnet d'Esquisses et de Croquis_ Songerie vers 'Jack'.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 5/27 Carnet d'Esquisses et de Croquis_ Bribes.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 5/28 Carnet d'Esquisses et de Croquis_ Choral.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 5/29 Carnet d'Esquisses et de Croquis_ Exercices.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 5/30 Carnet d'Esquisses et de Croquis_ Exercices.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 5/31 Carnet d'Esquisses et de Croquis_ Exercices.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 5/32 Carnet d'Esquisses et de Croquis_ Exercices.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 5/33 Carnet d'Esquisses et de Croquis_ Esquisse & Sketch Montmartrois.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 5/34 Carnet d'Esquisses et de Croquis_ Gambades.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 5/35 Carnet d'Esquisses et de Croquis_ Essais.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 5/36 Carnet d'Esquisses et de Croquis_ Petite Danse.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 5/37 En habit de cheval_ Choral.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 5/38 En habit de cheval_ Fugues litanique.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 5/39 En habit de cheval_ Autre choral.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 5/40 En habit de cheval_ Fugue de papier.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 5/41 Préludes flasques_ Voix d'intérieur.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 5/42 Préludes flasques_ Idylle cynique.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 5/43 Préludes flasques_ Chanson canine.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 5/44 Préludes flasques_ Avec Camaraderie.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 5/45 Veritables Préludes flasques_ Sévère réprimande.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 5/46 Le Piège de Méduse_ Quadrille.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 5/47 Le Piège de Méduse_ Valse.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 5/48 Le Piège de Méduse_ Pas vite.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 5/49 Le Piège de Méduse_ Mazurka.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 5/50 Le Piège de Méduse_ Un peu vif.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 5/51 Le Piège de Méduse_ Polka.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 5/52 Le Piège de Méduse_ Quadrille.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 5/53 Descriptions automatiques_ Sur un vaisseau_-lanterne_-casque.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 6/01 Embryons desséchés_ d'Holothurie _ d'Edriophthalma _ de Podolphthalma.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 6/02 Croquis et agaceries d'un gros bonhomme en bois_ Tyrolienne turque.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 6/03 Croquis et agaceries d'un gros bonhomme en bois_ Danse maigre (à la manière de ces messieurs).flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 6/04 Croquis et agaceries d'un gros bonhomme en bois_ Españaña.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 6/05 Chapitres tournés en tous sens_ Celle qui parle trop.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 6/06 Chapitres tournés en tous sens_ Le Porteur de grosses pierres.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 6/07 Chapitres tournés en tous sens_ Regret des Enfermés (Jonas et Latude).flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 6/08 Vieux sequins et vieilles cuirasses_ Chez le marchand d'ore (Venise XIIIe Siècle).flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 6/09 Vieux sequins et vieilles cuirasses_ Danse cuirassée (Période grecque).flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 6/10 Vieux sequins et vieilles cuirasses_ Défaite des Cimbres (Cauchemar).flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 6/11 Enfantines_ I. Menus propos enfantins, Chant guerrier du roi des haricots.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 6/12 Enfantines_ I. Menus propos enfantins, Ce qui dit la petite princesse des Tulipes.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 6/13 Enfantines_ I. Menus propos enfantins, Valse du Chocolat aux amandes.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 6/14 Enfantines_ II. Enfantillages pittoresques, Petit prélude à la journée.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 6/15 Enfantines_ II. Enfantillages pittoresques, Berceuse.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 6/16 Enfantines_ II. Enfantillages pittoresques, Marche du grand escalier.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 6/17 Enfantines_ II. Peccadilles importunes, Être jaloux de son camarade qui a une grosse tête.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 6/18 Enfantines_ II. Peccadilles importunes, Lui manger sa tartine.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 6/19 Enfantines_ II. Peccadilles importunes, Profiter de ce qu'il a des cors aux pieds pour lui prendre son cerceau.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 6/20 Trois Nouvelles Enfantines_ La Vilain petit vaurien.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 6/21 Trois Nouvelles Enfantines_ Berceuse.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 6/22 Trois Nouvelles Enfantines_ La Gentille toute petite fille.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 6/23 Les Pantins dansent.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 6/24 Sports et divertissements_ Choral inappétissant.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 6/25 Sports et divertissements_ La Balançoire.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 6/26 Sports et divertissements_ La Chasse.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 6/27 Sports et divertissements_ La Comédie italienne.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 6/28 Sports et divertissements_ Le Réveil de la Mariée.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 6/29 Sports et divertissements_ Colin-Maillard.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 6/30 Sports et divertissements_ La Pêche.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 6/31 Sports et divertissements_ Le Yachting.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 6/32 Sports et divertissements_ Le Bain de mer.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 6/33 Sports et divertissements_ Le Carnaval.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 6/34 Sports et divertissements_ Le Golf.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 6/35 Sports et divertissements_ Le Pieuvre.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 6/36 Sports et divertissements_ Les Courses.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 6/37 Sports et divertissements_ Les Quatres Coins.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 6/38 Sports et divertissements_ Le Pique-Nique.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 6/39 Sports et divertissements_ Le Water-chute.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 6/40 Sports et divertissements_ Le Tango perpétuel.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 6/41 Sports et divertissements_ Le Traîneau.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 6/42 Sports et divertissements_ Le Flirt.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 6/43 Sports et divertissements_ Feu d'artifice.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 6/44 Sports et divertissements_ Le Tennis.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 6/45 Heures séculaires et instantanées_ Obstacles venimeux.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 6/46 Heures séculaires et instantanées_ Crépuscule matinal (de midi).flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 6/47 Heures séculaires et instantanées_ Affolements granitiques.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 6/48 Les Trois Valses distinguées du précieux dégoûté_ Sa taille _ Son binocle _ Ses jambes.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 6/49 Cinq Grimaces pour _Le Songe d'une nuit d'été__ Préambule.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 6/50 Cinq Grimaces pour _Le Songe d'une nuit d'été__ Conquecigrue.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 6/51 Cinq Grimaces pour _Le Songe d'une nuit d'été__ Chasse.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 6/52 Cinq Grimaces pour _Le Songe d'une nuit d'été__ Fanfaronnade.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 6/53 Cinq Grimaces pour _Le Songe d'une nuit d'été__ Pour sortir.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/1994 Complete Piano Works, Volume 6/54 Avant-dernières pensées_ Idylle _ Aubade _ Méditation.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 10/01 Socrate (Drame Symphonique en trois parties aux voix)_ Portrait de Socrate (Le Banquet).flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 10/02 Socrate (Drame Symphonique en trois parties aux voix)_ Les Bords de l'Illussus (Phèdre).flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 10/03 Socrate (Drame Symphonique en trois parties aux voix)_ Mort de Socrate (Phédon).flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 10/04 Geneviève de Brabant_ Premier Acte.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 10/05 Geneviève de Brabant_ Deuxième Acte.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 10/06 Geneviève de Brabant_ Troisième Acte.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 7/01 Choses vues à droite et à gauche (sans lunettes) pour Violon et Piano_ Choral Hypocrite.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 7/02 Choses vues à droite et à gauche (sans lunettes) pour Violon et Piano_ Fugue à tâtons.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 7/03 Choses vues à droite et à gauche (sans lunettes) pour Violon et Piano_ Fantaisie musculaire.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 7/04 Parade (for piano 4 hands)_ Choral _ Prélude du rideau rouge _ Prestidigitateur chinois.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 7/05 Parade (for piano 4 hands)_ Petite fille Américaine.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 7/06 Parade (for piano 4 hands)_ Acrobates.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 7/07 Parade (for piano 4 hands)_ Final _ Suite au Prélude du rideau rouge.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 7/08 Rag-Time Parade.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 7/09 Sonatine bureaucratique_ Allegro.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 7/10 Sonatine bureaucratique_ Andante.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 7/11 Sonatine bureaucratique_ Vivace.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 7/12 5 Nocturnes_ 1er Nocturne.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 7/13 5 Nocturnes_ 2me Nocturne.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 7/14 5 Nocturnes_ 3me Nocturne.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 7/15 5 Nocturnes_ 4me Nocturne.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 7/16 5 Nocturnes_ 5me Nocturne.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 7/17 Trois petites pièces montées (for piano 4 hands)_ De L'enfance de Pantagruel (Rêverie).flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 7/18 Trois petites pièces montées (for piano 4 hands)_ Marche de Cocagne (Démarche).flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 7/19 Trois petites pièces montées (for piano 4 hands)_ Jeux de Gargantua (Coin de Polka).flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 7/20 Rêverie de L'enfance de Pantagruel.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 7/21 Premier Menuet.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 7/22 La Belle Excentrique (Fantaisie Sérieuse) (for piano 4 hands)_ Marche Franco _ Lunaire.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 7/23 La Belle Excentrique (Fantaisie Sérieuse) (for piano 4 hands)_ Grande Ritournelle.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 7/24 La Belle Excentrique (Fantaisie Sérieuse) (for piano 4 hands)_ Valse du _Mystérieux baiser dans L'oeil_.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 7/25 La Belle Excentrique (Fantaisie Sérieuse) (for piano 4 hands)_ Grande Ritournelle.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 7/26 La Belle Excentrique (Fantaisie Sérieuse) (for piano 4 hands)_ Cancan Grand Mondain.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 8/01 Mercure - Poses plastiques_ Marche Ouverture.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 8/02 Mercure - Poses plastiques_ Premier Tableau, La Nuit.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 8/03 Mercure - Poses plastiques_ Premier Tableau, Danse de Tendresse.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 8/04 Mercure - Poses plastiques_ Premier Tableau, Signes du Zodiaque.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 8/05 Mercure - Poses plastiques_ Premier Tableau, Entrée de Mercure.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 8/06 Mercure - Poses plastiques_ Deuxième Tableau, Danse des Grâces.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 8/07 Mercure - Poses plastiques_ Deuxième Tableau, Bain des Grâces.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 8/08 Mercure - Poses plastiques_ Deuxième Tableau, Fuite de Mercure.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 8/09 Mercure - Poses plastiques_ Deuxième Tableau, Colère de Cerbère.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 8/10 Mercure - Poses plastiques_ Troisième Tableau, Polka des Lettres.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 8/11 Mercure - Poses plastiques_ Troisième Tableau, Nouvelle Danse.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 8/12 Mercure - Poses plastiques_ Troisième Tableau, Le Chaos.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 8/13 Mercure - Poses plastiques_ Troisième Tableau, Rapt de Proserine.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 8/14 Relâche (Ballet Suédois)_ Ouverture.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 8/15 Relâche (Ballet Suédois)_ Premier Acte, Projection.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 8/16 Relâche (Ballet Suédois)_ Premier Acte, Rideau.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 8/17 Relâche (Ballet Suédois)_ Premier Acte, Entrée de la Femme.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 8/18 Relâche (Ballet Suédois)_ Premier Acte, _Musique_.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 8/19 Relâche (Ballet Suédois)_ Premier Acte, Entrée de l'Hommes.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 8/20 Relâche (Ballet Suédois)_ Premier Acte, Danse de la Porte tournante.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 8/21 Relâche (Ballet Suédois)_ Premier Acte, Entrée des Hommes.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 8/22 Relâche (Ballet Suédois)_ Premier Acte, Danse des Hommes.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 8/23 Relâche (Ballet Suédois)_ Premier Acte, Danse de la Femme.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 8/24 Relâche (Ballet Suédois)_ Premier Acte, Final.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 8/25 Relâche (Ballet Suédois)_ Deuxième Acte, Musique de Rentrée.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 8/26 Relâche (Ballet Suédois)_ Deuxième Acte, Rentrée des Hommes.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 8/27 Relâche (Ballet Suédois)_ Deuxième Acte, Rentrée de la Femme.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 8/28 Relâche (Ballet Suédois)_ Deuxième Acte, Les Hommes se dévêtissent.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 8/29 Relâche (Ballet Suédois)_ Deuxième Acte, Danse de l'Homme et de la Femme.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 8/30 Relâche (Ballet Suédois)_ Deuxième Acte, Les Hommes reganent leur place et retrouvent leurs pardessus.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 8/31 Relâche (Ballet Suédois)_ Deuxième Acte, Danse de la Brouette.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 8/32 Relâche (Ballet Suédois)_ Deuxième Acte, Danse de la Couronne.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 8/33 Relâche (Ballet Suédois)_ Deuxième Acte, Le Danseur dépose la Couronne sur la tête d'une spectatrice.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 8/34 Relâche (Ballet Suédois)_ Deuxième Acte, La Femme rejoint son fauteuil.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 8/35 Relâche (Ballet Suédois)_ Deuxième Acte, Petite Danse Finale (la Queue du Chien).flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 8/36 Cinéma (for piano 4 hands)_ Cheminées, ballons qui explosent.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 8/37 Cinéma (for piano 4 hands)_ Gants de boxe et allumettes.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 8/38 Cinéma (for piano 4 hands)_ Prises d'air, jeux d'échec et bateaux sur les toits.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 8/39 Cinéma (for piano 4 hands)_ La Danseuse et figures dans l'eau.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 8/40 Cinéma (for piano 4 hands)_ Chasseur, et début de l'enterrement.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 8/41 Cinéma (for piano 4 hands)_ Marche funèbre.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 8/42 Cinéma (for piano 4 hands)_ Cortège au ralenti.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 8/43 Cinéma (for piano 4 hands)_ La Poursuite.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 8/44 Cinéma (for piano 4 hands)_ Chûte du cerceuil et sortie de Börlin.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 8/45 Cinéma (for piano 4 hands)_ Final (écran crevé et fin).flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 8/46 Jack In The Box (œuvre posthume)_ Prélude.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 8/47 Jack In The Box (œuvre posthume)_ Entr'acte.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 8/48 Jack In The Box (œuvre posthume)_ Final.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 8/49 Allegro (œuvre posthume).flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 9/01 Trois mélodies de 1886_ Les Anges.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 9/02 Trois mélodies de 1886_ Élégie.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 9/03 Trois mélodies de 1886_ Sylvie.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 9/04 Trois autres mélodies_ Chanson.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 9/05 Trois autres mélodies_ Chanson Médiévale.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 9/06 Trois autres mélodies_ Les fleurs.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 9/07 Hymne pour le ''Salut Drapeau''.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 9/08 Trois Poèmes d'amour_ Ne suis que grain de sable.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 9/09 Trois Poèmes d'amour_ Suis chauve de naissance.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 9/10 Trois Poèmes d'amour_ Ta parure est secrète.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 9/11 Trois mélodies de 1916_ La statue de bronze.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 9/12 Trois mélodies de 1916_ Daphénéo.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 9/13 Trois mélodies de 1916_ Le Chapelier.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 9/14 Quatre petites mélodies_ Élégie.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 9/15 Quatre petites mélodies_ Danseuse.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 9/16 Quatre petites mélodies_ Chanson.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 9/17 Quatre petites mélodies_ Adieu.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 9/18 Ludions_ Air du Rat.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 9/19 Ludions_ Spleen.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 9/20 Ludions_ La Grenouille américaine.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 9/21 Ludions_ Air du poète.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 9/22 Ludions_ Chanson du chat.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 9/23 Chansons de Caf'conc'_ Je te veux.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 9/24 Chansons de Caf'conc'_ Un dîner à l'Élysée.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 9/25 Chansons de Caf'conc'_ Tendrement.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 9/26 Chansons de Caf'conc'_ Chez le docteur.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 9/27 Chansons de Caf'conc'_ l'Omnibus-automobile.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 9/28 Chansons de Caf'conc'_ La Diva de l'Empire.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 9/29 Trois mélodies sans paroles_ Rambouillet.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 9/30 Trois mélodies sans paroles_ Les Oiseaux.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 9/31 Trois mélodies sans paroles_ Marienbad.flac
-/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866 – 1925)/Bojan Gorišek/2000 Complete Piano Works, Volume 9/32 Allons-y Chochotte.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 1/01 Valse-ballet, op. 62.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 1/02 Fantaisie-valse.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 1/03 Quatre Ogives_ I. Les anges.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 1/04 Quatre Ogives_ II. Elegie.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 1/05 Quatre Ogives_ III. Sylvie.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 1/06 Quatre Ogives_ IV. Les Fleurs.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 1/07 Trois Sarabandes.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 1/08 Trois Gymnopedies_ I. Lent et douloureux.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 1/09 Trois Gymnopedies_ II. Lent et triste.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 1/10 Trois Gymnopedies_ III. Lent et grave.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 1/11 Gnossienne no. 5.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 1/12 Gnossienne no. 1.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 1/13 Gnossienne no. 2.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 1/14 Gnossienne no. 3.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 1/15 Gnossienne no. 4.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 1/16 Premiere pensee rose + croix.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 1/17 Le fils des etoiles (preludes).flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 2/01 Sonneries de la Rose_ Air de L'Ordre.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 2/02 Sonneries de la Rose_ Air du Grand Maitre.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 2/03 Sonneries de la Rose_ Air du Grand prieur.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 2/04 Preludes_ Fete donnee par des Chevaliers.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 2/05 4 Preludes_ Prelude d'Eginhard.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 2/06 4 Preludes_ Premier Prelude du Nazareen.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 2/07 4 Preludes_ Deuxieme Prelude du Nazareen.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 2/08 Ballet Chretien_ Act I.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 2/09 Ballet Chretien_ Act II.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 2/10 Ballet Chretien_ Act III.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 2/11 Danses gothiques.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 2/12 Prelude de la porte heroique du ciel.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 3/01 Messe des pauvres_ Kyrie eleison _ Dixit Domine.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 3/02 Messe des pauvres_ Priere des Orgues.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 3/03 Messe des pauvres_ Commune qui mundi nefas.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 3/04 Messe des pauvres_ Chant ecclesiastique _ Priere pour les voyageurs et les marins en danger de mort, a la tres bonne et tres auguste Vierge Marie, mere de Jesus.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 3/05 Messe des pauvres_ Priere pour le salut de mon ame.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 3/06 Pages mystiques_ I. Priere.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 3/07 Pages mystiques_ II. Harmonie 1.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 3/08 Pages mystiques_ II. Harmonie 2.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 3/09 Pages mystiques_ II. Harmonie 3.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 3/10 Pages mystiques_ III. Vexations.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 3/11 Gnossienne no. 6.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 3/12 Gnossienne no. 7.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 3/13 Danse de travers.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 3/14 Je te veux.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 3/15 Caresse.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 4/01 Pieces froides_ Airs a faire fuir.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 4/02 Pieces froides_ Danses de travers.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 4/03 Poudre d'or.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 4/04 Le Piccadilly.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 4/05 Reverie du pauvre.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 4/06 Petite ouverture a danser.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 4/07 Petite Musique de Clown Triste.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 4/08 Verset laique et somptueux.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 4/09 Le Poisson Reveur Esquisse.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 4/10 3 Morceaux en forme de poire_ Maniere de commencement.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 4/11 3 Morceaux en forme de poire_ Prolongation de meme.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 4/12 3 Morceaux en forme de poire_ 1. Lentement.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 4/13 3 Morceaux en forme de poire_ 2. Enleve.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 4/14 3 Morceaux en forme de poire_ 3. Brutal.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 4/15 3 Morceaux en forme de poire_ En Plus.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 4/16 3 Morceaux en forme de poire_ Redite.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 4/17 La Diva de l'Empire.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 4/18 Passacaille.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 4/19 Prelude en tapisserie.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 4/20 12 petits chorals_ No. 1.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 4/21 12 petits chorals_ No. 2.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 4/22 12 petits chorals_ No. 3.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 4/23 12 petits chorals_ No. 4.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 4/24 12 petits chorals_ No. 5.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 4/25 12 petits chorals_ No. 6.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 4/26 12 petits chorals_ No. 7.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 4/27 12 petits chorals_ No. 8.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 4/28 12 petits chorals_ No. 9.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 4/29 12 petits chorals_ No. 10.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 4/30 12 petits chorals_ No. 11.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 4/31 12 petits chorals_ No. 12.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 5/01 Musiques Intimes et Secretes_ Nostalgie.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 5/02 Musiques Intimes et Secretes_ Froide Songerie.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 5/03 Musiques intimes et secretes_ Facheux exemple.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 5/04 6 Pieces de la periode_ Desespoir agreable.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 5/05 6 Pieces de la periode_ Effronterie.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 5/06 6 Pieces de la periode_ Poesie.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 5/07 6 Pieces de la periode_ Prelude canin.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 5/08 6 Pieces de la periode_ Profondeur.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 5/09 6 Pieces de la periode_ Songe-creux.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 5/10 Apercus desagreables_ Pastorale.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 5/11 Apercus desagreables_ Choral.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 5/12 Apercus desagreables_ Fugue.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 5/13 Nouvelles pieces froides_ Sur un mur.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 5/14 Nouvelles pieces froides_ Sur un arbre.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 5/15 Nouvelles pieces froides_ Sur un pont.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 5/16 Deux Reveries nocturnes_ Pas vite.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 5/17 Deux Reveries nocturnes_ Tres moderement.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 5/18 Carnet d'Esquisses et de Croquis_ Air.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 5/19 Carnet d'Esquisses et de Croquis_ Essais.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 5/20 Carnet d'Esquisses et de Croquis_ Notes.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 5/21 Carnet d'Esquisses et de Croquis_ Le Prisonnier maussade.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 5/22 Carnet d'Esquisses et de Croquis_ Esquisses.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 5/23 Carnet d'Esquisses et de Croquis_ Exercices.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 5/24 Carnet d'Esquisses et de Croquis_ Notes.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 5/25 Carnet d'Esquisses et de Croquis_ Harmonies.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 5/26 Carnet d'Esquisses et de Croquis_ Songerie vers 'Jack'.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 5/27 Carnet d'Esquisses et de Croquis_ Bribes.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 5/28 Carnet d'Esquisses et de Croquis_ Choral.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 5/29 Carnet d'Esquisses et de Croquis_ Exercices.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 5/30 Carnet d'Esquisses et de Croquis_ Exercices.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 5/31 Carnet d'Esquisses et de Croquis_ Exercices.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 5/32 Carnet d'Esquisses et de Croquis_ Exercices.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 5/33 Carnet d'Esquisses et de Croquis_ Esquisse & Sketch Montmartrois.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 5/34 Carnet d'Esquisses et de Croquis_ Gambades.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 5/35 Carnet d'Esquisses et de Croquis_ Essais.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 5/36 Carnet d'Esquisses et de Croquis_ Petite Danse.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 5/37 En habit de cheval_ Choral.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 5/38 En habit de cheval_ Fugues litanique.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 5/39 En habit de cheval_ Autre choral.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 5/40 En habit de cheval_ Fugue de papier.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 5/41 Preludes flasques_ Voix d'interieur.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 5/42 Preludes flasques_ Idylle cynique.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 5/43 Preludes flasques_ Chanson canine.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 5/44 Preludes flasques_ Avec Camaraderie.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 5/45 Veritables Preludes flasques_ Severe reprimande.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 5/46 Le Piege de Meduse_ Quadrille.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 5/47 Le Piege de Meduse_ Valse.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 5/48 Le Piege de Meduse_ Pas vite.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 5/49 Le Piege de Meduse_ Mazurka.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 5/50 Le Piege de Meduse_ Un peu vif.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 5/51 Le Piege de Meduse_ Polka.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 5/52 Le Piege de Meduse_ Quadrille.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 5/53 Descriptions automatiques_ Sur un vaisseau_-lanterne_-casque.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 6/01 Embryons desseches_ d'Holothurie _ d'Edriophthalma _ de Podolphthalma.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 6/02 Croquis et agaceries d'un gros bonhomme en bois_ Tyrolienne turque.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 6/03 Croquis et agaceries d'un gros bonhomme en bois_ Danse maigre (a la maniere de ces messieurs).flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 6/04 Croquis et agaceries d'un gros bonhomme en bois_ Espanana.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 6/05 Chapitres tournes en tous sens_ Celle qui parle trop.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 6/06 Chapitres tournes en tous sens_ Le Porteur de grosses pierres.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 6/07 Chapitres tournes en tous sens_ Regret des Enfermes (Jonas et Latude).flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 6/08 Vieux sequins et vieilles cuirasses_ Chez le marchand d'ore (Venise XIIIe Siecle).flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 6/09 Vieux sequins et vieilles cuirasses_ Danse cuirassee (Periode grecque).flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 6/10 Vieux sequins et vieilles cuirasses_ Defaite des Cimbres (Cauchemar).flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 6/11 Enfantines_ I. Menus propos enfantins, Chant guerrier du roi des haricots.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 6/12 Enfantines_ I. Menus propos enfantins, Ce qui dit la petite princesse des Tulipes.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 6/13 Enfantines_ I. Menus propos enfantins, Valse du Chocolat aux amandes.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 6/14 Enfantines_ II. Enfantillages pittoresques, Petit prelude a la journee.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 6/15 Enfantines_ II. Enfantillages pittoresques, Berceuse.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 6/16 Enfantines_ II. Enfantillages pittoresques, Marche du grand escalier.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 6/17 Enfantines_ II. Peccadilles importunes, Etre jaloux de son camarade qui a une grosse tete.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 6/18 Enfantines_ II. Peccadilles importunes, Lui manger sa tartine.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 6/19 Enfantines_ II. Peccadilles importunes, Profiter de ce qu'il a des cors aux pieds pour lui prendre son cerceau.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 6/20 Trois Nouvelles Enfantines_ La Vilain petit vaurien.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 6/21 Trois Nouvelles Enfantines_ Berceuse.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 6/22 Trois Nouvelles Enfantines_ La Gentille toute petite fille.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 6/23 Les Pantins dansent.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 6/24 Sports et divertissements_ Choral inappetissant.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 6/25 Sports et divertissements_ La Balancoire.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 6/26 Sports et divertissements_ La Chasse.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 6/27 Sports et divertissements_ La Comedie italienne.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 6/28 Sports et divertissements_ Le Reveil de la Mariee.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 6/29 Sports et divertissements_ Colin-Maillard.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 6/30 Sports et divertissements_ La Peche.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 6/31 Sports et divertissements_ Le Yachting.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 6/32 Sports et divertissements_ Le Bain de mer.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 6/33 Sports et divertissements_ Le Carnaval.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 6/34 Sports et divertissements_ Le Golf.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 6/35 Sports et divertissements_ Le Pieuvre.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 6/36 Sports et divertissements_ Les Courses.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 6/37 Sports et divertissements_ Les Quatres Coins.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 6/38 Sports et divertissements_ Le Pique-Nique.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 6/39 Sports et divertissements_ Le Water-chute.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 6/40 Sports et divertissements_ Le Tango perpetuel.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 6/41 Sports et divertissements_ Le Traineau.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 6/42 Sports et divertissements_ Le Flirt.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 6/43 Sports et divertissements_ Feu d'artifice.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 6/44 Sports et divertissements_ Le Tennis.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 6/45 Heures seculaires et instantanees_ Obstacles venimeux.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 6/46 Heures seculaires et instantanees_ Crepuscule matinal (de midi).flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 6/47 Heures seculaires et instantanees_ Affolements granitiques.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 6/48 Les Trois Valses distinguees du precieux degoute_ Sa taille _ Son binocle _ Ses jambes.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 6/49 Cinq Grimaces pour _Le Songe d'une nuit d'ete__ Preambule.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 6/50 Cinq Grimaces pour _Le Songe d'une nuit d'ete__ Conquecigrue.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 6/51 Cinq Grimaces pour _Le Songe d'une nuit d'ete__ Chasse.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 6/52 Cinq Grimaces pour _Le Songe d'une nuit d'ete__ Fanfaronnade.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 6/53 Cinq Grimaces pour _Le Songe d'une nuit d'ete__ Pour sortir.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1994 Complete Piano Works, Volume 6/54 Avant-dernieres pensees_ Idylle _ Aubade _ Meditation.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 7/01 Choses vues a droite et a gauche (sans lunettes) pour Violon et Piano_ Choral Hypocrite.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 7/02 Choses vues a droite et a gauche (sans lunettes) pour Violon et Piano_ Fugue a tatons.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 7/03 Choses vues a droite et a gauche (sans lunettes) pour Violon et Piano_ Fantaisie musculaire.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 7/04 Parade (for piano 4 hands)_ Choral _ Prelude du rideau rouge _ Prestidigitateur chinois.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 7/05 Parade (for piano 4 hands)_ Petite fille Americaine.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 7/06 Parade (for piano 4 hands)_ Acrobates.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 7/07 Parade (for piano 4 hands)_ Final _ Suite au Prelude du rideau rouge.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 7/08 Rag-Time Parade.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 7/09 Sonatine bureaucratique_ Allegro.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 7/10 Sonatine bureaucratique_ Andante.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 7/11 Sonatine bureaucratique_ Vivace.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 7/12 5 Nocturnes_ 1er Nocturne.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 7/13 5 Nocturnes_ 2me Nocturne.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 7/14 5 Nocturnes_ 3me Nocturne.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 7/15 5 Nocturnes_ 4me Nocturne.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 7/16 5 Nocturnes_ 5me Nocturne.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 7/17 Trois petites pieces montees (for piano 4 hands)_ De L'enfance de Pantagruel (Reverie).flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 7/18 Trois petites pieces montees (for piano 4 hands)_ Marche de Cocagne (Demarche).flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 7/19 Trois petites pieces montees (for piano 4 hands)_ Jeux de Gargantua (Coin de Polka).flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 7/20 Reverie de L'enfance de Pantagruel.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 7/21 Premier Menuet.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 7/22 La Belle Excentrique (Fantaisie Serieuse) (for piano 4 hands)_ Marche Franco _ Lunaire.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 7/23 La Belle Excentrique (Fantaisie Serieuse) (for piano 4 hands)_ Grande Ritournelle.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 7/24 La Belle Excentrique (Fantaisie Serieuse) (for piano 4 hands)_ Valse du _Mysterieux baiser dans L'oeil_.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 7/25 La Belle Excentrique (Fantaisie Serieuse) (for piano 4 hands)_ Grande Ritournelle.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 7/26 La Belle Excentrique (Fantaisie Serieuse) (for piano 4 hands)_ Cancan Grand Mondain.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 8/01 Mercure - Poses plastiques_ Marche Ouverture.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 8/02 Mercure - Poses plastiques_ Premier Tableau, La Nuit.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 8/03 Mercure - Poses plastiques_ Premier Tableau, Danse de Tendresse.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 8/04 Mercure - Poses plastiques_ Premier Tableau, Signes du Zodiaque.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 8/05 Mercure - Poses plastiques_ Premier Tableau, Entree de Mercure.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 8/06 Mercure - Poses plastiques_ Deuxieme Tableau, Danse des Graces.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 8/07 Mercure - Poses plastiques_ Deuxieme Tableau, Bain des Graces.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 8/08 Mercure - Poses plastiques_ Deuxieme Tableau, Fuite de Mercure.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 8/09 Mercure - Poses plastiques_ Deuxieme Tableau, Colere de Cerbere.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 8/10 Mercure - Poses plastiques_ Troisieme Tableau, Polka des Lettres.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 8/11 Mercure - Poses plastiques_ Troisieme Tableau, Nouvelle Danse.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 8/12 Mercure - Poses plastiques_ Troisieme Tableau, Le Chaos.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 8/13 Mercure - Poses plastiques_ Troisieme Tableau, Rapt de Proserine.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 8/14 Relache (Ballet Suedois)_ Ouverture.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 8/15 Relache (Ballet Suedois)_ Premier Acte, Projection.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 8/16 Relache (Ballet Suedois)_ Premier Acte, Rideau.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 8/17 Relache (Ballet Suedois)_ Premier Acte, Entree de la Femme.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 8/18 Relache (Ballet Suedois)_ Premier Acte, _Musique_.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 8/19 Relache (Ballet Suedois)_ Premier Acte, Entree de l'Hommes.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 8/20 Relache (Ballet Suedois)_ Premier Acte, Danse de la Porte tournante.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 8/21 Relache (Ballet Suedois)_ Premier Acte, Entree des Hommes.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 8/22 Relache (Ballet Suedois)_ Premier Acte, Danse des Hommes.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 8/23 Relache (Ballet Suedois)_ Premier Acte, Danse de la Femme.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 8/24 Relache (Ballet Suedois)_ Premier Acte, Final.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 8/25 Relache (Ballet Suedois)_ Deuxieme Acte, Musique de Rentree.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 8/26 Relache (Ballet Suedois)_ Deuxieme Acte, Rentree des Hommes.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 8/27 Relache (Ballet Suedois)_ Deuxieme Acte, Rentree de la Femme.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 8/28 Relache (Ballet Suedois)_ Deuxieme Acte, Les Hommes se devetissent.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 8/29 Relache (Ballet Suedois)_ Deuxieme Acte, Danse de l'Homme et de la Femme.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 8/30 Relache (Ballet Suedois)_ Deuxieme Acte, Les Hommes reganent leur place et retrouvent leurs pardessus.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 8/31 Relache (Ballet Suedois)_ Deuxieme Acte, Danse de la Brouette.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 8/32 Relache (Ballet Suedois)_ Deuxieme Acte, Danse de la Couronne.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 8/33 Relache (Ballet Suedois)_ Deuxieme Acte, Le Danseur depose la Couronne sur la tete d'une spectatrice.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 8/34 Relache (Ballet Suedois)_ Deuxieme Acte, La Femme rejoint son fauteuil.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 8/35 Relache (Ballet Suedois)_ Deuxieme Acte, Petite Danse Finale (la Queue du Chien).flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 8/36 Cinema (for piano 4 hands)_ Cheminees, ballons qui explosent.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 8/37 Cinema (for piano 4 hands)_ Gants de boxe et allumettes.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 8/38 Cinema (for piano 4 hands)_ Prises d'air, jeux d'echec et bateaux sur les toits.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 8/39 Cinema (for piano 4 hands)_ La Danseuse et figures dans l'eau.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 8/40 Cinema (for piano 4 hands)_ Chasseur, et debut de l'enterrement.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 8/41 Cinema (for piano 4 hands)_ Marche funebre.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 8/42 Cinema (for piano 4 hands)_ Cortege au ralenti.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 8/43 Cinema (for piano 4 hands)_ La Poursuite.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 8/44 Cinema (for piano 4 hands)_ Chute du cerceuil et sortie de Borlin.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 8/45 Cinema (for piano 4 hands)_ Final (ecran creve et fin).flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 8/46 Jack In The Box (oeuvre posthume)_ Prelude.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 8/47 Jack In The Box (oeuvre posthume)_ Entr'acte.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 8/48 Jack In The Box (oeuvre posthume)_ Final.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 8/49 Allegro (oeuvre posthume).flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 9/01 Trois melodies de 1886_ Les Anges.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 9/02 Trois melodies de 1886_ Elegie.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 9/03 Trois melodies de 1886_ Sylvie.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 9/04 Trois autres melodies_ Chanson.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 9/05 Trois autres melodies_ Chanson Medievale.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 9/06 Trois autres melodies_ Les fleurs.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 9/07 Hymne pour le ''Salut Drapeau''.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 9/08 Trois Poemes d'amour_ Ne suis que grain de sable.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 9/09 Trois Poemes d'amour_ Suis chauve de naissance.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 9/10 Trois Poemes d'amour_ Ta parure est secrete.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 9/11 Trois melodies de 1916_ La statue de bronze.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 9/12 Trois melodies de 1916_ Dapheneo.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 9/13 Trois melodies de 1916_ Le Chapelier.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 9/14 Quatre petites melodies_ Elegie.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 9/15 Quatre petites melodies_ Danseuse.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 9/16 Quatre petites melodies_ Chanson.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 9/17 Quatre petites melodies_ Adieu.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 9/18 Ludions_ Air du Rat.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 9/19 Ludions_ Spleen.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 9/20 Ludions_ La Grenouille americaine.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 9/21 Ludions_ Air du poete.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 9/22 Ludions_ Chanson du chat.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 9/23 Chansons de Caf'conc'_ Je te veux.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 9/24 Chansons de Caf'conc'_ Un diner a l'Elysee.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 9/25 Chansons de Caf'conc'_ Tendrement.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 9/26 Chansons de Caf'conc'_ Chez le docteur.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 9/27 Chansons de Caf'conc'_ l'Omnibus-automobile.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 9/28 Chansons de Caf'conc'_ La Diva de l'Empire.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 9/29 Trois melodies sans paroles_ Rambouillet.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 9/30 Trois melodies sans paroles_ Les Oiseaux.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 9/31 Trois melodies sans paroles_ Marienbad.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/1995 Complete Piano Works, Volume 9/32 Allons-y Chochotte.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/2000 Complete Piano Works, Volume 10/01 Socrate (Drame Symphonique en trois parties aux voix)_ Portrait de Socrate (Le Banquet).flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/2000 Complete Piano Works, Volume 10/02 Socrate (Drame Symphonique en trois parties aux voix)_ Les Bords de l'Illussus (Phedre).flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/2000 Complete Piano Works, Volume 10/03 Socrate (Drame Symphonique en trois parties aux voix)_ Mort de Socrate (Phedon).flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/2000 Complete Piano Works, Volume 10/04 Genevieve de Brabant_ Premier Acte.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/2000 Complete Piano Works, Volume 10/05 Genevieve de Brabant_ Deuxieme Acte.flac
+/Users/Roambot/Dropbox/Music/Classical/Satie, Erik (1866-1925)/Bojan Gorisek/2000 Complete Piano Works, Volume 10/06 Genevieve de Brabant_ Troisieme Acte.flac
 /Users/Roambot/Dropbox/Music/Brad Mehldau/1993 New York - Barcelona Crossing, Volume 1/01 Wonderful.mp3
 /Users/Roambot/Dropbox/Music/Brad Mehldau/1993 New York - Barcelona Crossing, Volume 1/02 Spring Can Really Hang You Up the Most.mp3
 /Users/Roambot/Dropbox/Music/Brad Mehldau/1993 New York - Barcelona Crossing, Volume 1/03 Old Folks.mp3
 /Users/Roambot/Dropbox/Music/Brad Mehldau/1993 New York - Barcelona Crossing, Volume 1/04 Sushi.mp3
 /Users/Roambot/Dropbox/Music/Brad Mehldau/1993 New York - Barcelona Crossing, Volume 1/05 Bodi.mp3
-/Users/Roambot/Dropbox/Music/Brad Mehldau/1993 New York - Barcelona Crossing, Volume 1/06 Començar de Novo.mp3
+/Users/Roambot/Dropbox/Music/Brad Mehldau/1993 New York - Barcelona Crossing, Volume 1/06 Comencar de Novo.mp3
 /Users/Roambot/Dropbox/Music/Brad Mehldau/1993 New York - Barcelona Crossing, Volume 1/07 Just One of Those Things.mp3
 /Users/Roambot/Dropbox/Music/Brad Mehldau/1993 New York - Barcelona Crossing, Volume 1/08 No Blues.mp3
 /Users/Roambot/Dropbox/Music/Brad Mehldau/1993 New York - Barcelona Crossing, Volume 2/01 I've Told Every Little Star.mp3
@@ -1787,7 +1732,7 @@
 /Users/Roambot/Dropbox/Music/Brad Mehldau/1999 Elegiac Cycle/05 Lament for Linus.mp3
 /Users/Roambot/Dropbox/Music/Brad Mehldau/1999 Elegiac Cycle/06 Trailer Park Ghost.mp3
 /Users/Roambot/Dropbox/Music/Brad Mehldau/1999 Elegiac Cycle/07 Goodbye Storyteller (for Fred Myrow).mp3
-/Users/Roambot/Dropbox/Music/Brad Mehldau/1999 Elegiac Cycle/08 Rückblick.mp3
+/Users/Roambot/Dropbox/Music/Brad Mehldau/1999 Elegiac Cycle/08 Ruckblick.mp3
 /Users/Roambot/Dropbox/Music/Brad Mehldau/1999 Elegiac Cycle/09 The Bard Returns.mp3
 /Users/Roambot/Dropbox/Music/Brad Mehldau/2000 Consenting Adults/01 Belief.mp3
 /Users/Roambot/Dropbox/Music/Brad Mehldau/2000 Consenting Adults/02 Little Melonae I.mp3
@@ -1876,7 +1821,6 @@
 /Users/Roambot/Dropbox/Music/Brad Mehldau/2008 Brad Mehldau Trio Live/01 Introduction.mp3
 /Users/Roambot/Dropbox/Music/Brad Mehldau/2008 Brad Mehldau Trio Live/02 Wonderwall.mp3
 /Users/Roambot/Dropbox/Music/Brad Mehldau/2008 Brad Mehldau Trio Live/03 Ruby's Rub.mp3
-/Users/Roambot/Dropbox/Music/Brad Mehldau/2008 Brad Mehldau Trio Live/04 O Que Será.mp3
 /Users/Roambot/Dropbox/Music/Brad Mehldau/2008 Brad Mehldau Trio Live/05 B flat Waltz.mp3
 /Users/Roambot/Dropbox/Music/Brad Mehldau/2008 Brad Mehldau Trio Live/06 Black Hole Sun.mp3
 /Users/Roambot/Dropbox/Music/Brad Mehldau/2008 Brad Mehldau Trio Live/07 The Very Thought of You.mp3
@@ -1886,6 +1830,7 @@
 /Users/Roambot/Dropbox/Music/Brad Mehldau/2008 Brad Mehldau Trio Live/11 C.T.A_.mp3
 /Users/Roambot/Dropbox/Music/Brad Mehldau/2008 Brad Mehldau Trio Live/12 More Than You Know.mp3
 /Users/Roambot/Dropbox/Music/Brad Mehldau/2008 Brad Mehldau Trio Live/13 Countdown.mp3
+/Users/Roambot/Dropbox/Music/Brad Mehldau/2008 Brad Mehldau Trio Live/04 O Que Sera.mp3
 /Users/Roambot/Dropbox/Music/Brad Mehldau/2010 Highway Rider/01 John Boy.mp3
 /Users/Roambot/Dropbox/Music/Brad Mehldau/2010 Highway Rider/02 Don't Be Sad.mp3
 /Users/Roambot/Dropbox/Music/Brad Mehldau/2010 Highway Rider/03 At the Tollbooth.mp3
@@ -1901,26 +1846,6 @@
 /Users/Roambot/Dropbox/Music/Brad Mehldau/2010 Highway Rider/13 Come With Me.mp3
 /Users/Roambot/Dropbox/Music/Brad Mehldau/2010 Highway Rider/14 Always Departing.mp3
 /Users/Roambot/Dropbox/Music/Brad Mehldau/2010 Highway Rider/15 Always Returning.mp3
-/Users/Roambot/Dropbox/Music/Brad Mehldau/2010 Love Songs/01 It May Not Always Be So.mp3
-/Users/Roambot/Dropbox/Music/Brad Mehldau/2010 Love Songs/02 We Met at the End of the Party.mp3
-/Users/Roambot/Dropbox/Music/Brad Mehldau/2010 Love Songs/03 Child, Child.mp3
-/Users/Roambot/Dropbox/Music/Brad Mehldau/2010 Love Songs/04 Twilight.mp3
-/Users/Roambot/Dropbox/Music/Brad Mehldau/2010 Love Songs/05 Because.mp3
-/Users/Roambot/Dropbox/Music/Brad Mehldau/2010 Love Songs/06 Dreams.mp3
-/Users/Roambot/Dropbox/Music/Brad Mehldau/2010 Love Songs/07 Did You Never Know_.mp3
-/Users/Roambot/Dropbox/Music/Brad Mehldau/2010 Love Songs/08 Avec le temps.mp3
-/Users/Roambot/Dropbox/Music/Brad Mehldau/2010 Love Songs/09 Pierre.mp3
-/Users/Roambot/Dropbox/Music/Brad Mehldau/2010 Love Songs/10 Marcie.mp3
-/Users/Roambot/Dropbox/Music/Brad Mehldau/2010 Love Songs/11 Something Good.mp3
-/Users/Roambot/Dropbox/Music/Brad Mehldau/2010 Love Songs/12 Chanson de Maxence (from Les Demoiselles de Rochefort).mp3
-/Users/Roambot/Dropbox/Music/Brad Mehldau/2010 Love Songs/13 Chanson des vieux amants.mp3
-/Users/Roambot/Dropbox/Music/Brad Mehldau/2010 Love Songs/14 Sakta vi ga genom stan (Walking My Baby Back Home).mp3
-/Users/Roambot/Dropbox/Music/Brad Mehldau/2010 Love Songs/15 Att angora en brygga.mp3
-/Users/Roambot/Dropbox/Music/Brad Mehldau/2010 Love Songs/16 Dis, quand reviendras-tu_.mp3
-/Users/Roambot/Dropbox/Music/Brad Mehldau/2010 Love Songs/17 What Are You Doing the Rest of Your Life_ (from The Happy Ending).mp3
-/Users/Roambot/Dropbox/Music/Brad Mehldau/2010 Love Songs/18 Calling You (from Bagdad Cafe).mp3
-/Users/Roambot/Dropbox/Music/Brad Mehldau/2010 Love Songs/19 Blackbird.mp3
-/Users/Roambot/Dropbox/Music/Brad Mehldau/2010 Love Songs/20 Some Other Time.mp3
 /Users/Roambot/Dropbox/Music/Brad Mehldau/2006 Love Sublime/01 Your First Word Was Light.mp3
 /Users/Roambot/Dropbox/Music/Brad Mehldau/2006 Love Sublime/02 The Hour Is Striking So Close Above Me.mp3
 /Users/Roambot/Dropbox/Music/Brad Mehldau/2006 Love Sublime/03 I Love the Dark Hours of My Being.mp3
@@ -1954,13 +1879,13 @@
 /Users/Roambot/Dropbox/Music/Broken Social Scene/2004 Bee Hives/07 Ambulance for the Ambience.mp3
 /Users/Roambot/Dropbox/Music/Broken Social Scene/2004 Bee Hives/08 Time = Cause.mp3
 /Users/Roambot/Dropbox/Music/Broken Social Scene/2004 Bee Hives/09 Lover's Spit.mp3
-/Users/Roambot/Dropbox/Music/Broken Social Scene/2006 E.P. to Be You and Me/01 Her Disappearing Theme.m4a
-/Users/Roambot/Dropbox/Music/Broken Social Scene/2006 E.P. to Be You and Me/02 Canada vs. America.m4a
-/Users/Roambot/Dropbox/Music/Broken Social Scene/2006 E.P. to Be You and Me/03 Baroque Social.m4a
-/Users/Roambot/Dropbox/Music/Broken Social Scene/2006 E.P. to Be You and Me/04 No Smiling Darkness _ Snake Charmers Association.m4a
-/Users/Roambot/Dropbox/Music/Broken Social Scene/2006 E.P. to Be You and Me/05 All My Friends.m4a
-/Users/Roambot/Dropbox/Music/Broken Social Scene/2006 E.P. to Be You and Me/06 Major Label Debut (fast).m4a
-/Users/Roambot/Dropbox/Music/Broken Social Scene/2006 E.P. to Be You and Me/07 Feel Good Lost Reprise.m4a
+/Users/Roambot/Dropbox/Music/Broken Social Scene/2006 EP to Be You and Me/01 Her Disappearing Theme.m4a
+/Users/Roambot/Dropbox/Music/Broken Social Scene/2006 EP to Be You and Me/02 Canada vs. America.m4a
+/Users/Roambot/Dropbox/Music/Broken Social Scene/2006 EP to Be You and Me/03 Baroque Social.m4a
+/Users/Roambot/Dropbox/Music/Broken Social Scene/2006 EP to Be You and Me/04 No Smiling Darkness _ Snake Charmers Association.m4a
+/Users/Roambot/Dropbox/Music/Broken Social Scene/2006 EP to Be You and Me/05 All My Friends.m4a
+/Users/Roambot/Dropbox/Music/Broken Social Scene/2006 EP to Be You and Me/06 Major Label Debut (fast).m4a
+/Users/Roambot/Dropbox/Music/Broken Social Scene/2006 EP to Be You and Me/07 Feel Good Lost Reprise.m4a
 /Users/Roambot/Dropbox/Music/Broken Social Scene/2007 Feel Good Lost/01 I Slept With Bonhomme at the CBC.m4a
 /Users/Roambot/Dropbox/Music/Broken Social Scene/2007 Feel Good Lost/02 Guilty Cubicles.m4a
 /Users/Roambot/Dropbox/Music/Broken Social Scene/2007 Feel Good Lost/03 Love and Mathematics.m4a
@@ -2073,12 +1998,30 @@
 /Users/Roambot/Dropbox/Music/Chihei Hatakeyama/2010 Ghostly Garden/06 Stone Wall Island.mp3
 /Users/Roambot/Dropbox/Music/Chihei Hatakeyama/2010 Ghostly Garden/07 Sacred Flowers.mp3
 /Users/Roambot/Dropbox/Music/Chihei Hatakeyama/2010 Ghostly Garden/08 Ghostly Garden.mp3
+/Users/Roambot/Dropbox/Music/Chihei Hatakeyama/2010 A Long Journey/01 Morning Arrive on the Island.mp3
+/Users/Roambot/Dropbox/Music/Chihei Hatakeyama/2010 A Long Journey/02 Waves.mp3
+/Users/Roambot/Dropbox/Music/Chihei Hatakeyama/2010 A Long Journey/03 Confession.mp3
+/Users/Roambot/Dropbox/Music/Chihei Hatakeyama/2010 A Long Journey/04 The Moon Reflecting on the Surface of the Ocean.mp3
+/Users/Roambot/Dropbox/Music/Chihei Hatakeyama/2010 A Long Journey/05 Within New Trees.mp3
+/Users/Roambot/Dropbox/Music/Chihei Hatakeyama/2010 A Long Journey/06 A Quiet Pond.mp3
+/Users/Roambot/Dropbox/Music/Chihei Hatakeyama/2010 A Long Journey/07 The Distant Sound of a Bustle.mp3
+/Users/Roambot/Dropbox/Music/Chihei Hatakeyama/2010 A Long Journey/08 Calm.mp3
+/Users/Roambot/Dropbox/Music/Chihei Hatakeyama/2010 A Long Journey/09 White Light.mp3
+/Users/Roambot/Dropbox/Music/Chihei Hatakeyama/2010 A Long Journey/10 Haze From the River.mp3
+/Users/Roambot/Dropbox/Music/Chihei Hatakeyama/2010 A Long Journey/11 The Dance of the Sea.mp3
 /Users/Roambot/Dropbox/Music/Chihei Hatakeyama/2012 Norma/01 Benetnasch.flac
 /Users/Roambot/Dropbox/Music/Chihei Hatakeyama/2012 Norma/02 Rigel.flac
 /Users/Roambot/Dropbox/Music/Chihei Hatakeyama/2012 Norma/03 Mizar.flac
 /Users/Roambot/Dropbox/Music/Chihei Hatakeyama/2012 Norma/04 Betelgeuse.flac
 /Users/Roambot/Dropbox/Music/Chihei Hatakeyama/2012 Norma/05 Merak.flac
 /Users/Roambot/Dropbox/Music/Chihei Hatakeyama/2012 Norma/06 Algenib.flac
+/Users/Roambot/Dropbox/Music/Chihei Hatakeyama/2013 The Bull Head Emperor/01 Dark Sea.mp3
+/Users/Roambot/Dropbox/Music/Chihei Hatakeyama/2013 The Bull Head Emperor/02 Vendetta.mp3
+/Users/Roambot/Dropbox/Music/Chihei Hatakeyama/2013 The Bull Head Emperor/03 Salvation.mp3
+/Users/Roambot/Dropbox/Music/Chihei Hatakeyama/2014 Winter Storm/01 Don't Ask What.mp3
+/Users/Roambot/Dropbox/Music/Chihei Hatakeyama/2014 Winter Storm/02 Window to the Past.mp3
+/Users/Roambot/Dropbox/Music/Chihei Hatakeyama/2014 Winter Storm/03 Lydia.mp3
+/Users/Roambot/Dropbox/Music/Chihei Hatakeyama/2014 Winter Storm/04 Winter Storm.mp3
 /Users/Roambot/Dropbox/Music/Christopher Willits/2014 OPENING/01 VISION.mp3
 /Users/Roambot/Dropbox/Music/Christopher Willits/2014 OPENING/02 CLEAR.mp3
 /Users/Roambot/Dropbox/Music/Christopher Willits/2014 OPENING/03 GROUND.mp3
@@ -2143,24 +2086,24 @@
 /Users/Roambot/Dropbox/Music/Deerhunter/2010 Halcyon Digest/09 Fountain Stairs.mp3
 /Users/Roambot/Dropbox/Music/Deerhunter/2010 Halcyon Digest/10 Coronado.mp3
 /Users/Roambot/Dropbox/Music/Deerhunter/2010 Halcyon Digest/11 He Would Have Laughed.mp3
-/Users/Roambot/Dropbox/Music/Dirk Powell, Tim O’Brien & John Herrmann/1999 Songs From the Mountain/01 Mountain Air _ Washington's March _ Bonaparte's Retreat.m4a
-/Users/Roambot/Dropbox/Music/Dirk Powell, Tim O’Brien & John Herrmann/1999 Songs From the Mountain/02 Cluck Old Hen.m4a
-/Users/Roambot/Dropbox/Music/Dirk Powell, Tim O’Brien & John Herrmann/1999 Songs From the Mountain/03 Raleigh and Spencer.m4a
-/Users/Roambot/Dropbox/Music/Dirk Powell, Tim O’Brien & John Herrmann/1999 Songs From the Mountain/04 The Blackest Crow.m4a
-/Users/Roambot/Dropbox/Music/Dirk Powell, Tim O’Brien & John Herrmann/1999 Songs From the Mountain/05 Stobrod's Tune.m4a
-/Users/Roambot/Dropbox/Music/Dirk Powell, Tim O’Brien & John Herrmann/1999 Songs From the Mountain/06 When I Die I'll Live Again.m4a
-/Users/Roambot/Dropbox/Music/Dirk Powell, Tim O’Brien & John Herrmann/1999 Songs From the Mountain/07 The Drunkard's Hiccups (Jack of Diamonds).m4a
-/Users/Roambot/Dropbox/Music/Dirk Powell, Tim O’Brien & John Herrmann/1999 Songs From the Mountain/08 Backstep Cindy.m4a
-/Users/Roambot/Dropbox/Music/Dirk Powell, Tim O’Brien & John Herrmann/1999 Songs From the Mountain/09 Wayfarin' Stranger.m4a
-/Users/Roambot/Dropbox/Music/Dirk Powell, Tim O’Brien & John Herrmann/1999 Songs From the Mountain/10 Skillet Good and Greasy.m4a
-/Users/Roambot/Dropbox/Music/Dirk Powell, Tim O’Brien & John Herrmann/1999 Songs From the Mountain/11 Mole in the Ground.m4a
-/Users/Roambot/Dropbox/Music/Dirk Powell, Tim O’Brien & John Herrmann/1999 Songs From the Mountain/12 Claire Dechutes.m4a
-/Users/Roambot/Dropbox/Music/Dirk Powell, Tim O’Brien & John Herrmann/1999 Songs From the Mountain/13 Cherokee Trail _ Glory in the Meeting House.m4a
-/Users/Roambot/Dropbox/Music/Dirk Powell, Tim O’Brien & John Herrmann/1999 Songs From the Mountain/14 Bow Down.m4a
-/Users/Roambot/Dropbox/Music/Dirk Powell, Tim O’Brien & John Herrmann/1999 Songs From the Mountain/15 Lonesome John.m4a
-/Users/Roambot/Dropbox/Music/Dirk Powell, Tim O’Brien & John Herrmann/1999 Songs From the Mountain/16 Fair Margaret and Sweet William.m4a
-/Users/Roambot/Dropbox/Music/Dirk Powell, Tim O’Brien & John Herrmann/1999 Songs From the Mountain/17 Hard Times.m4a
-/Users/Roambot/Dropbox/Music/Dirk Powell, Tim O’Brien & John Herrmann/1999 Songs From the Mountain/18 Angel Band.m4a
+/Users/Roambot/Dropbox/Music/Dirk Powell, Tim O'Brien & John Herrmann/1999 Songs From the Mountain/01 Mountain Air _ Washington's March _ Bonaparte's Retreat.m4a
+/Users/Roambot/Dropbox/Music/Dirk Powell, Tim O'Brien & John Herrmann/1999 Songs From the Mountain/02 Cluck Old Hen.m4a
+/Users/Roambot/Dropbox/Music/Dirk Powell, Tim O'Brien & John Herrmann/1999 Songs From the Mountain/03 Raleigh and Spencer.m4a
+/Users/Roambot/Dropbox/Music/Dirk Powell, Tim O'Brien & John Herrmann/1999 Songs From the Mountain/04 The Blackest Crow.m4a
+/Users/Roambot/Dropbox/Music/Dirk Powell, Tim O'Brien & John Herrmann/1999 Songs From the Mountain/05 Stobrod's Tune.m4a
+/Users/Roambot/Dropbox/Music/Dirk Powell, Tim O'Brien & John Herrmann/1999 Songs From the Mountain/06 When I Die I'll Live Again.m4a
+/Users/Roambot/Dropbox/Music/Dirk Powell, Tim O'Brien & John Herrmann/1999 Songs From the Mountain/07 The Drunkard's Hiccups (Jack of Diamonds).m4a
+/Users/Roambot/Dropbox/Music/Dirk Powell, Tim O'Brien & John Herrmann/1999 Songs From the Mountain/08 Backstep Cindy.m4a
+/Users/Roambot/Dropbox/Music/Dirk Powell, Tim O'Brien & John Herrmann/1999 Songs From the Mountain/09 Wayfarin' Stranger.m4a
+/Users/Roambot/Dropbox/Music/Dirk Powell, Tim O'Brien & John Herrmann/1999 Songs From the Mountain/10 Skillet Good and Greasy.m4a
+/Users/Roambot/Dropbox/Music/Dirk Powell, Tim O'Brien & John Herrmann/1999 Songs From the Mountain/11 Mole in the Ground.m4a
+/Users/Roambot/Dropbox/Music/Dirk Powell, Tim O'Brien & John Herrmann/1999 Songs From the Mountain/12 Claire Dechutes.m4a
+/Users/Roambot/Dropbox/Music/Dirk Powell, Tim O'Brien & John Herrmann/1999 Songs From the Mountain/13 Cherokee Trail _ Glory in the Meeting House.m4a
+/Users/Roambot/Dropbox/Music/Dirk Powell, Tim O'Brien & John Herrmann/1999 Songs From the Mountain/14 Bow Down.m4a
+/Users/Roambot/Dropbox/Music/Dirk Powell, Tim O'Brien & John Herrmann/1999 Songs From the Mountain/15 Lonesome John.m4a
+/Users/Roambot/Dropbox/Music/Dirk Powell, Tim O'Brien & John Herrmann/1999 Songs From the Mountain/16 Fair Margaret and Sweet William.m4a
+/Users/Roambot/Dropbox/Music/Dirk Powell, Tim O'Brien & John Herrmann/1999 Songs From the Mountain/17 Hard Times.m4a
+/Users/Roambot/Dropbox/Music/Dirk Powell, Tim O'Brien & John Herrmann/1999 Songs From the Mountain/18 Angel Band.m4a
 /Users/Roambot/Dropbox/Music/Dntel/2011 Life Is Full of Possibilities/01 Umbrella.mp3
 /Users/Roambot/Dropbox/Music/Dntel/2011 Life Is Full of Possibilities/02 Anywhere Anyone.mp3
 /Users/Roambot/Dropbox/Music/Dntel/2011 Life Is Full of Possibilities/03 Pillowcase.mp3
@@ -2451,10 +2394,10 @@
 /Users/Roambot/Dropbox/Music/Keith Jarrett/1974 Backhand/02 Kuum.flac
 /Users/Roambot/Dropbox/Music/Keith Jarrett/1974 Backhand/03 Vapallia.flac
 /Users/Roambot/Dropbox/Music/Keith Jarrett/1974 Backhand/04 Backhand.flac
-/Users/Roambot/Dropbox/Music/Keith Jarrett/1975 The Köln Concert/01 Köln, January 24, 1975, Part I.mp3
-/Users/Roambot/Dropbox/Music/Keith Jarrett/1975 The Köln Concert/02 Köln, January 24, 1975, Part IIa.mp3
-/Users/Roambot/Dropbox/Music/Keith Jarrett/1975 The Köln Concert/03 Köln, January 24, 1975, Part IIb.mp3
-/Users/Roambot/Dropbox/Music/Keith Jarrett/1975 The Köln Concert/04 Köln, January 24, 1975, Part IIc.mp3
+/Users/Roambot/Dropbox/Music/Keith Jarrett/1975 The Koln Concert/01 Koln, January 24, 1975, Part I.mp3
+/Users/Roambot/Dropbox/Music/Keith Jarrett/1975 The Koln Concert/02 Koln, January 24, 1975, Part IIa.mp3
+/Users/Roambot/Dropbox/Music/Keith Jarrett/1975 The Koln Concert/03 Koln, January 24, 1975, Part IIb.mp3
+/Users/Roambot/Dropbox/Music/Keith Jarrett/1975 The Koln Concert/04 Koln, January 24, 1975, Part IIc.mp3
 /Users/Roambot/Dropbox/Music/Keith Jarrett/1977 The Survivors' Suite/01 Beginning.flac
 /Users/Roambot/Dropbox/Music/Keith Jarrett/1977 The Survivors' Suite/02 Conclusion.flac
 /Users/Roambot/Dropbox/Music/Keith Jarrett/1991 Death and the Flower/01 Death and the Flower.flac
@@ -2511,14 +2454,14 @@
 /Users/Roambot/Dropbox/Music/Keith Jarrett/2000 Arbour Zena/01 Runes (Dedicated to the Unknown).flac
 /Users/Roambot/Dropbox/Music/Keith Jarrett/2000 Arbour Zena/02 Solara March (Dedicated to Pablo Casals and the Sun).flac
 /Users/Roambot/Dropbox/Music/Keith Jarrett/2000 Arbour Zena/03 Mirrors (Dedicated to My Teachers).flac
-/Users/Roambot/Dropbox/Music/Keith Jarrett & Charlie Haden/2010 Jasmine/01 For All We Know.mp3
-/Users/Roambot/Dropbox/Music/Keith Jarrett & Charlie Haden/2010 Jasmine/02 Where Can I Go Without You.mp3
-/Users/Roambot/Dropbox/Music/Keith Jarrett & Charlie Haden/2010 Jasmine/03 No Moon at All.mp3
-/Users/Roambot/Dropbox/Music/Keith Jarrett & Charlie Haden/2010 Jasmine/04 One Day I'll Fly Away.mp3
-/Users/Roambot/Dropbox/Music/Keith Jarrett & Charlie Haden/2010 Jasmine/05 I'm Gonna Laugh You Right Out of My Life.mp3
-/Users/Roambot/Dropbox/Music/Keith Jarrett & Charlie Haden/2010 Jasmine/06 Body and Soul.mp3
-/Users/Roambot/Dropbox/Music/Keith Jarrett & Charlie Haden/2010 Jasmine/07 Goodbye.mp3
-/Users/Roambot/Dropbox/Music/Keith Jarrett & Charlie Haden/2010 Jasmine/08 Don't Ever Leave Me.mp3
+/Users/Roambot/Dropbox/Music/Keith Jarrett _ Charlie Haden/2010 Jasmine/01 For All We Know.mp3
+/Users/Roambot/Dropbox/Music/Keith Jarrett _ Charlie Haden/2010 Jasmine/02 Where Can I Go Without You.mp3
+/Users/Roambot/Dropbox/Music/Keith Jarrett _ Charlie Haden/2010 Jasmine/03 No Moon at All.mp3
+/Users/Roambot/Dropbox/Music/Keith Jarrett _ Charlie Haden/2010 Jasmine/04 One Day I'll Fly Away.mp3
+/Users/Roambot/Dropbox/Music/Keith Jarrett _ Charlie Haden/2010 Jasmine/05 I'm Gonna Laugh You Right Out of My Life.mp3
+/Users/Roambot/Dropbox/Music/Keith Jarrett _ Charlie Haden/2010 Jasmine/06 Body and Soul.mp3
+/Users/Roambot/Dropbox/Music/Keith Jarrett _ Charlie Haden/2010 Jasmine/07 Goodbye.mp3
+/Users/Roambot/Dropbox/Music/Keith Jarrett _ Charlie Haden/2010 Jasmine/08 Don't Ever Leave Me.mp3
 /Users/Roambot/Dropbox/Music/Keith Jarrett Trio/1983 Standards, Volume 1/01 Meaning of the Blues.flac
 /Users/Roambot/Dropbox/Music/Keith Jarrett Trio/1983 Standards, Volume 1/02 All the Things You Are.flac
 /Users/Roambot/Dropbox/Music/Keith Jarrett Trio/1983 Standards, Volume 1/03 It Never Entered My Mind.flac
@@ -2539,6 +2482,44 @@
 /Users/Roambot/Dropbox/Music/Keith Jarrett Trio/1986 Standards Live/04 Too Young to Go Steady.flac
 /Users/Roambot/Dropbox/Music/Keith Jarrett Trio/1986 Standards Live/05 The Way You Look Tonight.flac
 /Users/Roambot/Dropbox/Music/Keith Jarrett Trio/1986 Standards Live/06 The Old Country.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Konstantin Scherbakov/2005 LISZT_ Beethoven Symphonies Nos. 1-9 (Transcriptions) []/01 Beethoven_ Symphony No. 1 in C major, piano transcription, S.mp3
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Konstantin Scherbakov/2005 LISZT_ Beethoven Symphonies Nos. 1-9 (Transcriptions) []/02 Beethoven_ Symphony No. 1 in C major, piano transcription, S.mp3
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Konstantin Scherbakov/2005 LISZT_ Beethoven Symphonies Nos. 1-9 (Transcriptions) []/03 Beethoven_ Symphony No. 1 in C major, piano transcription, S.mp3
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Konstantin Scherbakov/2005 LISZT_ Beethoven Symphonies Nos. 1-9 (Transcriptions) []/04 Beethoven_ Symphony No. 1 in C major, piano transcription, S.mp3
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Konstantin Scherbakov/2005 LISZT_ Beethoven Symphonies Nos. 1-9 (Transcriptions) []/05 Beethoven_ Symphony No. 3 in E flat major, _Eroica_, piano t.mp3
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Konstantin Scherbakov/2005 LISZT_ Beethoven Symphonies Nos. 1-9 (Transcriptions) []/06 Beethoven_ Symphony No. 3 in E flat major, _Eroica_, piano t.mp3
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Konstantin Scherbakov/2005 LISZT_ Beethoven Symphonies Nos. 1-9 (Transcriptions) []/07 Beethoven_ Symphony No. 3 in E flat major, _Eroica_, piano t.mp3
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Konstantin Scherbakov/2005 LISZT_ Beethoven Symphonies Nos. 1-9 (Transcriptions) []/08 Beethoven_ Symphony No. 3 in E flat major, _Eroica_, piano t.mp3
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Konstantin Scherbakov/2005 LISZT_ Beethoven Symphonies Nos. 1-9 (Transcriptions) []/01 Beethoven_ Symphony No. 2 in D major, piano transcription, S.mp3
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Konstantin Scherbakov/2005 LISZT_ Beethoven Symphonies Nos. 1-9 (Transcriptions) []/02 Beethoven_ Symphony No. 2 in D major, piano transcription, S.mp3
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Konstantin Scherbakov/2005 LISZT_ Beethoven Symphonies Nos. 1-9 (Transcriptions) []/03 Beethoven_ Symphony No. 2 in D major, piano transcription, S.mp3
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Konstantin Scherbakov/2005 LISZT_ Beethoven Symphonies Nos. 1-9 (Transcriptions) []/04 Beethoven_ Symphony No. 2 in D major, piano transcription, S.mp3
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Konstantin Scherbakov/2005 LISZT_ Beethoven Symphonies Nos. 1-9 (Transcriptions) []/05 Beethoven_ Symphony No. 5 in C minor, piano transcription, S.mp3
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Konstantin Scherbakov/2005 LISZT_ Beethoven Symphonies Nos. 1-9 (Transcriptions) []/06 Beethoven_ Symphony No. 5 in C minor, piano transcription, S.mp3
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Konstantin Scherbakov/2005 LISZT_ Beethoven Symphonies Nos. 1-9 (Transcriptions) []/07 Beethoven_ Symphony No. 5 in C minor, piano transcription, S.mp3
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Konstantin Scherbakov/2005 LISZT_ Beethoven Symphonies Nos. 1-9 (Transcriptions) []/08 Beethoven_ Symphony No. 5 in C minor, piano transcription, S.mp3
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Konstantin Scherbakov/2005 LISZT_ Beethoven Symphonies Nos. 1-9 (Transcriptions) [album]/01 Beethoven_ Symphony No. 6 in F major, Op. 68 _Pastoral__ I. Allegro, ma non troppo _Cheerful feelings arriving in the countryside_.mp3
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Konstantin Scherbakov/2005 LISZT_ Beethoven Symphonies Nos. 1-9 (Transcriptions) [album]/02 Beethoven_ Symphony No. 6 in F major, Op. 68 _Pastoral__ II. Andante molto mosso _Scene at the brook_.mp3
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Konstantin Scherbakov/2005 LISZT_ Beethoven Symphonies Nos. 1-9 (Transcriptions) [album]/03 Beethoven_ Symphony No. 6 in F major, Op. 68 _Pastoral__ III. Allegro _Happy gathering of villagers_.mp3
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Konstantin Scherbakov/2005 LISZT_ Beethoven Symphonies Nos. 1-9 (Transcriptions) [album]/04 Beethoven_ Symphony No. 6 in F major, Op. 68 _Pastoral__ IV. Allegro _Thunderstorm_.mp3
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Konstantin Scherbakov/2005 LISZT_ Beethoven Symphonies Nos. 1-9 (Transcriptions) [album]/05 Beethoven_ Symphony No. 6 in F major, Op. 68 _Pastoral__ V. Allegretto _Shepherd's song_ Feeling of thankfulness after the storm_.mp3
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Konstantin Scherbakov/2005 LISZT_ Beethoven Symphonies Nos. 1-9 (Transcriptions) [album]/06 Beethoven_ Symphony No. 4 in B-flat major, Op. 60_ I. Adagio - Allegro vivace.mp3
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Konstantin Scherbakov/2005 LISZT_ Beethoven Symphonies Nos. 1-9 (Transcriptions) [album]/07 Beethoven_ Symphony No. 4 in B-flat major, Op. 60_ II. Adagio.mp3
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Konstantin Scherbakov/2005 LISZT_ Beethoven Symphonies Nos. 1-9 (Transcriptions) [album]/08 Beethoven_ Symphony No. 4 in B-flat major, Op. 60_ III. Allegro vivace. Trio un poco meno, Allegro, Tempo I, Un poco meno Allegro. Tempo I_.mp3
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Konstantin Scherbakov/2005 LISZT_ Beethoven Symphonies Nos. 1-9 (Transcriptions) [album]/09 Beethoven_ Symphony No. 4 in B-flat major, Op. 60_ IV. Allegro, ma non troppo.mp3
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Konstantin Scherbakov/2005 LISZT_ Beethoven Symphonies Nos. 1-9 (Transcriptions) []/01 Beethoven_ Symphony No. 7 in A major, S464_R128_ I. Poco so.mp3
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Konstantin Scherbakov/2005 LISZT_ Beethoven Symphonies Nos. 1-9 (Transcriptions) []/02 Beethoven_ Symphony No. 7 in A major, S464_R128_ II. Allegr.mp3
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Konstantin Scherbakov/2005 LISZT_ Beethoven Symphonies Nos. 1-9 (Transcriptions) []/03 Beethoven_ Symphony No. 7 in A major, S464_R128_ III. Scher.mp3
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Konstantin Scherbakov/2005 LISZT_ Beethoven Symphonies Nos. 1-9 (Transcriptions) []/04 Beethoven_ Symphony No. 7 in A major, S464_R128_ IV. Allegr.mp3
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Konstantin Scherbakov/2005 LISZT_ Beethoven Symphonies Nos. 1-9 (Transcriptions) []/05 Beethoven_ Symphony No. 8 in F major, S464_R128_ I. Allegro.mp3
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Konstantin Scherbakov/2005 LISZT_ Beethoven Symphonies Nos. 1-9 (Transcriptions) []/06 Beethoven_ Symphony No. 8 in F major, S464_R128_ II. Allegr.mp3
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Konstantin Scherbakov/2005 LISZT_ Beethoven Symphonies Nos. 1-9 (Transcriptions) []/07 Beethoven_ Symphony No. 8 in F major, S464_R128_ III. Tempo.mp3
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Konstantin Scherbakov/2005 LISZT_ Beethoven Symphonies Nos. 1-9 (Transcriptions) []/08 Beethoven_ Symphony No. 8 in F major, S464_R128_ IV. Allegr.mp3
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Konstantin Scherbakov/2005 LISZT_ Beethoven Symphonies Nos. 1-9 (Transcriptions) []/01 Beethoven_ Symphony No. 9  in D minor, _Choral_, piano trans.mp3
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Konstantin Scherbakov/2005 LISZT_ Beethoven Symphonies Nos. 1-9 (Transcriptions) []/02 Beethoven_ Symphony No. 9  in D minor, _Choral_, piano trans.mp3
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Konstantin Scherbakov/2005 LISZT_ Beethoven Symphonies Nos. 1-9 (Transcriptions) []/03 Beethoven_ Symphony No. 9  in D minor, _Choral_, piano trans.mp3
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Konstantin Scherbakov/2005 LISZT_ Beethoven Symphonies Nos. 1-9 (Transcriptions) []/04 Beethoven_ Symphony No. 9  in D minor, _Choral_, piano trans.mp3
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Konstantin Scherbakov/2005 LISZT_ Beethoven Symphonies Nos. 1-9 (Transcriptions) []/05 Beethoven_ Symphony No. 9  in D minor, _Choral_, piano trans.mp3
 /Users/Roambot/Dropbox/Music/Classical/Kronos Quartet/Kronos Quartet/1997 Early Music (Lachrymae Antiquae)/01 Kyrie I.m4a
 /Users/Roambot/Dropbox/Music/Classical/Kronos Quartet/Kronos Quartet/1997 Early Music (Lachrymae Antiquae)/02 Rachell's Weepinge.m4a
 /Users/Roambot/Dropbox/Music/Classical/Kronos Quartet/Kronos Quartet/1997 Early Music (Lachrymae Antiquae)/03 Langdans efter Byfans Mats.m4a
@@ -2560,6 +2541,170 @@
 /Users/Roambot/Dropbox/Music/Classical/Kronos Quartet/Kronos Quartet/1997 Early Music (Lachrymae Antiquae)/19 Farwell My Good I. Forever.m4a
 /Users/Roambot/Dropbox/Music/Classical/Kronos Quartet/Kronos Quartet/1997 Early Music (Lachrymae Antiquae)/20 Collected Songs Where Every Verse is Filled with Grief.m4a
 /Users/Roambot/Dropbox/Music/Classical/Kronos Quartet/Kronos Quartet/1997 Early Music (Lachrymae Antiquae)/21 Bells.m4a
+/Users/Roambot/Dropbox/Music/L'usine/1999 L'usine/01 Charydis.mp3
+/Users/Roambot/Dropbox/Music/L'usine/1999 L'usine/02 Scratch.mp3
+/Users/Roambot/Dropbox/Music/L'usine/1999 L'usine/03 Duck, Cover, Hold.mp3
+/Users/Roambot/Dropbox/Music/L'usine/1999 L'usine/04 Man-Made.mp3
+/Users/Roambot/Dropbox/Music/L'usine/1999 L'usine/05 Flinch.mp3
+/Users/Roambot/Dropbox/Music/L'usine/1999 L'usine/06 Plastic.mp3
+/Users/Roambot/Dropbox/Music/L'usine/1999 L'usine/07 Snap.mp3
+/Users/Roambot/Dropbox/Music/L'usine/1999 L'usine/08 Twitch.mp3
+/Users/Roambot/Dropbox/Music/L'usine/1999 L'usine/09 Coded.mp3
+/Users/Roambot/Dropbox/Music/L'usine/1999 L'usine/10 Contamination.mp3
+/Users/Roambot/Dropbox/Music/L'usine/1999 L'usine/11 Rust.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2000 A Pseudo Steady State/01 Feedme.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2000 A Pseudo Steady State/02 Sem 1.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2000 A Pseudo Steady State/03 Freak.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2000 A Pseudo Steady State/04 Threshold of Pain.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2000 A Pseudo Steady State/05 Sem 2.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2000 A Pseudo Steady State/06 Lazydayz.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2000 A Pseudo Steady State/07 Sem 3.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2000 A Pseudo Steady State/08 Slipthrough.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2000 A Pseudo Steady State/09 Mod.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2000 A Pseudo Steady State/10 Sem 4.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2000 A Pseudo Steady State/11 Back Track.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2001 Surface EP/01 Squeak.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2001 Surface EP/02 Deadend.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2001 Surface EP/03 Wasteland.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2001 Surface EP/04 Flat.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2001 Slipthrough/01 Lazydayz.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2001 Slipthrough/02 Sem 1.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2001 Slipthrough/03 Slipthrough.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2001 Slipthrough/04 Sem 3.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2001 Slipthrough/05 Sem 2.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2001 Slipthrough/06 Twister.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2001 Slipthrough/07 Backtrack.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2001 Coalition 2000/01 Night One.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2001 Coalition 2000/02 Sem 3.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2001 Coalition 2000/03 Lazydayz.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2001 Coalition 2000/04 Out-Takes.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2001 Coalition 2000/05 Plastic.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2001 Coalition 2000/06 Deadend.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2001 Coalition 2000/07 B308.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2001 Coalition 2000/08 Feedme.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2002 Lusine ICL _ The Buddy System/01 Vacate.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2002 Lusine ICL _ The Buddy System/02 Missing You Much.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2002 Iron City/01 Blind.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2002 Iron City/02 Invisible.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2002 Iron City/03 Shoot the Moon.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2002 Iron City/04 Strand.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2002 Iron City/05 Numbers.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2002 Iron City/06 Tonic.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2002 Iron City/07 Scheming.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2002 Iron City/08 Bent.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2002 Iron City/09 The Fast Lane.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2002 Iron City/10 Perpetual.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2002 Iron City/11 Running in Place.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2003 Condensed/01 In Flight.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2003 Condensed/02 Risa.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2003 Condensed/03 Chao.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2003 Condensed/04 Rabblerouse.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2003 Condensed/05 Dr. Chinme.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2003 Condensed/06 Shin.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2003 Condensed/07 Rushhour.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2003 Condensed/08 Chao (Crunch mix).mp3
+/Users/Roambot/Dropbox/Music/L'usine/2003 Condensed/09 Cascade.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2003 Condensed/10 Vacate.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2003 Condensed/11 Mojave.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2003 Condensed/12 Lullaby.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2003 Condensed/13 Neon.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2004 Flat Remixes/01 Flat For You (M. Dear remix).mp3
+/Users/Roambot/Dropbox/Music/L'usine/2004 Flat Remixes/02 Flat (Dimbiman feat. Cabanne remix).mp3
+/Users/Roambot/Dropbox/Music/L'usine/2004 Flat Remixes/03 Flat (Lusine remix).mp3
+/Users/Roambot/Dropbox/Music/L'usine/2004 Flat Remixes/04 Flat (Cepia remix).mp3
+/Users/Roambot/Dropbox/Music/L'usine/2004 Serial Hodgepodge/01 Ask You.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2004 Serial Hodgepodge/02 Slur.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2004 Serial Hodgepodge/03 Drip.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2004 Serial Hodgepodge/04 The Stop.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2004 Serial Hodgepodge/05 Everything Under the Sun.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2004 Serial Hodgepodge/06 Make It Easy.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2004 Serial Hodgepodge/07 Still Frame.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2004 Serial Hodgepodge/08 Falling In.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2004 Serial Hodgepodge/09 Auto Pilot.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2004 Serial Hodgepodge/10 Figment.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2004 Serial Hodgepodge/11 Payne's Gray.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2005 Inside_Out EP/01 Inside_Out.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2005 Inside_Out EP/02 Sunset.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2005 Inside_Out EP/03 These Things.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2005 Inside_Out EP/04 Keep Me Fading.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2006 Emerald EP/01 Near Sight.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2006 Emerald EP/02 Weaver.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2006 Emerald EP/03 Emerald.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2006 Emerald EP/04 Rubberbands.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2007 Podgelism/01 Drip (Apparat remix).mp3
+/Users/Roambot/Dropbox/Music/L'usine/2007 Podgelism/02 Make It Easy (John Tejada remix).mp3
+/Users/Roambot/Dropbox/Music/L'usine/2007 Podgelism/03 Flat (Lusine remix).mp3
+/Users/Roambot/Dropbox/Music/L'usine/2007 Podgelism/04 Flat for You (Matthew Dear remix).mp3
+/Users/Roambot/Dropbox/Music/L'usine/2007 Podgelism/05 Still Frame (Lusine remix).mp3
+/Users/Roambot/Dropbox/Music/L'usine/2007 Podgelism/06 Auto Pilot (Deru remix).mp3
+/Users/Roambot/Dropbox/Music/L'usine/2007 Podgelism/07 Flat (Cepia remix).mp3
+/Users/Roambot/Dropbox/Music/L'usine/2007 Podgelism/08 The Stop (Robag Wruhme remix).mp3
+/Users/Roambot/Dropbox/Music/L'usine/2007 Podgelism/09 Everything Under the Sun (Lawrence remix).mp3
+/Users/Roambot/Dropbox/Music/L'usine/2007 Podgelism/10 Flat (Dimbiman feat. Cabanne remix).mp3
+/Users/Roambot/Dropbox/Music/L'usine/2007 Podgelism/11 Falling In (Lusine remix).mp3
+/Users/Roambot/Dropbox/Music/L'usine/2007 Language Barrier/01 Headwind.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2007 Language Barrier/02 Caught in the Middle.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2007 Language Barrier/03 A Day Apart.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2007 Language Barrier/04 Stones Throw.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2007 Language Barrier/05 520 at 8_30.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2007 Language Barrier/06 Jetstream.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2007 Language Barrier/07 Without Standing.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2007 Language Barrier/08 On the Line.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2007 Language Barrier/09 30 Days and Counting.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2009 A Certain Distance/01 Operation Costs.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2009 A Certain Distance/02 Two Dots.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2009 A Certain Distance/03 Tin Hat.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2009 A Certain Distance/04 Thick of It.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2009 A Certain Distance/05 Twilight.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2009 A Certain Distance/06 Baffle.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2009 A Certain Distance/07 Every Disguise.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2009 A Certain Distance/08 Double Vision.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2009 A Certain Distance/09 Gravity.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2009 A Certain Distance/10 Crowded Room.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2009 A Certain Distance/11 Cirrus.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2010 Twilight EP/01 Twilight.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2010 Twilight EP/02 Crowded Room (Type A).mp3
+/Users/Roambot/Dropbox/Music/L'usine/2010 Twilight EP/03 Twilight (Elliptical mix).mp3
+/Users/Roambot/Dropbox/Music/L'usine/2010 Twilight EP/04 Twilight (Jeff Samuel remix).mp3
+/Users/Roambot/Dropbox/Music/L'usine/2010 Lucky Numbers_ The Ghostly International EPs/01 Push.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2010 Lucky Numbers_ The Ghostly International EPs/02 Excess.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2010 Lucky Numbers_ The Ghostly International EPs/03 Slapback.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2010 Lucky Numbers_ The Ghostly International EPs/04 Haze.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2010 Lucky Numbers_ The Ghostly International EPs/05 Inside_Out.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2010 Lucky Numbers_ The Ghostly International EPs/06 Sunset.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2010 Lucky Numbers_ The Ghostly International EPs/07 These Things.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2010 Lucky Numbers_ The Ghostly International EPs/08 Keep Me Fading.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2010 Lucky Numbers_ The Ghostly International EPs/09 Near Sight.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2010 Lucky Numbers_ The Ghostly International EPs/10 Weaver.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2010 Lucky Numbers_ The Ghostly International EPs/11 Emerald.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2010 Lucky Numbers_ The Ghostly International EPs/12 Rubberbands.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2010 Lucky Numbers_ The Ghostly International EPs/13 Two Dots (Reverse Engineered).mp3
+/Users/Roambot/Dropbox/Music/L'usine/2010 Lucky Numbers_ The Ghostly International EPs/14 Twilight (Elliptical mix).mp3
+/Users/Roambot/Dropbox/Music/L'usine/2010 Lucky Numbers_ The Ghostly International EPs/15 Crowded Room (Type A).mp3
+/Users/Roambot/Dropbox/Music/L'usine/2010 Lucky Numbers_ The Ghostly International EPs/16 John Doe (unreleased 2005 version).mp3
+/Users/Roambot/Dropbox/Music/L'usine/2010 Lucky Numbers_ The Ghostly International EPs/17 Rubberbands (dirty mix).mp3
+/Users/Roambot/Dropbox/Music/L'usine/2010 Two Dots (Nic Fanciulli remix)/01 Two Dots (Nic Fanciulli remix).mp3
+/Users/Roambot/Dropbox/Music/L'usine/2013 Another Tomorrow/01 Another Tomorrow.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2013 Another Tomorrow/02 Another Tomorrow (Alt version).mp3
+/Users/Roambot/Dropbox/Music/L'usine/2013 Another Tomorrow/03 Another Tomorrow (Jon Convex remix).mp3
+/Users/Roambot/Dropbox/Music/L'usine/2013 Another Tomorrow/04 Another Tomorrow (Hanssen remix).mp3
+/Users/Roambot/Dropbox/Music/L'usine/2013 The Waiting Room/01 Panoramic.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2013 The Waiting Room/02 Get the Message.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2013 The Waiting Room/03 Lucky.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2013 The Waiting Room/04 On Telegraph.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2013 The Waiting Room/05 Another Tomorrow.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2013 The Waiting Room/06 Without a Plan.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2013 The Waiting Room/07 First Call.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2013 The Waiting Room/08 By This Sound.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2013 The Waiting Room/09 Stratus.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2013 The Waiting Room/10 February.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2014 Arterial/01 Arterial.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2014 Arterial/02 Eyes Give In.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2014 Arterial/03 Quiet Day.mp3
+/Users/Roambot/Dropbox/Music/L'usine/2014 Arterial/04 Forks.mp3
+/Users/Roambot/Dropbox/Music/L'usine feat. Vilja Larjosto/2009 Two Dots/01 Two Dots.mp3
+/Users/Roambot/Dropbox/Music/L'usine feat. Vilja Larjosto/2009 Two Dots/02 Two Dots (Pezzner remix).mp3
+/Users/Roambot/Dropbox/Music/L'usine feat. Vilja Larjosto/2009 Two Dots/03 Two Dots (Reverse Engineered).mp3
 /Users/Roambot/Dropbox/Music/Lali Puna/2001 Scary World Theory/01 Nin-Com-Pop.m4a
 /Users/Roambot/Dropbox/Music/Lali Puna/2001 Scary World Theory/02 Middle Curse.m4a
 /Users/Roambot/Dropbox/Music/Lali Puna/2001 Scary World Theory/03 Bi-Pet.m4a
@@ -2713,170 +2858,92 @@
 /Users/Roambot/Dropbox/Music/Loscil/2012 Sketches From New Brighton/07 Cascadia Terminal.mp3
 /Users/Roambot/Dropbox/Music/Loscil/2012 Sketches From New Brighton/08 Fifth Anchor Span.mp3
 /Users/Roambot/Dropbox/Music/Loscil/2012 Sketches From New Brighton/09 Prairie Trains.mp3
-/Users/Roambot/Dropbox/Music/Lusine/1999 L'usine/01 Charydis.mp3
-/Users/Roambot/Dropbox/Music/Lusine/1999 L'usine/02 Scratch.mp3
-/Users/Roambot/Dropbox/Music/Lusine/1999 L'usine/03 Duck, Cover, Hold.mp3
-/Users/Roambot/Dropbox/Music/Lusine/1999 L'usine/04 Man-Made.mp3
-/Users/Roambot/Dropbox/Music/Lusine/1999 L'usine/05 Flinch.mp3
-/Users/Roambot/Dropbox/Music/Lusine/1999 L'usine/06 Plastic.mp3
-/Users/Roambot/Dropbox/Music/Lusine/1999 L'usine/07 Snap.mp3
-/Users/Roambot/Dropbox/Music/Lusine/1999 L'usine/08 Twitch.mp3
-/Users/Roambot/Dropbox/Music/Lusine/1999 L'usine/09 Coded.mp3
-/Users/Roambot/Dropbox/Music/Lusine/1999 L'usine/10 Contamination.mp3
-/Users/Roambot/Dropbox/Music/Lusine/1999 L'usine/11 Rust.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2000 A Pseudo Steady State/01 Feedme.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2000 A Pseudo Steady State/02 Sem 1.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2000 A Pseudo Steady State/03 Freak.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2000 A Pseudo Steady State/04 Threshold of Pain.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2000 A Pseudo Steady State/05 Sem 2.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2000 A Pseudo Steady State/06 Lazydayz.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2000 A Pseudo Steady State/07 Sem 3.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2000 A Pseudo Steady State/08 Slipthrough.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2000 A Pseudo Steady State/09 Mod.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2000 A Pseudo Steady State/10 Sem 4.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2000 A Pseudo Steady State/11 Back Track.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2001 Coalition 2000/01 Night One.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2001 Coalition 2000/02 Sem 3.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2001 Coalition 2000/03 Lazydayz.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2001 Coalition 2000/04 Out-Takes.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2001 Coalition 2000/05 Plastic.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2001 Coalition 2000/06 Deadend.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2001 Coalition 2000/07 B308.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2001 Coalition 2000/08 Feedme.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2001 Slipthrough/01 Lazydayz.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2001 Slipthrough/02 Sem 1.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2001 Slipthrough/03 Slipthrough.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2001 Slipthrough/04 Sem 3.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2001 Slipthrough/05 Sem 2.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2001 Slipthrough/06 Twister.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2001 Slipthrough/07 Backtrack.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2001 Surface EP/01 Squeak.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2001 Surface EP/02 Deadend.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2001 Surface EP/03 Wasteland.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2001 Surface EP/04 Flat.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2002 Iron City/01 Blind.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2002 Iron City/02 Invisible.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2002 Iron City/03 Shoot the Moon.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2002 Iron City/04 Strand.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2002 Iron City/05 Numbers.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2002 Iron City/06 Tonic.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2002 Iron City/07 Scheming.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2002 Iron City/08 Bent.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2002 Iron City/09 The Fast Lane.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2002 Iron City/10 Perpetual.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2002 Iron City/11 Running in Place.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2002 Lusine ICL _ The Buddy System/01 Vacate.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2002 Lusine ICL _ The Buddy System/02 Missing You Much.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2003 Condensed/01 In Flight.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2003 Condensed/02 Risa.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2003 Condensed/03 Chao.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2003 Condensed/04 Rabblerouse.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2003 Condensed/05 Dr. Chinme.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2003 Condensed/06 Shin.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2003 Condensed/07 Rushhour.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2003 Condensed/08 Chao (Crunch mix).mp3
-/Users/Roambot/Dropbox/Music/Lusine/2003 Condensed/09 Cascade.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2003 Condensed/10 Vacate.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2003 Condensed/11 Mojave.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2003 Condensed/12 Lullaby.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2003 Condensed/13 Neon.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2004 Flat Remixes/01 Flat For You (M. Dear remix).mp3
-/Users/Roambot/Dropbox/Music/Lusine/2004 Flat Remixes/02 Flat (Dimbiman feat. Cabanne remix).mp3
-/Users/Roambot/Dropbox/Music/Lusine/2004 Flat Remixes/03 Flat (Lusine remix).mp3
-/Users/Roambot/Dropbox/Music/Lusine/2004 Flat Remixes/04 Flat (Cepia remix).mp3
-/Users/Roambot/Dropbox/Music/Lusine/2004 Serial Hodgepodge/01 Ask You.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2004 Serial Hodgepodge/02 Slur.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2004 Serial Hodgepodge/03 Drip.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2004 Serial Hodgepodge/04 The Stop.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2004 Serial Hodgepodge/05 Everything Under the Sun.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2004 Serial Hodgepodge/06 Make It Easy.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2004 Serial Hodgepodge/07 Still Frame.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2004 Serial Hodgepodge/08 Falling In.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2004 Serial Hodgepodge/09 Auto Pilot.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2004 Serial Hodgepodge/10 Figment.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2004 Serial Hodgepodge/11 Payne's Gray.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2005 Inside_Out EP/01 Inside_Out.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2005 Inside_Out EP/02 Sunset.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2005 Inside_Out EP/03 These Things.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2005 Inside_Out EP/04 Keep Me Fading.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2006 Emerald EP/01 Near Sight.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2006 Emerald EP/02 Weaver.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2006 Emerald EP/03 Emerald.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2006 Emerald EP/04 Rubberbands.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2007 Language Barrier/01 Headwind.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2007 Language Barrier/02 Caught in the Middle.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2007 Language Barrier/03 A Day Apart.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2007 Language Barrier/04 Stones Throw.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2007 Language Barrier/05 520 at 8_30.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2007 Language Barrier/06 Jetstream.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2007 Language Barrier/07 Without Standing.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2007 Language Barrier/08 On the Line.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2007 Language Barrier/09 30 Days and Counting.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2007 Podgelism/01 Drip (Apparat remix).mp3
-/Users/Roambot/Dropbox/Music/Lusine/2007 Podgelism/02 Make It Easy (John Tejada remix).mp3
-/Users/Roambot/Dropbox/Music/Lusine/2007 Podgelism/03 Flat (Lusine remix).mp3
-/Users/Roambot/Dropbox/Music/Lusine/2007 Podgelism/04 Flat for You (Matthew Dear remix).mp3
-/Users/Roambot/Dropbox/Music/Lusine/2007 Podgelism/05 Still Frame (Lusine remix).mp3
-/Users/Roambot/Dropbox/Music/Lusine/2007 Podgelism/06 Auto Pilot (Deru remix).mp3
-/Users/Roambot/Dropbox/Music/Lusine/2007 Podgelism/07 Flat (Cepia remix).mp3
-/Users/Roambot/Dropbox/Music/Lusine/2007 Podgelism/08 The Stop (Robag Wruhme remix).mp3
-/Users/Roambot/Dropbox/Music/Lusine/2007 Podgelism/09 Everything Under the Sun (Lawrence remix).mp3
-/Users/Roambot/Dropbox/Music/Lusine/2007 Podgelism/10 Flat (Dimbiman feat. Cabanne remix).mp3
-/Users/Roambot/Dropbox/Music/Lusine/2007 Podgelism/11 Falling In (Lusine remix).mp3
-/Users/Roambot/Dropbox/Music/Lusine/2009 A Certain Distance/01 Operation Costs.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2009 A Certain Distance/02 Two Dots.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2009 A Certain Distance/03 Tin Hat.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2009 A Certain Distance/04 Thick of It.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2009 A Certain Distance/05 Twilight.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2009 A Certain Distance/06 Baffle.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2009 A Certain Distance/07 Every Disguise.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2009 A Certain Distance/08 Double Vision.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2009 A Certain Distance/09 Gravity.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2009 A Certain Distance/10 Crowded Room.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2009 A Certain Distance/11 Cirrus.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2009 Two Dots (feat. Vilja Larjosto)/01 Two Dots.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2009 Two Dots (feat. Vilja Larjosto)/02 Two Dots (Pezzner remix).mp3
-/Users/Roambot/Dropbox/Music/Lusine/2009 Two Dots (feat. Vilja Larjosto)/03 Two Dots (Reverse Engineered).mp3
-/Users/Roambot/Dropbox/Music/Lusine/2010 Lucky Numbers_ The Ghostly International EPs/01 Push.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2010 Lucky Numbers_ The Ghostly International EPs/02 Excess.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2010 Lucky Numbers_ The Ghostly International EPs/03 Slapback.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2010 Lucky Numbers_ The Ghostly International EPs/04 Haze.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2010 Lucky Numbers_ The Ghostly International EPs/05 Inside_Out.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2010 Lucky Numbers_ The Ghostly International EPs/06 Sunset.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2010 Lucky Numbers_ The Ghostly International EPs/07 These Things.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2010 Lucky Numbers_ The Ghostly International EPs/08 Keep Me Fading.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2010 Lucky Numbers_ The Ghostly International EPs/09 Near Sight.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2010 Lucky Numbers_ The Ghostly International EPs/10 Weaver.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2010 Lucky Numbers_ The Ghostly International EPs/11 Emerald.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2010 Lucky Numbers_ The Ghostly International EPs/12 Rubberbands.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2010 Lucky Numbers_ The Ghostly International EPs/13 Two Dots (Reverse Engineered).mp3
-/Users/Roambot/Dropbox/Music/Lusine/2010 Lucky Numbers_ The Ghostly International EPs/14 Twilight (Elliptical mix).mp3
-/Users/Roambot/Dropbox/Music/Lusine/2010 Lucky Numbers_ The Ghostly International EPs/15 Crowded Room (Type A).mp3
-/Users/Roambot/Dropbox/Music/Lusine/2010 Lucky Numbers_ The Ghostly International EPs/16 John Doe (unreleased 2005 version).mp3
-/Users/Roambot/Dropbox/Music/Lusine/2010 Lucky Numbers_ The Ghostly International EPs/17 Rubberbands (dirty mix).mp3
-/Users/Roambot/Dropbox/Music/Lusine/2010 Twilight EP/01 Twilight.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2010 Twilight EP/02 Crowded Room (Type A).mp3
-/Users/Roambot/Dropbox/Music/Lusine/2010 Twilight EP/03 Twilight (Elliptical mix).mp3
-/Users/Roambot/Dropbox/Music/Lusine/2010 Twilight EP/04 Twilight (Jeff Samuel remix).mp3
-/Users/Roambot/Dropbox/Music/Lusine/2010 Two Dots (Nic Fanciulli remix)/01 Two Dots (Nic Fanciulli remix).mp3
-/Users/Roambot/Dropbox/Music/Lusine/2013 Another Tomorrow/01 Another Tomorrow.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2013 Another Tomorrow/02 Another Tomorrow (Alt version).mp3
-/Users/Roambot/Dropbox/Music/Lusine/2013 Another Tomorrow/03 Another Tomorrow (Jon Convex remix).mp3
-/Users/Roambot/Dropbox/Music/Lusine/2013 Another Tomorrow/04 Another Tomorrow (Hanssen remix).mp3
-/Users/Roambot/Dropbox/Music/Lusine/2013 The Waiting Room/01 Panoramic.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2013 The Waiting Room/02 Get the Message.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2013 The Waiting Room/03 Lucky.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2013 The Waiting Room/04 On Telegraph.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2013 The Waiting Room/05 Another Tomorrow.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2013 The Waiting Room/06 Without a Plan.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2013 The Waiting Room/07 First Call.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2013 The Waiting Room/08 By This Sound.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2013 The Waiting Room/09 Stratus.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2013 The Waiting Room/10 February.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2014 Arterial/01 Arterial.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2014 Arterial/02 Eyes Give In.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2014 Arterial/03 Quiet Day.mp3
-/Users/Roambot/Dropbox/Music/Lusine/2014 Arterial/04 Forks.mp3
+/Users/Roambot/Dropbox/Music/Loscil/2014 Sea Island/01 Ahull.mp3
+/Users/Roambot/Dropbox/Music/Loscil/2014 Sea Island/02 In Threes.mp3
+/Users/Roambot/Dropbox/Music/Loscil/2014 Sea Island/03 Bleeding Ink.mp3
+/Users/Roambot/Dropbox/Music/Loscil/2014 Sea Island/04 Sea Island Murders.mp3
+/Users/Roambot/Dropbox/Music/Loscil/2014 Sea Island/05 Iona.mp3
+/Users/Roambot/Dropbox/Music/Loscil/2014 Sea Island/06 Holding Pattern.mp3
+/Users/Roambot/Dropbox/Music/Loscil/2014 Sea Island/07 Catalina 1943.mp3
+/Users/Roambot/Dropbox/Music/Loscil/2014 Sea Island/08 Angle of Loll.mp3
+/Users/Roambot/Dropbox/Music/Loscil/2014 Sea Island/09 Sturgeon Bank.mp3
+/Users/Roambot/Dropbox/Music/Loscil/2014 Sea Island/10 En Masse.mp3
+/Users/Roambot/Dropbox/Music/Loscil/2014 Sea Island/11 Angle of List.mp3
+/Users/Roambot/Dropbox/Music/Loscil/2015 For Greta/01 Pearl.mp3
+/Users/Roambot/Dropbox/Music/Loscil/2015 For Greta/02 Luna.mp3
+/Users/Roambot/Dropbox/Music/Loscil/2015 For Greta/03 Lucioles.mp3
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/01 String Quartet No. 1 in F major, Op. 18 No. 1_ I. Allegro con brio.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/02 String Quartet No. 1 in F major, Op. 18 No. 1_ II. Adagio affettuoso ed appassionato.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/03 String Quartet No. 1 in F major, Op. 18 No. 1_ III. Scherzo_ Allegro molto - Trio.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/04 String Quartet No. 1 in F major, Op. 18 No. 1_ IV. Allegro.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/05 String Quartet No. 7 in F major, Op. 59 No. 1 _Razumovski__ I. Allegro.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/06 String Quartet No. 7 in F major, Op. 59 No. 1 _Razumovski__ II. Allegretto vivace e sempre scherzando.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/07 String Quartet No. 7 in F major, Op. 59 No. 1 _Razumovski__ III. Adagio molto e mesto - IV. Allegro_ Theme russe.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/08 String Quartet No. 2 in G major, Op. 18 No. 2_ I. Allegro.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/09 String Quartet No. 2 in G major, Op. 18 No. 2_ II. Adagio cantabile.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/10 String Quartet No. 2 in G major, Op. 18 No. 2_ III. Scherzo_ Allegro - Trio.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/11 String Quartet No. 2 in G major, Op. 18 No. 2_ IV. Allegro molto, quasi presto.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/12 String Quartet No. 6 in B-flat major, Op. 18 No. 6_ I. Allegro con brio.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/13 String Quartet No. 6 in B-flat major, Op. 18 No. 6_ II. Adagio ma non troppo.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/14 String Quartet No. 6 in B-flat major, Op. 18 No. 6_ III. Scherzo_ Allegro - Trio.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/15 String Quartet No. 6 in B-flat major, Op. 18 No. 6_ IV. _La Malinconia__ Adagio - Allegretto quasi Allegro.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/16 String Quartet No. 16 in F major, Op. 135_ I. Allegretto.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/17 String Quartet No. 16 in F major, Op. 135_ II. Vivace.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/18 String Quartet No. 16 in F major, Op. 135_ III. Lento assai, cantante e tranquillo.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/19 String Quartet No. 16 in F major, Op. 135_ IV. Grave, ma non troppo tratto - Allegro.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/20 String Quartet No. 3 in D major, Op. 18 No. 3_ I. Allegro.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/21 String Quartet No. 3 in D major, Op. 18 No. 3_ II. Andante con moto.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/22 String Quartet No. 3 in D major, Op. 18 No. 3_ III. Allegro.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/23 String Quartet No. 3 in D major, Op. 18 No. 3_ IV. Presto.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/24 String Quartet No. 5 in A major, Op. 18 No. 5_ I. Allegro.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/25 String Quartet No. 5 in A major, Op. 18 No. 5_ II. Menuetto - Trio.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/26 String Quartet No. 5 in A major, Op. 18 No. 5_ III. Andante cantabile.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/27 String Quartet No. 5 in A major, Op. 18 No. 5_ IV. Allegro.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/28 String Quartet No. 11 in F minor, Op. 95 _Serioso__ I. Allegro con brio.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/29 String Quartet No. 11 in F minor, Op. 95 _Serioso__ II. Allegretto ma non troppo.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/30 String Quartet No. 11 in F minor, Op. 95 _Serioso__ III. Allegro assai vivace ma serioso.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/31 String Quartet No. 4 in C minor, Op. 18 No. 4_ I. Allegro ma non tanto.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/32 String Quartet No. 4 in C minor, Op. 18 No. 4_ II. Scherzo_ Andante scherzoso quasi allegretto.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/33 String Quartet No. 4 in C minor, Op. 18 No. 4_ III. Menuetto_ Allegretto - Trio.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/34 String Quartet No. 4 in C minor, Op. 18 No. 4_ IV. Allegro.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/35 String Quartet No. 13 in B-flat minor, Op. 130_ I. Adagio ma non troppo - Allegro.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/36 String Quartet No. 13 in B-flat minor, Op. 130_ II. Presto.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/37 String Quartet No. 13 in B-flat minor, Op. 130_ III. Andante con moto, ma non troppo.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/38 String Quartet No. 13 in B-flat minor, Op. 130_ IV. Alla danza tedesca_ Allegro assai.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/39 String Quartet No. 13 in B-flat minor, Op. 130_ V. Cavatina_ Adagio molto espressivo.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/40 Grosse Fuge in B-flat major, Op. 133_ Overtura_ Allegro - Allegro - Fuga.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/41 String Quartet No. 13 in B-flat minor, Op. 130_ VI. Finale_ Allegro.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/42 String Quartet No. 8 in E minor, Op. 59 No. 2 _Rasumovsky__ I. Allegro.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/43 String Quartet No. 8 in E minor, Op. 59 No. 2 _Rasumovsky__ II. Molto adagio.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/44 String Quartet No. 8 in E minor, Op. 59 No. 2 _Rasumovsky__ III. Allegretto.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/45 String Quartet No. 8 in E minor, Op. 59 No. 2 _Rasumovsky__ IV. Finale_ Presto.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/46 String Quartet No. 12 in E-flat major, Op. 127_ I. Maestoso - Allegro.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/47 String Quartet No. 12 in E-flat major, Op. 127_ II. Adagio ma non troppo, molto cantabile.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/48 String Quartet No. 12 in E-flat major, Op. 127_ III. Scherzando vivace.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/49 String Quartet No. 12 in E-flat major, Op. 127_ IV. Finale.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/50 String Quartet No. 9 in C major, Op. 59 No. 3 _Rasumovsky__ I. Introduzione_ Andante con moto - Allegro vivace.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/51 String Quartet No. 9 in C major, Op. 59 No. 3 _Rasumovsky__ II. Andante con moto quasi allegretto.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/52 String Quartet No. 9 in C major, Op. 59 No. 3 _Rasumovsky__ III. Menuetto_ Grazioso - Trio _ IV. Allegro molto.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/53 String Quartet No. 14 in C-sharp minor, Op. 131_ I. Adagio ma non troppo e molto espressivo.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/54 String Quartet No. 14 in C-sharp minor, Op. 131_ II. Allegro molto vivace.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/55 String Quartet No. 14 in C-sharp minor, Op. 131_ III. Allegro moderato.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/56 String Quartet No. 14 in C-sharp minor, Op. 131_ IV. Andante ma non troppo e molto cantabile.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/57 String Quartet No. 14 in C-sharp minor, Op. 131_ V. Presto.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/58 String Quartet No. 14 in C-sharp minor, Op. 131_ VI. Adagio quasi un poco andante.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/59 String Quartet No. 14 in C-sharp minor, Op. 131_ VII. Allegro.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/60 String Quartet No. 10 in E-flat major, Op. 74 _Harp__ I. Poco adagio - Allegro.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/61 String Quartet No. 10 in E-flat major, Op. 74 _Harp__ II. Adagio ma non troppo.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/62 String Quartet No. 10 in E-flat major, Op. 74 _Harp__ III. Presto _ IV. Allegretto con variazioni.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/63 String Quartet No. 15 in A minor, Op. 132_ I. Allegro sostenuto - Allegro.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/64 String Quartet No. 15 in A minor, Op. 132_ II. Allegro ma non tanto.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/65 String Quartet No. 15 in A minor, Op. 132_ III. Molto adagio.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/66 String Quartet No. 15 in A minor, Op. 132_ IV. Alla marcia, assai vivace.flac
+/Users/Roambot/Dropbox/Music/Classical/Beethoven, Ludwig van (1770-1827)/Ludwig van Beethoven; Alban Berg Quartett/1999 The Complete String Quartets/67 String Quartet No. 15 in A minor, Op. 132_ V. Allegro appassionato.flac
+/Users/Roambot/Dropbox/Music/Luke Abbott/2012 Modern Driveway/01 Modern Driveway.mp3
+/Users/Roambot/Dropbox/Music/Luke Abbott/2012 Modern Driveway/02 Hand Drawn Maps.mp3
+/Users/Roambot/Dropbox/Music/Luke Abbott/2012 Modern Driveway/03 Ovals.mp3
+/Users/Roambot/Dropbox/Music/Luke Abbott/2012 Modern Driveway/04 Carrage.mp3
+/Users/Roambot/Dropbox/Music/Luke Abbott/2012 Modern Driveway/05 Meeting Hill.mp3
 /Users/Roambot/Dropbox/Music/Marconi Union/2012 Different Colours/01 First Light.flac
 /Users/Roambot/Dropbox/Music/Marconi Union/2012 Different Colours/02 Alone Together.flac
 /Users/Roambot/Dropbox/Music/Marconi Union/2012 Different Colours/03 Flying (In Crimson Skies).flac
@@ -2884,249 +2951,261 @@
 /Users/Roambot/Dropbox/Music/Marconi Union/2012 Different Colours/05 Time Lapse.flac
 /Users/Roambot/Dropbox/Music/Marconi Union/2012 Different Colours/06 On Reflection.flac
 /Users/Roambot/Dropbox/Music/Marconi Union/2012 Different Colours/07 Broken Colours.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/01 01 Allegro Con Fuoco.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/02 02 (Ohne Satzbezeichnung).flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/03 03 Presto.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/04 04 Funebre.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/05 01 Andante.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/06 02 Presto.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/07 01 Drammatico.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/08 02 Allegretto.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/09 03 Andante.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/10 04 Presto Con Fuoco (Attacca).flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/11 01 Andante.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/12 02 Prestissimo Volando (Attacca).flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/13 5me Sonate Pour Piano Op. 53 1907.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/14 6me Sonate Pour Piano Op. 62 1911_12.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/15 7me Sonate Pour Piano Op. 64 1911_12.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/16 Sonate No. 8 Pour Piano Op. 66 1912_13.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/17 Sonate No. 9 Pour Piano Op. 68 1911-13.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/18 Sonate No. 10 Pour Piano Op. 70 1912_13.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/19 Nr. 1 C-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/20 Nr. 2 A-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/21 Nr. 3 G-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/22 Nr. 4 E-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/23 Nr. 5 D-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/24 Nr. 6 H-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/25 Nr. 7 A-Dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/26 Nr. 8 Fis-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/27 Nr. 9 E-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/28 Nr. 10 Cis-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/29 Nr. 11 H-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/30 Nr. 12 Gis-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/31 Nr. 13 Ges-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/32 Nr. 14 Es-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/33 Nr. 15 Des-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/34 Nr. 16 B-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/35 Nr. 17 As-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/36 Nr. 18 F-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/37 Nr. 19 Es-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/38 Nr. 20 C-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/39 Nr. 21 B-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/40 Nr. 22 G-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/41 Nr. 23 F-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/42 Nr. 24 D-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/43 Nr. 1 C-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/44 Nr. 2 A-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/45 Nr. 3 G-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/46 Nr. 4 E-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/47 Nr. 5 D-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/48 Nr. 6 H-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/49 Nr. 1 A-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/50 Nr. 2 Fis-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/51 Nr. 3 E-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/52 Nr. 4 E-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/53 Nr. 5 Cis-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/54 Nr. 1 H-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/55 Nr. 2 Gis-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/56 Nr. 3 Ges-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/57 Nr. 4 Es-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/58 Nr. 5 Fis-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/59 Nr. 1 D-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/60 Nr. 2 Es-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/61 Nr. 3 Des-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/62 Nr. 4 B-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/63 Nr. 5 F-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/64 Nr. 6 B-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/65 Nr. 7 G-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/66 Nr. 1 Gis-moll_Dis-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/67 Nr. 2 Cis-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/68 Nr. 3 H-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/69 Nr. 4 H-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/70 Nr. 1 G-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/71 Nr. 2 H-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/72 Nr. 1 Des-dur_C-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/73 Nr. 2 Fis-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/74 Nr. 3 Es-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/75 Nr. 4 C-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/76 Nr. 1 E-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/77 Nr. 2 Fis-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/78 Nr. 3 C-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/79 Nr. 4 As-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/80 Nr. 1 Des-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/81 Nr. 2 B-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/82 Nr. 3 C-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/83 Nr. 1 B-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/84 Nr. 2 Fis-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/85 Nr. 3 H-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/86 Nr. 4 G-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/87 Nr. 1 Fis-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/88 Nr. 2 D-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/89 Nr. 3 G-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/90 Nr. 4 As-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/91 Nr. 1 Fis-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/92 Nr. 2 C-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/93 Nr. 3 Des-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/94 Nr. 4 C-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/95 Nr. 1.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/96 Nr. 2.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/97 Nr. 1.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/98 Nr. 2.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/99 Nr. 3.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/100 Nr. 4.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/101 Nr. 5.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/102 Nr. 1 Etude Cis-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/103 Nr. 2 Prélude.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/104 Nr. 3 Impromptu À La Mazur C-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/105 Nr. 1 Cis-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/106 Nr. 2 Fis-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/107 Nr. 3 H-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/108 Nr. 4 H-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/109 Nr. 5 E-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/110 Nr. 6 A-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/111 Nr. 7 B-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/112 Nr. 8 As-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/113 Nr. 9 Gis-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/114 Nr. 10 Des-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/115 Nr. 11 B-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/116 Nr. 12 Dis-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/117 Nr. 1 Des-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/118 Nr. 2 Fis-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/119 Nr. 3 Fis-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/120 Nr. 4 Fis-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/121 Nr. 5 Cis-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/122 Nr. 6 Des-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/123 Nr. 7 F-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/124 Nr. 8 Es-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/125 Nr. 1.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/126 Nr. 2.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/127 Nr. 3.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/128 Valse Op. 1 F-moll 1885_86.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/129 Nr. 1 H-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/130 Nr. 2 Fis-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/131 Nr. 3 G-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/132 Nr. 4 E-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/133 Nr. 5 Dis-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/134 Nr. 6 Cis-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/135 Nr. 7 E-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/136 Nr. 8 B-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/137 Nr. 9 Gis-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/138 Nr. 10 Es-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/139 Nr. 1 F-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/140 Nr. 2 C-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/141 Nr. 3 E-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/142 Nr. 4 E-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/143 Nr. 5 Cis-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/144 Nr. 6 Fis-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/145 Nr. 7 Fis-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/146 Nr. 8 H-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/147 Nr. 9 Es-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/148 Valse Op. 38 As-dur 1903.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/149 Nr. 1 Des-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/150 Nr. 2 Fis-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/151 Quasi Valse Op. 47 F-dur 1905.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/152 Nr. 1 Gis-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/153 Nr. 2 Fis-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/154 Nr. 1 Fis-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/155 Nr. 2 A-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/156 Nr. 1 Fis-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/157 Nr. 2 B-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/158 Nr. 1 H-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/159 Nr. 2 Fis-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/160 Nr. 1 Fis-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/161 Nr. 2 D-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/162 Poème Tragique Op. 34 B-dur 1903.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/163 Poème Satanique Op. 36 C-dur 1903.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/164 Poème Op. 41 Des-dur 1903.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/165 Nr. 1.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/166 Nr. 2.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/167 Poème-Nocturne Op. 61 1911_12.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/168 Nr. 1 Masque.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/169 Nr. 2 Etrangéte.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/170 Nr. 1.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/171 Nr. 2.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/172 Nr. 1.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/173 Nr. 2.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/174 _Vers La Flamme_ - Poème Pour Piano 1914.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/175 Allegro Appassionato Op. 4 Es-moll 1888_92.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/176 Nr. 1 Fis-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/177 Nr. 2 A-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/178 Nr. 1 Prélude Cis-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/179 Nr. 2 Nocturne Des-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/180 Allegro De Concert Op. 18 B-moll 1896.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/181 Polonaise Op. 21 B-moll 1897.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/182 Fantaisie Op. 28 H-moll 1900.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/183 Nr. 1 Feuillet D'Album Es-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/184 Nr. 2 Poème Fantasque C-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/185 Nr. 3 Prélude Es-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/186 Scherzo Op. 46 C-dur 1905.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/187 Nr. 1 Etude Es-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/188 Nr. 2 Prélude F-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/189 Nr. 3 Rêverie C-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/190 Nr. 1 Fragilité Es-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/191 Nr. 2 Prélude A-moll.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/192 Nr. 3 Poème Ailé H-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/193 Nr. 4 Danse Languide G-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/194 Nr. 1 Poème C-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/195 Nr. 2 Enigme.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/196 Nr. 3 Poème Languide H-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/197 Nr. 1 Prélude Es-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/198 Nr. 2 Ironies C-dur.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/199 Nr. 3 Nuances.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/200 Nr. 4 Etude.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/201 Nr. 1 Désir.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/202 Nr. 2 Caresse Dansée.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/203 Feuillet D'Album Op. 58 1909.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/204 Nr. 1 Poème.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/205 Nr. 2 Prélude.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/206 Nr. 1 Guirlandes.flac
-/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872 - 1915)/Maria Lettberg/2004 The Solo Piano Works/207 Nr. 2 Flammes Sombres.flac
-/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926 - 1987)/Morton Feldman/1991 Rothko Chapel + Why Patterns_/01 Rothko Chapel 1.m4a
-/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926 - 1987)/Morton Feldman/1991 Rothko Chapel + Why Patterns_/02 Rothko Chapel 2.m4a
-/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926 - 1987)/Morton Feldman/1991 Rothko Chapel + Why Patterns_/03 Rothko Chapel 3.m4a
-/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926 - 1987)/Morton Feldman/1991 Rothko Chapel + Why Patterns_/04 Rothko Chapel 4.m4a
-/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926 - 1987)/Morton Feldman/1991 Rothko Chapel + Why Patterns_/05 Rothko Chapel 5.m4a
-/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926 - 1987)/Morton Feldman/1991 Rothko Chapel + Why Patterns_/06 Why Patterns_.m4a
-/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926 - 1987)/Morton Feldman/2002 String Quartet No. 2 (Flux Quartet)/01 String Quartet No. 2 (pages 1-4).mp3
-/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926 - 1987)/Morton Feldman/2002 String Quartet No. 2 (Flux Quartet)/02 String Quartet No. 2 (pages 5-9).mp3
-/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926 - 1987)/Morton Feldman/2002 String Quartet No. 2 (Flux Quartet)/03 String Quartet No. 2 (pages 10-14).mp3
-/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926 - 1987)/Morton Feldman/2002 String Quartet No. 2 (Flux Quartet)/04 String Quartet No. 2 (pages 15-19).mp3
-/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926 - 1987)/Morton Feldman/2002 String Quartet No. 2 (Flux Quartet)/05 String Quartet No. 2 (pages 20-24).mp3
-/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926 - 1987)/Morton Feldman/2002 String Quartet No. 2 (Flux Quartet)/06 String Quartet No. 2 (pages 25-27).mp3
-/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926 - 1987)/Morton Feldman/2002 String Quartet No. 2 (Flux Quartet)/07 String Quartet No. 2 (pages 28-31).mp3
-/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926 - 1987)/Morton Feldman/2002 String Quartet No. 2 (Flux Quartet)/08 String Quartet No. 2 (pages 32-36).mp3
-/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926 - 1987)/Morton Feldman/2002 String Quartet No. 2 (Flux Quartet)/09 String Quartet No. 2 (pages 37-41).mp3
-/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926 - 1987)/Morton Feldman/2002 String Quartet No. 2 (Flux Quartet)/10 String Quartet No. 2 (pages 42-46).mp3
-/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926 - 1987)/Morton Feldman/2002 String Quartet No. 2 (Flux Quartet)/11 String Quartet No. 2 (pages 47-51).mp3
-/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926 - 1987)/Morton Feldman/2002 String Quartet No. 2 (Flux Quartet)/12 String Quartet No. 2 (pages 52-[54]).mp3
-/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926 - 1987)/Morton Feldman/2002 String Quartet No. 2 (Flux Quartet)/13 String Quartet No. 2 (pages 52-[54]).mp3
-/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926 - 1987)/Morton Feldman/2002 String Quartet No. 2 (Flux Quartet)/14 String Quartet No. 2 (pages 55-58).mp3
-/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926 - 1987)/Morton Feldman/2002 String Quartet No. 2 (Flux Quartet)/15 String Quartet No. 2 (pages 59-63).mp3
-/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926 - 1987)/Morton Feldman/2002 String Quartet No. 2 (Flux Quartet)/16 String Quartet No. 2 (pages 64-68).mp3
-/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926 - 1987)/Morton Feldman/2002 String Quartet No. 2 (Flux Quartet)/17 String Quartet No. 2 (pages 69-73).mp3
-/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926 - 1987)/Morton Feldman/2002 String Quartet No. 2 (Flux Quartet)/18 String Quartet No. 2 (pages 74-78).mp3
-/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926 - 1987)/Morton Feldman/2002 String Quartet No. 2 (Flux Quartet)/19 String Quartet No. 2 (pages 79-80).mp3
-/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926 - 1987)/Morton Feldman/2002 String Quartet No. 2 (Flux Quartet)/20 String Quartet No. 2 (pages 80-83).mp3
-/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926 - 1987)/Morton Feldman/2002 String Quartet No. 2 (Flux Quartet)/21 String Quartet No. 2 (pages 84-88).mp3
-/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926 - 1987)/Morton Feldman/2002 String Quartet No. 2 (Flux Quartet)/22 String Quartet No. 2 (pages 89-93).mp3
-/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926 - 1987)/Morton Feldman/2002 String Quartet No. 2 (Flux Quartet)/23 String Quartet No. 2 (pages 94-98).mp3
-/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926 - 1987)/Morton Feldman/2002 String Quartet No. 2 (Flux Quartet)/24 String Quartet No. 2 (pages 99-100).mp3
-/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926 - 1987)/Morton Feldman/2002 String Quartet No. 2 (Flux Quartet)/25 String Quartet No. 2 (pages 101-104).mp3
-/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926 - 1987)/Morton Feldman/2002 String Quartet No. 2 (Flux Quartet)/26 String Quartet No. 2 (pages 105-109).mp3
-/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926 - 1987)/Morton Feldman/2002 String Quartet No. 2 (Flux Quartet)/27 String Quartet No. 2 (pages 110-114).mp3
-/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926 - 1987)/Morton Feldman/2002 String Quartet No. 2 (Flux Quartet)/28 String Quartet No. 2 (pages 115-119).mp3
-/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926 - 1987)/Morton Feldman/2002 String Quartet No. 2 (Flux Quartet)/29 String Quartet No. 2 (pages 120-124).mp3
-/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926 - 1987)/Morton Feldman/2004 Patterns in a Chromatic Field/01 Patterns in a Chromatic Field.mp3
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 Das Solo-Klavierwerk - The Solo Piano Works - Complete Recording/16 Sonate No. 8 Pour Piano Op. 66 1912_13.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/01 01 Allegro Con Fuoco.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/02 02 (Ohne Satzbezeichnung).flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/03 03 Presto.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/04 04 Funebre.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/05 01 Andante.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/06 02 Presto.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/07 01 Drammatico.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/08 02 Allegretto.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/09 03 Andante.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/10 04 Presto Con Fuoco (Attacca).flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/11 01 Andante.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/12 02 Prestissimo Volando (Attacca).flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/13 5me Sonate Pour Piano Op. 53 1907.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/14 6me Sonate Pour Piano Op. 62 1911_12.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/15 7me Sonate Pour Piano Op. 64 1911_12.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/16 Sonate No. 8 Pour Piano Op. 66 1912_13.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/17 Sonate No. 9 Pour Piano Op. 68 1911-13.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/18 Sonate No. 10 Pour Piano Op. 70 1912_13.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/19 Nr. 1 C-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/20 Nr. 2 A-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/21 Nr. 3 G-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/22 Nr. 4 E-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/23 Nr. 5 D-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/24 Nr. 6 H-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/25 Nr. 7 A-Dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/26 Nr. 8 Fis-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/27 Nr. 9 E-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/28 Nr. 10 Cis-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/29 Nr. 11 H-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/30 Nr. 12 Gis-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/31 Nr. 13 Ges-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/32 Nr. 14 Es-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/33 Nr. 15 Des-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/34 Nr. 16 B-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/35 Nr. 17 As-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/36 Nr. 18 F-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/37 Nr. 19 Es-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/38 Nr. 20 C-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/39 Nr. 21 B-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/40 Nr. 22 G-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/41 Nr. 23 F-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/42 Nr. 24 D-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/43 Nr. 1 C-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/44 Nr. 2 A-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/45 Nr. 3 G-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/46 Nr. 4 E-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/47 Nr. 5 D-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/48 Nr. 6 H-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/49 Nr. 1 A-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/50 Nr. 2 Fis-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/51 Nr. 3 E-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/52 Nr. 4 E-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/53 Nr. 5 Cis-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/54 Nr. 1 H-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/55 Nr. 2 Gis-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/56 Nr. 3 Ges-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/57 Nr. 4 Es-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/58 Nr. 5 Fis-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/59 Nr. 1 D-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/60 Nr. 2 Es-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/61 Nr. 3 Des-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/62 Nr. 4 B-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/63 Nr. 5 F-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/64 Nr. 6 B-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/65 Nr. 7 G-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/66 Nr. 1 Gis-moll_Dis-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/67 Nr. 2 Cis-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/68 Nr. 3 H-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/69 Nr. 4 H-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/70 Nr. 1 G-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/71 Nr. 2 H-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/72 Nr. 1 Des-dur_C-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/73 Nr. 2 Fis-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/74 Nr. 3 Es-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/75 Nr. 4 C-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/76 Nr. 1 E-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/77 Nr. 2 Fis-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/78 Nr. 3 C-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/79 Nr. 4 As-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/80 Nr. 1 Des-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/81 Nr. 2 B-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/82 Nr. 3 C-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/83 Nr. 1 B-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/84 Nr. 2 Fis-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/85 Nr. 3 H-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/86 Nr. 4 G-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/87 Nr. 1 Fis-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/88 Nr. 2 D-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/89 Nr. 3 G-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/90 Nr. 4 As-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/91 Nr. 1 Fis-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/92 Nr. 2 C-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/93 Nr. 3 Des-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/94 Nr. 4 C-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/95 Nr. 1.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/96 Nr. 2.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/97 Nr. 1.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/98 Nr. 2.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/99 Nr. 3.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/100 Nr. 4.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/101 Nr. 5.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/102 Nr. 1 Etude Cis-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/103 Nr. 2 Prélude.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/104 Nr. 3 Impromptu À La Mazur C-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/105 Nr. 1 Cis-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/106 Nr. 2 Fis-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/107 Nr. 3 H-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/108 Nr. 4 H-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/109 Nr. 5 E-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/110 Nr. 6 A-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/111 Nr. 7 B-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/112 Nr. 8 As-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/113 Nr. 9 Gis-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/114 Nr. 10 Des-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/115 Nr. 11 B-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/116 Nr. 12 Dis-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/117 Nr. 1 Des-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/118 Nr. 2 Fis-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/119 Nr. 3 Fis-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/120 Nr. 4 Fis-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/121 Nr. 5 Cis-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/122 Nr. 6 Des-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/123 Nr. 7 F-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/124 Nr. 8 Es-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/125 Nr. 1.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/126 Nr. 2.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/127 Nr. 3.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/128 Valse Op. 1 F-moll 1885_86.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/129 Nr. 1 H-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/130 Nr. 2 Fis-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/131 Nr. 3 G-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/132 Nr. 4 E-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/133 Nr. 5 Dis-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/134 Nr. 6 Cis-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/135 Nr. 7 E-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/136 Nr. 8 B-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/137 Nr. 9 Gis-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/138 Nr. 10 Es-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/139 Nr. 1 F-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/140 Nr. 2 C-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/141 Nr. 3 E-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/142 Nr. 4 E-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/143 Nr. 5 Cis-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/144 Nr. 6 Fis-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/145 Nr. 7 Fis-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/146 Nr. 8 H-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/147 Nr. 9 Es-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/148 Valse Op. 38 As-dur 1903.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/149 Nr. 1 Des-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/150 Nr. 2 Fis-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/151 Quasi Valse Op. 47 F-dur 1905.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/152 Nr. 1 Gis-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/153 Nr. 2 Fis-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/154 Nr. 1 Fis-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/155 Nr. 2 A-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/156 Nr. 1 Fis-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/157 Nr. 2 B-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/158 Nr. 1 H-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/159 Nr. 2 Fis-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/160 Nr. 1 Fis-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/161 Nr. 2 D-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/162 Poème Tragique Op. 34 B-dur 1903.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/163 Poème Satanique Op. 36 C-dur 1903.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/164 Poème Op. 41 Des-dur 1903.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/165 Nr. 1.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/166 Nr. 2.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/167 Poème-Nocturne Op. 61 1911_12.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/168 Nr. 1 Masque.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/169 Nr. 2 Etrangéte.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/170 Nr. 1.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/171 Nr. 2.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/172 Nr. 1.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/173 Nr. 2.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/174 _Vers La Flamme_ - Poème Pour Piano 1914.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/175 Allegro Appassionato Op. 4 Es-moll 1888_92.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/176 Nr. 1 Fis-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/177 Nr. 2 A-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/178 Nr. 1 Prélude Cis-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/179 Nr. 2 Nocturne Des-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/180 Allegro De Concert Op. 18 B-moll 1896.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/181 Polonaise Op. 21 B-moll 1897.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/182 Fantaisie Op. 28 H-moll 1900.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/183 Nr. 1 Feuillet D'Album Es-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/184 Nr. 2 Poème Fantasque C-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/185 Nr. 3 Prélude Es-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/186 Scherzo Op. 46 C-dur 1905.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/187 Nr. 1 Etude Es-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/188 Nr. 2 Prélude F-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/189 Nr. 3 Rêverie C-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/190 Nr. 1 Fragilité Es-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/191 Nr. 2 Prélude A-moll.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/192 Nr. 3 Poème Ailé H-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/193 Nr. 4 Danse Languide G-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/194 Nr. 1 Poème C-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/195 Nr. 2 Enigme.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/196 Nr. 3 Poème Languide H-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/197 Nr. 1 Prélude Es-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/198 Nr. 2 Ironies C-dur.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/199 Nr. 3 Nuances.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/200 Nr. 4 Etude.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/201 Nr. 1 Désir.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/202 Nr. 2 Caresse Dansée.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/203 Feuillet D'Album Op. 58 1909.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/204 Nr. 1 Poème.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/205 Nr. 2 Prélude.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/206 Nr. 1 Guirlandes.flac
+/Users/Roambot/Dropbox/Music/Classical/Scriabin, Alexander (1872-1915)/Maria Lettberg/2004 The Solo Piano Works/207 Nr. 2 Flammes Sombres.flac
+/Users/Roambot/Dropbox/Music/Metheny Mehldau Quartet/2007 Metheny Mehldau Quartet/01 A Night Away.mp3
+/Users/Roambot/Dropbox/Music/Metheny Mehldau Quartet/2007 Metheny Mehldau Quartet/02 The Sound of Water.mp3
+/Users/Roambot/Dropbox/Music/Metheny Mehldau Quartet/2007 Metheny Mehldau Quartet/03 Fear and Trembling.mp3
+/Users/Roambot/Dropbox/Music/Metheny Mehldau Quartet/2007 Metheny Mehldau Quartet/04 Don't Wait.mp3
+/Users/Roambot/Dropbox/Music/Metheny Mehldau Quartet/2007 Metheny Mehldau Quartet/05 Towards the Light.mp3
+/Users/Roambot/Dropbox/Music/Metheny Mehldau Quartet/2007 Metheny Mehldau Quartet/06 Long Before.mp3
+/Users/Roambot/Dropbox/Music/Metheny Mehldau Quartet/2007 Metheny Mehldau Quartet/07 En la Tierra Que No Olvida.mp3
+/Users/Roambot/Dropbox/Music/Metheny Mehldau Quartet/2007 Metheny Mehldau Quartet/08 Santa Cruz Slacker.mp3
+/Users/Roambot/Dropbox/Music/Metheny Mehldau Quartet/2007 Metheny Mehldau Quartet/09 Secret Beach.mp3
+/Users/Roambot/Dropbox/Music/Metheny Mehldau Quartet/2007 Metheny Mehldau Quartet/10 Silent Movie.mp3
+/Users/Roambot/Dropbox/Music/Metheny Mehldau Quartet/2007 Metheny Mehldau Quartet/11 Marta's Theme (from _Passagio per il Paradiso_).mp3
+/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926-1987)/Morton Feldman/1991 Rothko Chapel + Why Patterns_/01 Rothko Chapel 1.m4a
+/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926-1987)/Morton Feldman/1991 Rothko Chapel + Why Patterns_/02 Rothko Chapel 2.m4a
+/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926-1987)/Morton Feldman/1991 Rothko Chapel + Why Patterns_/03 Rothko Chapel 3.m4a
+/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926-1987)/Morton Feldman/1991 Rothko Chapel + Why Patterns_/04 Rothko Chapel 4.m4a
+/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926-1987)/Morton Feldman/1991 Rothko Chapel + Why Patterns_/05 Rothko Chapel 5.m4a
+/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926-1987)/Morton Feldman/1991 Rothko Chapel + Why Patterns_/06 Why Patterns_.m4a
+/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926-1987)/Morton Feldman/2002 String Quartet No. 2 (Flux Quartet)/01 String Quartet No. 2 (pages 1-4).mp3
+/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926-1987)/Morton Feldman/2002 String Quartet No. 2 (Flux Quartet)/02 String Quartet No. 2 (pages 5-9).mp3
+/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926-1987)/Morton Feldman/2002 String Quartet No. 2 (Flux Quartet)/03 String Quartet No. 2 (pages 10-14).mp3
+/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926-1987)/Morton Feldman/2002 String Quartet No. 2 (Flux Quartet)/04 String Quartet No. 2 (pages 15-19).mp3
+/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926-1987)/Morton Feldman/2002 String Quartet No. 2 (Flux Quartet)/05 String Quartet No. 2 (pages 20-24).mp3
+/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926-1987)/Morton Feldman/2002 String Quartet No. 2 (Flux Quartet)/06 String Quartet No. 2 (pages 25-27).mp3
+/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926-1987)/Morton Feldman/2002 String Quartet No. 2 (Flux Quartet)/07 String Quartet No. 2 (pages 28-31).mp3
+/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926-1987)/Morton Feldman/2002 String Quartet No. 2 (Flux Quartet)/08 String Quartet No. 2 (pages 32-36).mp3
+/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926-1987)/Morton Feldman/2002 String Quartet No. 2 (Flux Quartet)/09 String Quartet No. 2 (pages 37-41).mp3
+/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926-1987)/Morton Feldman/2002 String Quartet No. 2 (Flux Quartet)/10 String Quartet No. 2 (pages 42-46).mp3
+/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926-1987)/Morton Feldman/2002 String Quartet No. 2 (Flux Quartet)/11 String Quartet No. 2 (pages 47-51).mp3
+/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926-1987)/Morton Feldman/2002 String Quartet No. 2 (Flux Quartet)/12 String Quartet No. 2 (pages 52-[54]).mp3
+/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926-1987)/Morton Feldman/2002 String Quartet No. 2 (Flux Quartet)/13 String Quartet No. 2 (pages 52-[54]).mp3
+/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926-1987)/Morton Feldman/2002 String Quartet No. 2 (Flux Quartet)/14 String Quartet No. 2 (pages 55-58).mp3
+/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926-1987)/Morton Feldman/2002 String Quartet No. 2 (Flux Quartet)/15 String Quartet No. 2 (pages 59-63).mp3
+/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926-1987)/Morton Feldman/2002 String Quartet No. 2 (Flux Quartet)/16 String Quartet No. 2 (pages 64-68).mp3
+/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926-1987)/Morton Feldman/2002 String Quartet No. 2 (Flux Quartet)/17 String Quartet No. 2 (pages 69-73).mp3
+/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926-1987)/Morton Feldman/2002 String Quartet No. 2 (Flux Quartet)/18 String Quartet No. 2 (pages 74-78).mp3
+/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926-1987)/Morton Feldman/2002 String Quartet No. 2 (Flux Quartet)/19 String Quartet No. 2 (pages 79-80).mp3
+/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926-1987)/Morton Feldman/2002 String Quartet No. 2 (Flux Quartet)/20 String Quartet No. 2 (pages 80-83).mp3
+/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926-1987)/Morton Feldman/2002 String Quartet No. 2 (Flux Quartet)/21 String Quartet No. 2 (pages 84-88).mp3
+/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926-1987)/Morton Feldman/2002 String Quartet No. 2 (Flux Quartet)/22 String Quartet No. 2 (pages 89-93).mp3
+/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926-1987)/Morton Feldman/2002 String Quartet No. 2 (Flux Quartet)/23 String Quartet No. 2 (pages 94-98).mp3
+/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926-1987)/Morton Feldman/2002 String Quartet No. 2 (Flux Quartet)/24 String Quartet No. 2 (pages 99-100).mp3
+/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926-1987)/Morton Feldman/2002 String Quartet No. 2 (Flux Quartet)/25 String Quartet No. 2 (pages 101-104).mp3
+/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926-1987)/Morton Feldman/2002 String Quartet No. 2 (Flux Quartet)/26 String Quartet No. 2 (pages 105-109).mp3
+/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926-1987)/Morton Feldman/2002 String Quartet No. 2 (Flux Quartet)/27 String Quartet No. 2 (pages 110-114).mp3
+/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926-1987)/Morton Feldman/2002 String Quartet No. 2 (Flux Quartet)/28 String Quartet No. 2 (pages 115-119).mp3
+/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926-1987)/Morton Feldman/2002 String Quartet No. 2 (Flux Quartet)/29 String Quartet No. 2 (pages 120-124).mp3
+/Users/Roambot/Dropbox/Music/Classical/Feldman, Morton (1926-1987)/Morton Feldman/2004 Patterns in a Chromatic Field/01 Patterns in a Chromatic Field.mp3
 /Users/Roambot/Dropbox/Music/Near the Parenthesis/2007 Of Soft Construction/01 It's Not Even Midnight.mp3
 /Users/Roambot/Dropbox/Music/Near the Parenthesis/2007 Of Soft Construction/02 Mare Nostrum.mp3
 /Users/Roambot/Dropbox/Music/Near the Parenthesis/2007 Of Soft Construction/03 The Language Explosion.mp3
@@ -3138,6 +3217,67 @@
 /Users/Roambot/Dropbox/Music/Near the Parenthesis/2007 Of Soft Construction/09 Sitting in a Room.mp3
 /Users/Roambot/Dropbox/Music/Near the Parenthesis/2007 Of Soft Construction/10 For, From.mp3
 /Users/Roambot/Dropbox/Music/Near the Parenthesis/2007 Of Soft Construction/11 This Morning.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2002 The Blackened Air/01 Run, All You.._.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2002 The Blackened Air/02 I Go With Him.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2002 The Blackened Air/03 This Is What It Is.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2002 The Blackened Air/04 Oh, My Stars.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2002 The Blackened Air/05 All for You.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2002 The Blackened Air/06 So Little.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2002 The Blackened Air/07 Desert Fly.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2002 The Blackened Air/08 Ugly Face.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2002 The Blackened Air/09 In the Graveyard.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2002 The Blackened Air/10 Ocean.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2002 The Blackened Air/11 Rosemary.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2002 The Blackened Air/12 The Same Day.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2002 The Blackened Air/13 Been So Long.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2002 The Blackened Air/14 The Very Next Day.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2002 The Blackened Air/15 Little Angel.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2002 The Blackened Air/16 That's All There Is.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2003 Run to Ruin/01 We Never Talked.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2003 Run to Ruin/02 I Say That I Will Go.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2003 Run to Ruin/03 Regrets.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2003 Run to Ruin/04 You Her and Me.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2003 Run to Ruin/05 Superstar.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2003 Run to Ruin/06 The Body.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2003 Run to Ruin/07 On Teasing.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2003 Run to Ruin/08 While We Talk.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2004 Dogs/01 Dear Rose.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2004 Dogs/02 Oblivion.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2004 Dogs/03 Judy's in the Sandbox.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2004 Dogs/04 Underground.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2004 Dogs/05 A Dog's Life.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2004 Dogs/06 A Love Song.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2004 Dogs/07 Stormy Weather.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2004 Dogs/08 Smiley.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2004 Dogs/09 Roadkill.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2004 Dogs/10 Nobody Knew Her.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2004 Dogs/11 Too Much in Between.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2004 Dogs/12 Jimmy's Rose Tattoo.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2004 Dogs/13 The Long Walk.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2004 Dogs/14 All Your Life.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2004 Dogs/15 4 Yrs.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2006 On Leaving/01 Jim's Room.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2006 On Leaving/02 Brad Haunts a Party.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2006 On Leaving/03 Our Day Trip.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2006 On Leaving/04 Counting Up Your Bones.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2006 On Leaving/05 Dumb I Am.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2006 On Leaving/06 Why Don't You Stay Home.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2006 On Leaving/07 One Old Woman.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2006 On Leaving/08 Treehouse Song.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2006 On Leaving/09 Lee.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2006 On Leaving/10 Settling Song.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2006 On Leaving/11 Bird of Cuzco.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2006 On Leaving/12 If We Go to the West.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2007 You Follow Me/01 I've Been Out Walking.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2007 You Follow Me/02 I Write Down Lists.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2007 You Follow Me/03 Odd Said the Doe.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2007 You Follow Me/04 The Day I Would Bury You.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2007 You Follow Me/05 Our Discussion.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2007 You Follow Me/06 In the Evening.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2007 You Follow Me/07 There Is No Train.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2007 You Follow Me/08 Late Night.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2007 You Follow Me/09 How Will You Love Me.mp3
+/Users/Roambot/Dropbox/Music/Nina Nastasia/2007 You Follow Me/10 I Come After You.mp3
 /Users/Roambot/Dropbox/Music/No Age/2008 Nouns/01 Miner.mp3
 /Users/Roambot/Dropbox/Music/No Age/2008 Nouns/02 Eraser.mp3
 /Users/Roambot/Dropbox/Music/No Age/2008 Nouns/03 Teen Creeps.mp3
@@ -3180,15 +3320,12 @@
 /Users/Roambot/Dropbox/Music/Pat Metheny/1977 Watercolors/06 Suite_ I. Florida Greeting Song.mp3
 /Users/Roambot/Dropbox/Music/Pat Metheny/1977 Watercolors/07 Suite_ II. Legend of the Fountain.mp3
 /Users/Roambot/Dropbox/Music/Pat Metheny/1977 Watercolors/08 Sea Song.mp3
-/Users/Roambot/Dropbox/Music/Pat Metheny/1990 Question and Answer/01 Solar.mp3
-/Users/Roambot/Dropbox/Music/Pat Metheny/1990 Question and Answer/02 Question and Answer.mp3
-/Users/Roambot/Dropbox/Music/Pat Metheny/1990 Question and Answer/03 H & H.mp3
-/Users/Roambot/Dropbox/Music/Pat Metheny/1990 Question and Answer/04 Never Too Far Away.mp3
-/Users/Roambot/Dropbox/Music/Pat Metheny/1990 Question and Answer/05 Law Years.mp3
-/Users/Roambot/Dropbox/Music/Pat Metheny/1990 Question and Answer/06 Change of Heart.mp3
-/Users/Roambot/Dropbox/Music/Pat Metheny/1990 Question and Answer/07 All the Things You Are.mp3
-/Users/Roambot/Dropbox/Music/Pat Metheny/1990 Question and Answer/08 Old Folks.mp3
-/Users/Roambot/Dropbox/Music/Pat Metheny/1990 Question and Answer/09 Three Flights Up.mp3
+/Users/Roambot/Dropbox/Music/Pat Metheny/1978 Pat Metheny Group/01 San Lorenzo.mp3
+/Users/Roambot/Dropbox/Music/Pat Metheny/1978 Pat Metheny Group/02 Phase Dance.mp3
+/Users/Roambot/Dropbox/Music/Pat Metheny/1978 Pat Metheny Group/03 Jaco.mp3
+/Users/Roambot/Dropbox/Music/Pat Metheny/1978 Pat Metheny Group/04 Aprilwind.mp3
+/Users/Roambot/Dropbox/Music/Pat Metheny/1978 Pat Metheny Group/05 April Joy.mp3
+/Users/Roambot/Dropbox/Music/Pat Metheny/1978 Pat Metheny Group/06 Lone Jack.mp3
 /Users/Roambot/Dropbox/Music/Pat Metheny & Brad Mehldau/2006 Metheny Mehldau/01 Unrequited.mp3
 /Users/Roambot/Dropbox/Music/Pat Metheny & Brad Mehldau/2006 Metheny Mehldau/02 Ahmid-6.mp3
 /Users/Roambot/Dropbox/Music/Pat Metheny & Brad Mehldau/2006 Metheny Mehldau/03 Summer Day.mp3
@@ -3199,23 +3336,15 @@
 /Users/Roambot/Dropbox/Music/Pat Metheny & Brad Mehldau/2006 Metheny Mehldau/08 Bachelors III.mp3
 /Users/Roambot/Dropbox/Music/Pat Metheny & Brad Mehldau/2006 Metheny Mehldau/09 Annie's Bittersweet Cake.mp3
 /Users/Roambot/Dropbox/Music/Pat Metheny & Brad Mehldau/2006 Metheny Mehldau/10 Make Peace.mp3
-/Users/Roambot/Dropbox/Music/Pat Metheny & Brad Mehldau/2007 Metheny Mehldau Quartet/01 A Night Away.mp3
-/Users/Roambot/Dropbox/Music/Pat Metheny & Brad Mehldau/2007 Metheny Mehldau Quartet/02 The Sound of Water.mp3
-/Users/Roambot/Dropbox/Music/Pat Metheny & Brad Mehldau/2007 Metheny Mehldau Quartet/03 Fear and Trembling.mp3
-/Users/Roambot/Dropbox/Music/Pat Metheny & Brad Mehldau/2007 Metheny Mehldau Quartet/04 Don't Wait.mp3
-/Users/Roambot/Dropbox/Music/Pat Metheny & Brad Mehldau/2007 Metheny Mehldau Quartet/05 Towards the Light.mp3
-/Users/Roambot/Dropbox/Music/Pat Metheny & Brad Mehldau/2007 Metheny Mehldau Quartet/06 Long Before.mp3
-/Users/Roambot/Dropbox/Music/Pat Metheny & Brad Mehldau/2007 Metheny Mehldau Quartet/07 En la Tierra Que No Olvida.mp3
-/Users/Roambot/Dropbox/Music/Pat Metheny & Brad Mehldau/2007 Metheny Mehldau Quartet/08 Santa Cruz Slacker.mp3
-/Users/Roambot/Dropbox/Music/Pat Metheny & Brad Mehldau/2007 Metheny Mehldau Quartet/09 Secret Beach.mp3
-/Users/Roambot/Dropbox/Music/Pat Metheny & Brad Mehldau/2007 Metheny Mehldau Quartet/10 Silent Movie.mp3
-/Users/Roambot/Dropbox/Music/Pat Metheny & Brad Mehldau/2007 Metheny Mehldau Quartet/11 Marta's Theme (from _Passagio per il Paradiso_).mp3
-/Users/Roambot/Dropbox/Music/Pat Metheny Group/1978 Pat Metheny Group/01 San Lorenzo.mp3
-/Users/Roambot/Dropbox/Music/Pat Metheny Group/1978 Pat Metheny Group/02 Phase Dance.mp3
-/Users/Roambot/Dropbox/Music/Pat Metheny Group/1978 Pat Metheny Group/03 Jaco.mp3
-/Users/Roambot/Dropbox/Music/Pat Metheny Group/1978 Pat Metheny Group/04 Aprilwind.mp3
-/Users/Roambot/Dropbox/Music/Pat Metheny Group/1978 Pat Metheny Group/05 April Joy.mp3
-/Users/Roambot/Dropbox/Music/Pat Metheny Group/1978 Pat Metheny Group/06 Lone Jack.mp3
+/Users/Roambot/Dropbox/Music/Pat Metheny & Dave Holland & Roy Haynes/1990 Question and Answer/01 Solar.mp3
+/Users/Roambot/Dropbox/Music/Pat Metheny & Dave Holland & Roy Haynes/1990 Question and Answer/02 Question and Answer.mp3
+/Users/Roambot/Dropbox/Music/Pat Metheny & Dave Holland & Roy Haynes/1990 Question and Answer/03 H & H.mp3
+/Users/Roambot/Dropbox/Music/Pat Metheny & Dave Holland & Roy Haynes/1990 Question and Answer/04 Never Too Far Away.mp3
+/Users/Roambot/Dropbox/Music/Pat Metheny & Dave Holland & Roy Haynes/1990 Question and Answer/05 Law Years.mp3
+/Users/Roambot/Dropbox/Music/Pat Metheny & Dave Holland & Roy Haynes/1990 Question and Answer/06 Change of Heart.mp3
+/Users/Roambot/Dropbox/Music/Pat Metheny & Dave Holland & Roy Haynes/1990 Question and Answer/07 All the Things You Are.mp3
+/Users/Roambot/Dropbox/Music/Pat Metheny & Dave Holland & Roy Haynes/1990 Question and Answer/08 Old Folks.mp3
+/Users/Roambot/Dropbox/Music/Pat Metheny & Dave Holland & Roy Haynes/1990 Question and Answer/09 Three Flights Up.mp3
 /Users/Roambot/Dropbox/Music/Pat Metheny, Gary Burton & The Heath Brothers/1999 All the Things You Are/01 Instrumental.mp3
 /Users/Roambot/Dropbox/Music/Pat Metheny, Gary Burton & The Heath Brothers/1999 All the Things You Are/02 A Sassy Samba.mp3
 /Users/Roambot/Dropbox/Music/Pat Metheny, Gary Burton & The Heath Brothers/1999 All the Things You Are/03 Artherdoc Blues.mp3
@@ -3227,20 +3356,20 @@
 /Users/Roambot/Dropbox/Music/Pat Metheny, Gary Burton & The Heath Brothers/1999 All the Things You Are/09 No More Blues (Chega De Saudade).mp3
 /Users/Roambot/Dropbox/Music/Pat Metheny, Gary Burton & The Heath Brothers/1999 All the Things You Are/10 This Night Has a Thousand Eyes.mp3
 /Users/Roambot/Dropbox/Music/Pat Metheny, Gary Burton & The Heath Brothers/1999 All the Things You Are/11 African Flower.mp3
-/Users/Roambot/Dropbox/Music/Classical/Paul Posnak/0000 COPLAND_ Complete Works for Violin and Piano/01 Sonata for Violin and Piano_ I.  Andante semplice.mp3
-/Users/Roambot/Dropbox/Music/Classical/Paul Posnak/0000 COPLAND_ Complete Works for Violin and Piano/02 Sonata for Violin and Piano_ II. Lento.mp3
-/Users/Roambot/Dropbox/Music/Classical/Paul Posnak/0000 COPLAND_ Complete Works for Violin and Piano/03 Sonata for Violin and Piano_ III. Allegretto giusto.mp3
-/Users/Roambot/Dropbox/Music/Classical/Paul Posnak/0000 COPLAND_ Complete Works for Violin and Piano/04 Two Pieces for Violin and Piano_ Nocturne (Lento moderato).mp3
-/Users/Roambot/Dropbox/Music/Classical/Paul Posnak/0000 COPLAND_ Complete Works for Violin and Piano/05 Ukelele Serenade (Allegro vivo).mp3
-/Users/Roambot/Dropbox/Music/Classical/Paul Posnak/0000 COPLAND_ Complete Works for Violin and Piano/06 Vitebsk (Study on a Jewish Theme for Piano, Violin and Cello.mp3
-/Users/Roambot/Dropbox/Music/Classical/Paul Posnak/0000 COPLAND_ Complete Works for Violin and Piano/07 Prelude No. 1 for Violin and Piano.mp3
-/Users/Roambot/Dropbox/Music/Classical/Paul Posnak/0000 COPLAND_ Complete Works for Violin and Piano/08 Prelude No. 2 for Violin and Piano.mp3
-/Users/Roambot/Dropbox/Music/Classical/Paul Posnak/0000 COPLAND_ Complete Works for Violin and Piano/09 Duo for Violin and Piano_ I.  Flowing.mp3
-/Users/Roambot/Dropbox/Music/Classical/Paul Posnak/0000 COPLAND_ Complete Works for Violin and Piano/10 Duo for Violin and Piano_ II. Poetic, somewhat mournful.mp3
-/Users/Roambot/Dropbox/Music/Classical/Paul Posnak/0000 COPLAND_ Complete Works for Violin and Piano/11 III. Lively, with bounce.mp3
-/Users/Roambot/Dropbox/Music/Classical/Paul Posnak/0000 COPLAND_ Complete Works for Violin and Piano/12 Rodeo_ Hoe Down (arr.)_ Rodeo_ Hoe Down.mp3
-/Users/Roambot/Dropbox/Music/Classical/Paul Posnak/0000 COPLAND_ Complete Works for Violin and Piano/13 Billy the Kid_ Waltz and Celebration (arr.)_ Waltz (Molto mo.mp3
-/Users/Roambot/Dropbox/Music/Classical/Paul Posnak/0000 COPLAND_ Complete Works for Violin and Piano/14 Billy the Kid_ Waltz and Celebration (arr.)_ Celebration (Al.mp3
+/Users/Roambot/Dropbox/Music/Classical/Copland, Aaron (1900-1990)/Paul Posnak/0000 COPLAND_ Complete Works for Violin and Piano/01 Sonata for Violin and Piano_ I.  Andante semplice.mp3
+/Users/Roambot/Dropbox/Music/Classical/Copland, Aaron (1900-1990)/Paul Posnak/0000 COPLAND_ Complete Works for Violin and Piano/02 Sonata for Violin and Piano_ II. Lento.mp3
+/Users/Roambot/Dropbox/Music/Classical/Copland, Aaron (1900-1990)/Paul Posnak/0000 COPLAND_ Complete Works for Violin and Piano/03 Sonata for Violin and Piano_ III. Allegretto giusto.mp3
+/Users/Roambot/Dropbox/Music/Classical/Copland, Aaron (1900-1990)/Paul Posnak/0000 COPLAND_ Complete Works for Violin and Piano/04 Two Pieces for Violin and Piano_ Nocturne (Lento moderato).mp3
+/Users/Roambot/Dropbox/Music/Classical/Copland, Aaron (1900-1990)/Paul Posnak/0000 COPLAND_ Complete Works for Violin and Piano/05 Ukelele Serenade (Allegro vivo).mp3
+/Users/Roambot/Dropbox/Music/Classical/Copland, Aaron (1900-1990)/Paul Posnak/0000 COPLAND_ Complete Works for Violin and Piano/06 Vitebsk (Study on a Jewish Theme for Piano, Violin and Cello.mp3
+/Users/Roambot/Dropbox/Music/Classical/Copland, Aaron (1900-1990)/Paul Posnak/0000 COPLAND_ Complete Works for Violin and Piano/07 Prelude No. 1 for Violin and Piano.mp3
+/Users/Roambot/Dropbox/Music/Classical/Copland, Aaron (1900-1990)/Paul Posnak/0000 COPLAND_ Complete Works for Violin and Piano/08 Prelude No. 2 for Violin and Piano.mp3
+/Users/Roambot/Dropbox/Music/Classical/Copland, Aaron (1900-1990)/Paul Posnak/0000 COPLAND_ Complete Works for Violin and Piano/09 Duo for Violin and Piano_ I.  Flowing.mp3
+/Users/Roambot/Dropbox/Music/Classical/Copland, Aaron (1900-1990)/Paul Posnak/0000 COPLAND_ Complete Works for Violin and Piano/10 Duo for Violin and Piano_ II. Poetic, somewhat mournful.mp3
+/Users/Roambot/Dropbox/Music/Classical/Copland, Aaron (1900-1990)/Paul Posnak/0000 COPLAND_ Complete Works for Violin and Piano/11 III. Lively, with bounce.mp3
+/Users/Roambot/Dropbox/Music/Classical/Copland, Aaron (1900-1990)/Paul Posnak/0000 COPLAND_ Complete Works for Violin and Piano/12 Rodeo_ Hoe Down (arr.)_ Rodeo_ Hoe Down.mp3
+/Users/Roambot/Dropbox/Music/Classical/Copland, Aaron (1900-1990)/Paul Posnak/0000 COPLAND_ Complete Works for Violin and Piano/13 Billy the Kid_ Waltz and Celebration (arr.)_ Waltz (Molto mo.mp3
+/Users/Roambot/Dropbox/Music/Classical/Copland, Aaron (1900-1990)/Paul Posnak/0000 COPLAND_ Complete Works for Violin and Piano/14 Billy the Kid_ Waltz and Celebration (arr.)_ Celebration (Al.mp3
 /Users/Roambot/Dropbox/Music/Radiohead/0000 Amnesiac B sides/00 Fog.mp3
 /Users/Roambot/Dropbox/Music/Radiohead/1993 Pablo Honey/01 You.m4a
 /Users/Roambot/Dropbox/Music/Radiohead/1993 Pablo Honey/02 Creep.m4a
@@ -3251,10 +3380,10 @@
 /Users/Roambot/Dropbox/Music/Radiohead/1993 Pablo Honey/07 Ripcord.m4a
 /Users/Roambot/Dropbox/Music/Radiohead/1993 Pablo Honey/08 Vegetable.m4a
 /Users/Roambot/Dropbox/Music/Radiohead/1993 Pablo Honey/09 Prove Yourself.m4a
-/Users/Roambot/Dropbox/Music/Radiohead/1993 Pablo Honey/10 I Can’t.m4a
 /Users/Roambot/Dropbox/Music/Radiohead/1993 Pablo Honey/11 Lurgee.m4a
 /Users/Roambot/Dropbox/Music/Radiohead/1993 Pablo Honey/12 Blow Out.m4a
 /Users/Roambot/Dropbox/Music/Radiohead/1993 Pablo Honey/13 Creep (radio edit).m4a
+/Users/Roambot/Dropbox/Music/Radiohead/1993 Pablo Honey/10 I Can't.m4a
 /Users/Roambot/Dropbox/Music/Radiohead/1995 The Bends/01 Planet Telex.m4a
 /Users/Roambot/Dropbox/Music/Radiohead/1995 The Bends/02 The Bends.m4a
 /Users/Roambot/Dropbox/Music/Radiohead/1995 The Bends/03 High and Dry.m4a
@@ -3306,20 +3435,6 @@
 /Users/Roambot/Dropbox/Music/Radiohead/2001 B-Sides/02 Fast-Track.mp3
 /Users/Roambot/Dropbox/Music/Radiohead/2001 Knives Out/02 Cuttooth.mp3
 /Users/Roambot/Dropbox/Music/Radiohead/2001 Pyramid Song/02 The Amazing Sounds of Orgy.mp3
-/Users/Roambot/Dropbox/Music/Radiohead/2003 Hail to the Thief/01 2 + 2 = 5 (The Lukewarm.).m4a
-/Users/Roambot/Dropbox/Music/Radiohead/2003 Hail to the Thief/02 Sit down. Stand up. (Snakes & Ladders.).m4a
-/Users/Roambot/Dropbox/Music/Radiohead/2003 Hail to the Thief/03 Sail to the Moon. (Brush the Cobwebs out of the Sky.).m4a
-/Users/Roambot/Dropbox/Music/Radiohead/2003 Hail to the Thief/04 Backdrifts. (Honeymoon Is Over.).m4a
-/Users/Roambot/Dropbox/Music/Radiohead/2003 Hail to the Thief/05 Go to Sleep. (Little Man being Erased.).m4a
-/Users/Roambot/Dropbox/Music/Radiohead/2003 Hail to the Thief/06 Where I End and You Begin. (The Sky is Falling In.).m4a
-/Users/Roambot/Dropbox/Music/Radiohead/2003 Hail to the Thief/07 We suck Young Blood. (Your Time is up.).m4a
-/Users/Roambot/Dropbox/Music/Radiohead/2003 Hail to the Thief/08 The Gloaming. (Softly Open our Mouths in the Cold.).m4a
-/Users/Roambot/Dropbox/Music/Radiohead/2003 Hail to the Thief/09 There There. (The Boney King of Nowhere.).m4a
-/Users/Roambot/Dropbox/Music/Radiohead/2003 Hail to the Thief/10 I will. (No man's Land.).m4a
-/Users/Roambot/Dropbox/Music/Radiohead/2003 Hail to the Thief/11 A Punchup at a Wedding. (No no no no no no no no.).m4a
-/Users/Roambot/Dropbox/Music/Radiohead/2003 Hail to the Thief/12 Myxomatosis. (Judge, Jury & Executioner.).m4a
-/Users/Roambot/Dropbox/Music/Radiohead/2003 Hail to the Thief/13 Scatterbrain. (As Dead as Leaves.).m4a
-/Users/Roambot/Dropbox/Music/Radiohead/2003 Hail to the Thief/14 A Wolf at the Door. (It Girl. Rag Doll.).m4a
 /Users/Roambot/Dropbox/Music/Radiohead/2003 There There/02 Paperbag Writer.mp3
 /Users/Roambot/Dropbox/Music/Radiohead/2003 There There/03 Where Bluebirds Fly.mp3
 /Users/Roambot/Dropbox/Music/Radiohead/2007 In Rainbows/01 15 Step.mp3
@@ -3332,6 +3447,20 @@
 /Users/Roambot/Dropbox/Music/Radiohead/2007 In Rainbows/08 House of Cards.mp3
 /Users/Roambot/Dropbox/Music/Radiohead/2007 In Rainbows/09 Jigsaw Falling Into Place.mp3
 /Users/Roambot/Dropbox/Music/Radiohead/2007 In Rainbows/10 Videotape.mp3
+/Users/Roambot/Dropbox/Music/Radiohead/2008 Hail to the Thief/01 2 + 2 = 5 (The Lukewarm.).m4a
+/Users/Roambot/Dropbox/Music/Radiohead/2008 Hail to the Thief/02 Sit down. Stand up. (Snakes & Ladders.).m4a
+/Users/Roambot/Dropbox/Music/Radiohead/2008 Hail to the Thief/03 Sail to the Moon. (Brush the Cobwebs out of the Sky.).m4a
+/Users/Roambot/Dropbox/Music/Radiohead/2008 Hail to the Thief/04 Backdrifts. (Honeymoon Is Over.).m4a
+/Users/Roambot/Dropbox/Music/Radiohead/2008 Hail to the Thief/05 Go to Sleep. (Little Man being Erased.).m4a
+/Users/Roambot/Dropbox/Music/Radiohead/2008 Hail to the Thief/06 Where I End and You Begin. (The Sky is Falling In.).m4a
+/Users/Roambot/Dropbox/Music/Radiohead/2008 Hail to the Thief/07 We suck Young Blood. (Your Time is up.).m4a
+/Users/Roambot/Dropbox/Music/Radiohead/2008 Hail to the Thief/08 The Gloaming. (Softly Open our Mouths in the Cold.).m4a
+/Users/Roambot/Dropbox/Music/Radiohead/2008 Hail to the Thief/09 There There. (The Boney King of Nowhere.).m4a
+/Users/Roambot/Dropbox/Music/Radiohead/2008 Hail to the Thief/10 I will. (No man's Land.).m4a
+/Users/Roambot/Dropbox/Music/Radiohead/2008 Hail to the Thief/11 A Punchup at a Wedding. (No no no no no no no no.).m4a
+/Users/Roambot/Dropbox/Music/Radiohead/2008 Hail to the Thief/12 Myxomatosis. (Judge, Jury & Executioner.).m4a
+/Users/Roambot/Dropbox/Music/Radiohead/2008 Hail to the Thief/13 Scatterbrain. (As Dead as Leaves.).m4a
+/Users/Roambot/Dropbox/Music/Radiohead/2008 Hail to the Thief/14 A Wolf at the Door. (It Girl. Rag Doll.).m4a
 /Users/Roambot/Dropbox/Music/Radiohead/2011 The Daily Mail _ Staircase/01 The Daily Mail.mp3
 /Users/Roambot/Dropbox/Music/Radiohead/2011 The Daily Mail _ Staircase/02 Staircase.mp3
 /Users/Roambot/Dropbox/Music/Radiohead/2011 The King of Limbs/01 Bloom.mp3
@@ -3342,27 +3471,27 @@
 /Users/Roambot/Dropbox/Music/Radiohead/2011 The King of Limbs/06 Codex.mp3
 /Users/Roambot/Dropbox/Music/Radiohead/2011 The King of Limbs/07 Give Up the Ghost.mp3
 /Users/Roambot/Dropbox/Music/Radiohead/2011 The King of Limbs/08 Separator.mp3
-/Users/Roambot/Dropbox/Music/Radiohead/2011 TKOL RMX 1234567/01 Little by Little (Caribou remix).mp3
-/Users/Roambot/Dropbox/Music/Radiohead/2011 TKOL RMX 1234567/02 Lotus Flower (Jacques Greene remix).mp3
-/Users/Roambot/Dropbox/Music/Radiohead/2011 TKOL RMX 1234567/03 Morning Mr Magpie (Nathan Fake remix).mp3
-/Users/Roambot/Dropbox/Music/Radiohead/2011 TKOL RMX 1234567/04 Bloom (Harmonic 313 remix).mp3
-/Users/Roambot/Dropbox/Music/Radiohead/2011 TKOL RMX 1234567/05 Bloom (Mark Pritchard remix).mp3
-/Users/Roambot/Dropbox/Music/Radiohead/2011 TKOL RMX 1234567/06 Feral (Lone remix).mp3
-/Users/Roambot/Dropbox/Music/Radiohead/2011 TKOL RMX 1234567/07 Morning Mr Magpie (Pearson Sound Scavenger remix).mp3
-/Users/Roambot/Dropbox/Music/Radiohead/2011 TKOL RMX 1234567/08 Separator (Four Tet remix).mp3
-/Users/Roambot/Dropbox/Music/Radiohead/2011 TKOL RMX 1234567/09 Give Up the Ghost (Thriller Houseghost remix).mp3
-/Users/Roambot/Dropbox/Music/Radiohead/2011 TKOL RMX 1234567/10 Codex (Illum Sphere remix).mp3
-/Users/Roambot/Dropbox/Music/Radiohead/2011 TKOL RMX 1234567/11 Little by Little (Shed remix).mp3
-/Users/Roambot/Dropbox/Music/Radiohead/2011 TKOL RMX 1234567/12 Give Up the Ghost (Brokenchord remix).mp3
-/Users/Roambot/Dropbox/Music/Radiohead/2011 TKOL RMX 1234567/13 TKOL (Altrice remix).mp3
-/Users/Roambot/Dropbox/Music/Radiohead/2011 TKOL RMX 1234567/14 Bloom (Blawan remix).mp3
-/Users/Roambot/Dropbox/Music/Radiohead/2011 TKOL RMX 1234567/15 Good Evening Mrs Magpie (Modeselektor remix).mp3
-/Users/Roambot/Dropbox/Music/Radiohead/2011 TKOL RMX 1234567/16 Bloom (Objekt remix).mp3
-/Users/Roambot/Dropbox/Music/Radiohead/2011 TKOL RMX 1234567/17 Bloom (Jamie xx rework).mp3
-/Users/Roambot/Dropbox/Music/Radiohead/2011 TKOL RMX 1234567/18 Separator (Anstam remix).mp3
-/Users/Roambot/Dropbox/Music/Radiohead/2011 TKOL RMX 1234567/19 Lotus Flower (SBTRKT remix).mp3
+/Users/Roambot/Dropbox/Music/Radiohead/2011 TKOL RMX 1 2 3 4 5 6 7/01 Little by Little (Caribou remix).mp3
+/Users/Roambot/Dropbox/Music/Radiohead/2011 TKOL RMX 1 2 3 4 5 6 7/02 Lotus Flower (Jacques Greene remix).mp3
+/Users/Roambot/Dropbox/Music/Radiohead/2011 TKOL RMX 1 2 3 4 5 6 7/03 Morning Mr Magpie (Nathan Fake remix).mp3
+/Users/Roambot/Dropbox/Music/Radiohead/2011 TKOL RMX 1 2 3 4 5 6 7/04 Bloom (Harmonic 313 remix).mp3
+/Users/Roambot/Dropbox/Music/Radiohead/2011 TKOL RMX 1 2 3 4 5 6 7/05 Bloom (Mark Pritchard remix).mp3
+/Users/Roambot/Dropbox/Music/Radiohead/2011 TKOL RMX 1 2 3 4 5 6 7/06 Feral (Lone remix).mp3
+/Users/Roambot/Dropbox/Music/Radiohead/2011 TKOL RMX 1 2 3 4 5 6 7/07 Morning Mr Magpie (Pearson Sound Scavenger remix).mp3
+/Users/Roambot/Dropbox/Music/Radiohead/2011 TKOL RMX 1 2 3 4 5 6 7/08 Separator (Four Tet remix).mp3
+/Users/Roambot/Dropbox/Music/Radiohead/2011 TKOL RMX 1 2 3 4 5 6 7/09 Give Up the Ghost (Thriller Houseghost remix).mp3
+/Users/Roambot/Dropbox/Music/Radiohead/2011 TKOL RMX 1 2 3 4 5 6 7/10 Codex (Illum Sphere remix).mp3
+/Users/Roambot/Dropbox/Music/Radiohead/2011 TKOL RMX 1 2 3 4 5 6 7/11 Little by Little (Shed remix).mp3
+/Users/Roambot/Dropbox/Music/Radiohead/2011 TKOL RMX 1 2 3 4 5 6 7/12 Give Up the Ghost (Brokenchord remix).mp3
+/Users/Roambot/Dropbox/Music/Radiohead/2011 TKOL RMX 1 2 3 4 5 6 7/13 TKOL (Altrice remix).mp3
+/Users/Roambot/Dropbox/Music/Radiohead/2011 TKOL RMX 1 2 3 4 5 6 7/14 Bloom (Blawan remix).mp3
+/Users/Roambot/Dropbox/Music/Radiohead/2011 TKOL RMX 1 2 3 4 5 6 7/15 Good Evening Mrs Magpie (Modeselektor remix).mp3
+/Users/Roambot/Dropbox/Music/Radiohead/2011 TKOL RMX 1 2 3 4 5 6 7/16 Bloom (Objekt remix).mp3
+/Users/Roambot/Dropbox/Music/Radiohead/2011 TKOL RMX 1 2 3 4 5 6 7/17 Bloom (Jamie xx rework).mp3
+/Users/Roambot/Dropbox/Music/Radiohead/2011 TKOL RMX 1 2 3 4 5 6 7/18 Separator (Anstam remix).mp3
+/Users/Roambot/Dropbox/Music/Radiohead/2011 TKOL RMX 1 2 3 4 5 6 7/19 Lotus Flower (SBTRKT remix).mp3
 /Users/Roambot/Dropbox/Music/Sakana Hosomi + Chihei Hatakeyama/2015 Frozen Silence/01 Frozen Silence.flac
-/Users/Roambot/Dropbox/Music/Sakana Hosomi + Chihei Hatakeyama/2015 Frozen Silence/02 A Little Fairy On The A Cold Glass.flac
+/Users/Roambot/Dropbox/Music/Sakana Hosomi + Chihei Hatakeyama/2015 Frozen Silence/02 A Little Fairy On The Cold Glass.flac
 /Users/Roambot/Dropbox/Music/Sakana Hosomi + Chihei Hatakeyama/2015 Frozen Silence/03 Collapsing Huge Glaciers And The Sun.flac
 /Users/Roambot/Dropbox/Music/Sakana Hosomi + Chihei Hatakeyama/2015 Frozen Silence/04 Frostwork III.flac
 /Users/Roambot/Dropbox/Music/Sakana Hosomi + Chihei Hatakeyama/2015 Frozen Silence/05 Light Snow.flac
@@ -3388,15 +3517,6 @@
 /Users/Roambot/Dropbox/Music/Sam Prekop/2005 Who's Your New Professor/09 Neighbor to Neighbor.mp3
 /Users/Roambot/Dropbox/Music/Sam Prekop/2005 Who's Your New Professor/10 Density.mp3
 /Users/Roambot/Dropbox/Music/Sam Prekop/2005 Who's Your New Professor/11 Between Outside.mp3
-/Users/Roambot/Dropbox/Music/Sam Prekop/2010 Old Punch Card/01 Old Punch Card.mp3
-/Users/Roambot/Dropbox/Music/Sam Prekop/2010 Old Punch Card/02 Array Wicket.mp3
-/Users/Roambot/Dropbox/Music/Sam Prekop/2010 Old Punch Card/03 Knitting Needles.mp3
-/Users/Roambot/Dropbox/Music/Sam Prekop/2010 Old Punch Card/04 Brambles.mp3
-/Users/Roambot/Dropbox/Music/Sam Prekop/2010 Old Punch Card/05 Tell Work.mp3
-/Users/Roambot/Dropbox/Music/Sam Prekop/2010 Old Punch Card/06 November September.mp3
-/Users/Roambot/Dropbox/Music/Sam Prekop/2010 Old Punch Card/07 A Places.mp3
-/Users/Roambot/Dropbox/Music/Sam Prekop/2010 Old Punch Card/08 Lazy House.mp3
-/Users/Roambot/Dropbox/Music/Sam Prekop/2010 Old Punch Card/09 The Silhouettes.mp3
 /Users/Roambot/Dropbox/Music/Seefeel/1995 Succour/01 Meol.mp3
 /Users/Roambot/Dropbox/Music/Seefeel/1995 Succour/02 Extract.mp3
 /Users/Roambot/Dropbox/Music/Seefeel/1995 Succour/03 When Face Was Face.mp3
@@ -3498,16 +3618,16 @@
 /Users/Roambot/Dropbox/Music/Shuttle358/2004 Chessa/09 Logical.m4a
 /Users/Roambot/Dropbox/Music/Shuttle358/2004 Chessa/10 Dead Leaves.m4a
 /Users/Roambot/Dropbox/Music/Shuttle358/2004 Chessa/11 Scrapbook.m4a
-/Users/Roambot/Dropbox/Music/Shuttle358 2/2015 Can You Prove I Was Born/01 Can You Prove I Was Born.flac
-/Users/Roambot/Dropbox/Music/Shuttle358 2/2015 Can You Prove I Was Born/02 Imaginary Other.flac
-/Users/Roambot/Dropbox/Music/Shuttle358 2/2015 Can You Prove I Was Born/03 Meteor Heart.flac
-/Users/Roambot/Dropbox/Music/Shuttle358 2/2015 Can You Prove I Was Born/04 Paper Wings.flac
-/Users/Roambot/Dropbox/Music/Shuttle358 2/2015 Can You Prove I Was Born/05 Burrowed Vows.flac
-/Users/Roambot/Dropbox/Music/Shuttle358 2/2015 Can You Prove I Was Born/06 Bent, and Swallowed and Opened Again.flac
-/Users/Roambot/Dropbox/Music/Shuttle358 2/2015 Can You Prove I Was Born/07 Dirty Sunkiss.flac
-/Users/Roambot/Dropbox/Music/Shuttle358 2/2015 Can You Prove I Was Born/08 Prisms.flac
-/Users/Roambot/Dropbox/Music/Shuttle358 2/2015 Can You Prove I Was Born/09 A Ground Without a Figure.flac
-/Users/Roambot/Dropbox/Music/Shuttle358 2/2015 Can You Prove I Was Born/10 Years Later.flac
+/Users/Roambot/Dropbox/Music/Shuttle358/2015 Can You Prove I Was Born/01 Can You Prove I Was Born.flac
+/Users/Roambot/Dropbox/Music/Shuttle358/2015 Can You Prove I Was Born/02 Imaginary Other.flac
+/Users/Roambot/Dropbox/Music/Shuttle358/2015 Can You Prove I Was Born/03 Meteor Heart.flac
+/Users/Roambot/Dropbox/Music/Shuttle358/2015 Can You Prove I Was Born/04 Paper Wings.flac
+/Users/Roambot/Dropbox/Music/Shuttle358/2015 Can You Prove I Was Born/05 Burrowed Vows.flac
+/Users/Roambot/Dropbox/Music/Shuttle358/2015 Can You Prove I Was Born/06 Bent, and Swallowed and Opened Again.flac
+/Users/Roambot/Dropbox/Music/Shuttle358/2015 Can You Prove I Was Born/07 Dirty Sunkiss.flac
+/Users/Roambot/Dropbox/Music/Shuttle358/2015 Can You Prove I Was Born/08 Prisms.flac
+/Users/Roambot/Dropbox/Music/Shuttle358/2015 Can You Prove I Was Born/09 A Ground Without a Figure.flac
+/Users/Roambot/Dropbox/Music/Shuttle358/2015 Can You Prove I Was Born/10 Years Later.flac
 /Users/Roambot/Dropbox/Music/Smog/0000 A Hit/01 A Hit.mp3
 /Users/Roambot/Dropbox/Music/Smog/0000 A Hit/02 Wine Stained Lips.mp3
 /Users/Roambot/Dropbox/Music/Smog/0000 Came Blue/01 Came Blue.mp3
@@ -3654,6 +3774,39 @@
 /Users/Roambot/Dropbox/Music/Stars of the Lid/2008 Avec Laudenum/03 The Atomium, Part Three.m4a
 /Users/Roambot/Dropbox/Music/Stars of the Lid/2008 Avec Laudenum/04 Dust Breeding (1.316)+.m4a
 /Users/Roambot/Dropbox/Music/Stars of the Lid/2008 Avec Laudenum/05 I Will Surround You.m4a
+/Users/Roambot/Dropbox/Music/Classical/Brahms, Johannes (1833–1897)/Stephen Kovacevich, Dinorah Varsi, Adam Harasiewicz/1995 The Late Piano Music _ Handel and Paganini Variations/01 Fantasies, op. 116_ No. 1. Cappricio in D minor.m4a
+/Users/Roambot/Dropbox/Music/Classical/Brahms, Johannes (1833–1897)/Stephen Kovacevich, Dinorah Varsi, Adam Harasiewicz/1995 The Late Piano Music _ Handel and Paganini Variations/02 Fantasies, op. 116_ No. 2. Intermezzo in A minor.m4a
+/Users/Roambot/Dropbox/Music/Classical/Brahms, Johannes (1833–1897)/Stephen Kovacevich, Dinorah Varsi, Adam Harasiewicz/1995 The Late Piano Music _ Handel and Paganini Variations/03 Fantasies, op. 116_ No. 3. Capricio in G minor.m4a
+/Users/Roambot/Dropbox/Music/Classical/Brahms, Johannes (1833–1897)/Stephen Kovacevich, Dinorah Varsi, Adam Harasiewicz/1995 The Late Piano Music _ Handel and Paganini Variations/04 Fantasies, op. 116_ No. 4. Intermezzo in E.m4a
+/Users/Roambot/Dropbox/Music/Classical/Brahms, Johannes (1833–1897)/Stephen Kovacevich, Dinorah Varsi, Adam Harasiewicz/1995 The Late Piano Music _ Handel and Paganini Variations/05 Fantasies, op. 116_ No. 5. Intermezzo in E minor.m4a
+/Users/Roambot/Dropbox/Music/Classical/Brahms, Johannes (1833–1897)/Stephen Kovacevich, Dinorah Varsi, Adam Harasiewicz/1995 The Late Piano Music _ Handel and Paganini Variations/06 Fantasies, op. 116_ No. 6. Intermezzo in E.m4a
+/Users/Roambot/Dropbox/Music/Classical/Brahms, Johannes (1833–1897)/Stephen Kovacevich, Dinorah Varsi, Adam Harasiewicz/1995 The Late Piano Music _ Handel and Paganini Variations/07 Fantasies, op. 116_ No. 7. Capriccio in D minor.m4a
+/Users/Roambot/Dropbox/Music/Classical/Brahms, Johannes (1833–1897)/Stephen Kovacevich, Dinorah Varsi, Adam Harasiewicz/1995 The Late Piano Music _ Handel and Paganini Variations/08 Intermezzos, op. 117_ No. 1 in E-flat major.m4a
+/Users/Roambot/Dropbox/Music/Classical/Brahms, Johannes (1833–1897)/Stephen Kovacevich, Dinorah Varsi, Adam Harasiewicz/1995 The Late Piano Music _ Handel and Paganini Variations/09 Intermezzos, op. 117_ No. 2 in B-flat minor.m4a
+/Users/Roambot/Dropbox/Music/Classical/Brahms, Johannes (1833–1897)/Stephen Kovacevich, Dinorah Varsi, Adam Harasiewicz/1995 The Late Piano Music _ Handel and Paganini Variations/10 Intermezzos, op. 117_ No. 3 in C-sharp minor.m4a
+/Users/Roambot/Dropbox/Music/Classical/Brahms, Johannes (1833–1897)/Stephen Kovacevich, Dinorah Varsi, Adam Harasiewicz/1995 The Late Piano Music _ Handel and Paganini Variations/11 Piano Pieces, op. 118_ No. 1. Intermezzo in A minor.m4a
+/Users/Roambot/Dropbox/Music/Classical/Brahms, Johannes (1833–1897)/Stephen Kovacevich, Dinorah Varsi, Adam Harasiewicz/1995 The Late Piano Music _ Handel and Paganini Variations/12 Piano Pieces, op. 118_ No. 2. Intermezzo in A.m4a
+/Users/Roambot/Dropbox/Music/Classical/Brahms, Johannes (1833–1897)/Stephen Kovacevich, Dinorah Varsi, Adam Harasiewicz/1995 The Late Piano Music _ Handel and Paganini Variations/13 Piano Pieces, op. 118_ No. 3. Ballade in G minor.m4a
+/Users/Roambot/Dropbox/Music/Classical/Brahms, Johannes (1833–1897)/Stephen Kovacevich, Dinorah Varsi, Adam Harasiewicz/1995 The Late Piano Music _ Handel and Paganini Variations/14 Piano Pieces, op. 118_ No. 4. Intermezzo in F minor.m4a
+/Users/Roambot/Dropbox/Music/Classical/Brahms, Johannes (1833–1897)/Stephen Kovacevich, Dinorah Varsi, Adam Harasiewicz/1995 The Late Piano Music _ Handel and Paganini Variations/15 Piano Pieces, op. 118_ No. 5. Romance in F.m4a
+/Users/Roambot/Dropbox/Music/Classical/Brahms, Johannes (1833–1897)/Stephen Kovacevich, Dinorah Varsi, Adam Harasiewicz/1995 The Late Piano Music _ Handel and Paganini Variations/16 Piano Pieces, op. 118_ No. 6. Intermezzo in E flat minor.m4a
+/Users/Roambot/Dropbox/Music/Classical/Brahms, Johannes (1833–1897)/Stephen Kovacevich, Dinorah Varsi, Adam Harasiewicz/1995 The Late Piano Music _ Handel and Paganini Variations/17 Piano Pieces, op. 119_ No. 1. Intermezzo in B minor.m4a
+/Users/Roambot/Dropbox/Music/Classical/Brahms, Johannes (1833–1897)/Stephen Kovacevich, Dinorah Varsi, Adam Harasiewicz/1995 The Late Piano Music _ Handel and Paganini Variations/18 Piano Pieces, op. 119_ No. 2. Intermezzo in E minor.m4a
+/Users/Roambot/Dropbox/Music/Classical/Brahms, Johannes (1833–1897)/Stephen Kovacevich, Dinorah Varsi, Adam Harasiewicz/1995 The Late Piano Music _ Handel and Paganini Variations/19 Piano Pieces, op. 119_ No. 3. Intermezzo in C.m4a
+/Users/Roambot/Dropbox/Music/Classical/Brahms, Johannes (1833–1897)/Stephen Kovacevich, Dinorah Varsi, Adam Harasiewicz/1995 The Late Piano Music _ Handel and Paganini Variations/20 Piano Pieces, op. 119_ No. 4. Rhapsody in E flat.m4a
+/Users/Roambot/Dropbox/Music/Classical/Brahms, Johannes (1833–1897)/Stephen Kovacevich, Dinorah Varsi, Adam Harasiewicz/1995 The Late Piano Music _ Handel and Paganini Variations/21 Rhapsody in G minor, op. 79 no. 2.m4a
+/Users/Roambot/Dropbox/Music/Classical/Brahms, Johannes (1833–1897)/Stephen Kovacevich, Dinorah Varsi, Adam Harasiewicz/1995 The Late Piano Music _ Handel and Paganini Variations/22 Rhapsody in B minor, op. 79 no. 1.m4a
+/Users/Roambot/Dropbox/Music/Classical/Brahms, Johannes (1833–1897)/Stephen Kovacevich, Dinorah Varsi, Adam Harasiewicz/1995 The Late Piano Music _ Handel and Paganini Variations/23 8 Piano Pieces, op. 76_ No. 1. Capriccio in F-sharp minor.m4a
+/Users/Roambot/Dropbox/Music/Classical/Brahms, Johannes (1833–1897)/Stephen Kovacevich, Dinorah Varsi, Adam Harasiewicz/1995 The Late Piano Music _ Handel and Paganini Variations/24 8 Piano Pieces, op. 76_ No. 2. Capriccio in B minor.m4a
+/Users/Roambot/Dropbox/Music/Classical/Brahms, Johannes (1833–1897)/Stephen Kovacevich, Dinorah Varsi, Adam Harasiewicz/1995 The Late Piano Music _ Handel and Paganini Variations/25 8 Piano Pieces, op. 76_ No. 3. Intermezzo in A-flat.m4a
+/Users/Roambot/Dropbox/Music/Classical/Brahms, Johannes (1833–1897)/Stephen Kovacevich, Dinorah Varsi, Adam Harasiewicz/1995 The Late Piano Music _ Handel and Paganini Variations/26 8 Piano Pieces, op. 76_ No. 4. Intermezzo in B-flat.m4a
+/Users/Roambot/Dropbox/Music/Classical/Brahms, Johannes (1833–1897)/Stephen Kovacevich, Dinorah Varsi, Adam Harasiewicz/1995 The Late Piano Music _ Handel and Paganini Variations/27 8 Piano Pieces, op. 76_ No. 5. Capriccio in C-sharp minor.m4a
+/Users/Roambot/Dropbox/Music/Classical/Brahms, Johannes (1833–1897)/Stephen Kovacevich, Dinorah Varsi, Adam Harasiewicz/1995 The Late Piano Music _ Handel and Paganini Variations/28 8 Piano Pieces, op. 76_ No. 6. Intermezzo in A.m4a
+/Users/Roambot/Dropbox/Music/Classical/Brahms, Johannes (1833–1897)/Stephen Kovacevich, Dinorah Varsi, Adam Harasiewicz/1995 The Late Piano Music _ Handel and Paganini Variations/29 8 Piano Pieces, op. 76_ No. 7. Intermezzo in A minor.m4a
+/Users/Roambot/Dropbox/Music/Classical/Brahms, Johannes (1833–1897)/Stephen Kovacevich, Dinorah Varsi, Adam Harasiewicz/1995 The Late Piano Music _ Handel and Paganini Variations/30 8 Piano Pieces, op. 76_ No. 8. Capriccio in C.m4a
+/Users/Roambot/Dropbox/Music/Classical/Brahms, Johannes (1833–1897)/Stephen Kovacevich, Dinorah Varsi, Adam Harasiewicz/1995 The Late Piano Music _ Handel and Paganini Variations/31 Variations and Fugue on a Theme by Handel, op. 24.m4a
+/Users/Roambot/Dropbox/Music/Classical/Brahms, Johannes (1833–1897)/Stephen Kovacevich, Dinorah Varsi, Adam Harasiewicz/1995 The Late Piano Music _ Handel and Paganini Variations/32 Variations on a Theme by Paganini, op. 35_ Book 1.m4a
+/Users/Roambot/Dropbox/Music/Classical/Brahms, Johannes (1833–1897)/Stephen Kovacevich, Dinorah Varsi, Adam Harasiewicz/1995 The Late Piano Music _ Handel and Paganini Variations/33 Variations on a Theme by Paganini, op. 35_ Book 2_ - Thema. Variation I - XIV.m4a
 /Users/Roambot/Dropbox/Music/Classical/Steve Reich/1998 Music for 18 Musicians (Steve Reich and Musicians)/01 Music for 18 Musicians_ Pulses.mp3
 /Users/Roambot/Dropbox/Music/Classical/Steve Reich/1998 Music for 18 Musicians (Steve Reich and Musicians)/02 Music for 18 Musicians_ Section I.mp3
 /Users/Roambot/Dropbox/Music/Classical/Steve Reich/1998 Music for 18 Musicians (Steve Reich and Musicians)/03 Music for 18 Musicians_ Section II.mp3
@@ -3668,6 +3821,24 @@
 /Users/Roambot/Dropbox/Music/Classical/Steve Reich/1998 Music for 18 Musicians (Steve Reich and Musicians)/12 Music for 18 Musicians_ Section X.mp3
 /Users/Roambot/Dropbox/Music/Classical/Steve Reich/1998 Music for 18 Musicians (Steve Reich and Musicians)/13 Music for 18 Musicians_ Section XI.mp3
 /Users/Roambot/Dropbox/Music/Classical/Steve Reich/1998 Music for 18 Musicians (Steve Reich and Musicians)/14 Music for 18 Musicians_ Pulses.mp3
+/Users/Roambot/Dropbox/Music/Taylor Deupree/2006 Northern/01 Everything's Gone Grey.mp3
+/Users/Roambot/Dropbox/Music/Taylor Deupree/2006 Northern/02 Northern.mp3
+/Users/Roambot/Dropbox/Music/Taylor Deupree/2006 Northern/03 A Dead Yellow Carpet.mp3
+/Users/Roambot/Dropbox/Music/Taylor Deupree/2006 Northern/04 Shell Shell Bye.mp3
+/Users/Roambot/Dropbox/Music/Taylor Deupree/2006 Northern/05 Haze It May Be.mp3
+/Users/Roambot/Dropbox/Music/Taylor Deupree/2006 Northern/06 November.mp3
+/Users/Roambot/Dropbox/Music/Taylor Deupree & Christopher Willits/2004 Mujo/01 Seasons Centers Studies.mp3
+/Users/Roambot/Dropbox/Music/Taylor Deupree & Christopher Willits/2004 Mujo/02 Living Flowers.mp3
+/Users/Roambot/Dropbox/Music/Taylor Deupree & Christopher Willits/2004 Mujo/03 Hybrid.mp3
+/Users/Roambot/Dropbox/Music/Taylor Deupree & Christopher Willits/2004 Mujo/04 Grounding.mp3
+/Users/Roambot/Dropbox/Music/Taylor Deupree & Christopher Willits/2004 Mujo/05 The Smell of Public Libraries.mp3
+/Users/Roambot/Dropbox/Music/Taylor Deupree & Christopher Willits/2004 Mujo/06 Bancha.mp3
+/Users/Roambot/Dropbox/Music/Taylor Deupree & Christopher Willits/2004 Mujo/07 Cherry.mp3
+/Users/Roambot/Dropbox/Music/Taylor Deupree & Christopher Willits/2004 Mujo/08 Marathon Vowel Shift.mp3
+/Users/Roambot/Dropbox/Music/Taylor Deupree & Christopher Willits/2004 Mujo/09 Clay.mp3
+/Users/Roambot/Dropbox/Music/Taylor Deupree & Christopher Willits/2004 Mujo/10 Ended.mp3
+/Users/Roambot/Dropbox/Music/Taylor Deupree & Christopher Willits/2004 Mujo/11 Your Own Small Garden.mp3
+/Users/Roambot/Dropbox/Music/Taylor Deupree & Christopher Willits/2004 Mujo/12 Newspaper.mp3
 /Users/Roambot/Dropbox/Music/The American Analog Set/1997 From Our Living Room to Yours/01 Magnificent Seventies.m4a
 /Users/Roambot/Dropbox/Music/The American Analog Set/1997 From Our Living Room to Yours/02 Using the Hope Diamond as a Doorstop.m4a
 /Users/Roambot/Dropbox/Music/The American Analog Set/1997 From Our Living Room to Yours/03 Blue Chaise.m4a
@@ -3755,7 +3926,7 @@
 /Users/Roambot/Dropbox/Music/The Black Dog/1995 Parallel/07 Aural Wallpaper.mp3
 /Users/Roambot/Dropbox/Music/The Black Dog/1995 Parallel/08 Rainbow Bridge.mp3
 /Users/Roambot/Dropbox/Music/The Black Dog/1995 Parallel/09 Virtual Hmmm....._.mp3
-/Users/Roambot/Dropbox/Music/The Black Dog/1995 Parallel/10 VIR²L.mp3
+/Users/Roambot/Dropbox/Music/The Black Dog/1995 Parallel/10 VIR2L.mp3
 /Users/Roambot/Dropbox/Music/The Black Dog/1995 Spanners/01 Raxmus.mp3
 /Users/Roambot/Dropbox/Music/The Black Dog/1995 Spanners/02 Bolt1.mp3
 /Users/Roambot/Dropbox/Music/The Black Dog/1995 Spanners/03 Barbola Work.mp3
@@ -3821,7 +3992,7 @@
 /Users/Roambot/Dropbox/Music/The Black Dog/2007 Book of Dogma/19 Aural Wallpaper.mp3
 /Users/Roambot/Dropbox/Music/The Black Dog/2007 Book of Dogma/20 Rainbow Bridge.mp3
 /Users/Roambot/Dropbox/Music/The Black Dog/2007 Book of Dogma/21 Virtual HMMM._.mp3
-/Users/Roambot/Dropbox/Music/The Black Dog/2007 Book of Dogma/22 Vir²l.mp3
+/Users/Roambot/Dropbox/Music/The Black Dog/2007 Book of Dogma/22 Vir2l.mp3
 /Users/Roambot/Dropbox/Music/The Black Dog/2013 Tranklements/01 Alien Boys.flac
 /Users/Roambot/Dropbox/Music/The Black Dog/2013 Tranklements/02 Bolt No.6.flac
 /Users/Roambot/Dropbox/Music/The Black Dog/2013 Tranklements/03 Atavistic Resurgence.flac
@@ -3887,14 +4058,14 @@
 /Users/Roambot/Dropbox/Music/Thom Yorke/2007 The Eraser_ Remixes/09 Cymbal Rush (The Field Late Night Essen Und Trinken remix).mp3
 /Users/Roambot/Dropbox/Music/Thom Yorke/2009 Feeling Pulled Apart by Horses/01 Feeling Pulled Apart by Horses.mp3
 /Users/Roambot/Dropbox/Music/Thom Yorke/2009 Feeling Pulled Apart by Horses/02 The Hollow Earth.mp3
-/Users/Roambot/Dropbox/Music/Thom Yorke/2014 Tomorrow’s Modern Boxes/01 A Brain in a Bottle.mp3
-/Users/Roambot/Dropbox/Music/Thom Yorke/2014 Tomorrow’s Modern Boxes/02 Guess Again!.mp3
-/Users/Roambot/Dropbox/Music/Thom Yorke/2014 Tomorrow’s Modern Boxes/03 Interference.mp3
-/Users/Roambot/Dropbox/Music/Thom Yorke/2014 Tomorrow’s Modern Boxes/04 The Mother Lode.mp3
-/Users/Roambot/Dropbox/Music/Thom Yorke/2014 Tomorrow’s Modern Boxes/05 Truth Ray.mp3
-/Users/Roambot/Dropbox/Music/Thom Yorke/2014 Tomorrow’s Modern Boxes/06 There Is No Ice (For My Drink).mp3
-/Users/Roambot/Dropbox/Music/Thom Yorke/2014 Tomorrow’s Modern Boxes/07 Pink Section.mp3
-/Users/Roambot/Dropbox/Music/Thom Yorke/2014 Tomorrow’s Modern Boxes/08 Nose Grows Some.mp3
+/Users/Roambot/Dropbox/Music/Thom Yorke/2014 Tomorrow's Modern Boxes/01 A Brain in a Bottle.mp3
+/Users/Roambot/Dropbox/Music/Thom Yorke/2014 Tomorrow's Modern Boxes/02 Guess Again!.mp3
+/Users/Roambot/Dropbox/Music/Thom Yorke/2014 Tomorrow's Modern Boxes/03 Interference.mp3
+/Users/Roambot/Dropbox/Music/Thom Yorke/2014 Tomorrow's Modern Boxes/04 The Mother Lode.mp3
+/Users/Roambot/Dropbox/Music/Thom Yorke/2014 Tomorrow's Modern Boxes/05 Truth Ray.mp3
+/Users/Roambot/Dropbox/Music/Thom Yorke/2014 Tomorrow's Modern Boxes/06 There Is No Ice (For My Drink).mp3
+/Users/Roambot/Dropbox/Music/Thom Yorke/2014 Tomorrow's Modern Boxes/07 Pink Section.mp3
+/Users/Roambot/Dropbox/Music/Thom Yorke/2014 Tomorrow's Modern Boxes/08 Nose Grows Some.mp3
 /Users/Roambot/Dropbox/Music/Tim Hecker/2001 Haunt Me, Haunt Me Do It Again/01 Music for Tundra, Part 1.mp3
 /Users/Roambot/Dropbox/Music/Tim Hecker/2001 Haunt Me, Haunt Me Do It Again/02 Music for Tundra, Part 2.mp3
 /Users/Roambot/Dropbox/Music/Tim Hecker/2001 Haunt Me, Haunt Me Do It Again/03 Music for Tundra, Part 3.mp3
@@ -3925,7 +4096,7 @@
 /Users/Roambot/Dropbox/Music/Tim Hecker/2003 Radio Amor/08 The Star Compass.mp3
 /Users/Roambot/Dropbox/Music/Tim Hecker/2003 Radio Amor/09 Azure Azure.mp3
 /Users/Roambot/Dropbox/Music/Tim Hecker/2003 Radio Amor/10 Trade Winds, White Heat.mp3
-/Users/Roambot/Dropbox/Music/Tim Hecker/2004 Mirages/01 Acéphale.mp3
+/Users/Roambot/Dropbox/Music/Tim Hecker/2004 Mirages/01 Acephale.mp3
 /Users/Roambot/Dropbox/Music/Tim Hecker/2004 Mirages/02 Neither More Nor Less.mp3
 /Users/Roambot/Dropbox/Music/Tim Hecker/2004 Mirages/03 Aerial Silver.mp3
 /Users/Roambot/Dropbox/Music/Tim Hecker/2004 Mirages/04 Celestina.mp3
@@ -4042,41 +4213,41 @@
 /Users/Roambot/Dropbox/Music/Compilations/2001 Chronologi_ 12k_ Year.1 - Year.4/13 Capsule (excerpt).m4a
 /Users/Roambot/Dropbox/Music/Compilations/2001 Chronologi_ 12k_ Year.1 - Year.4/14 Untitled 09.06.00.m4a
 /Users/Roambot/Dropbox/Music/Compilations/2001 Chronologi_ 12k_ Year.1 - Year.4/15 Live (excerpt).m4a
-/Users/Roambot/Dropbox/Music/Compilations/2005 Pop Ambient 2005/01 Falkenbruck.mp3
-/Users/Roambot/Dropbox/Music/Compilations/2005 Pop Ambient 2005/02 Innenfeld.mp3
-/Users/Roambot/Dropbox/Music/Compilations/2005 Pop Ambient 2005/03 Pop.mp3
-/Users/Roambot/Dropbox/Music/Compilations/2005 Pop Ambient 2005/04 Mondlied.mp3
-/Users/Roambot/Dropbox/Music/Compilations/2005 Pop Ambient 2005/05 Blue.mp3
-/Users/Roambot/Dropbox/Music/Compilations/2005 Pop Ambient 2005/06 Gold.mp3
-/Users/Roambot/Dropbox/Music/Compilations/2005 Pop Ambient 2005/07 Hummell.mp3
-/Users/Roambot/Dropbox/Music/Compilations/2005 Pop Ambient 2005/08 Soft Bullets.mp3
-/Users/Roambot/Dropbox/Music/Compilations/2005 Pop Ambient 2005/09 Let the Snakes Crinkle Their Heads to Death.mp3
-/Users/Roambot/Dropbox/Music/Compilations/2005 Pop Ambient 2005/10 Sunbeams.mp3
-/Users/Roambot/Dropbox/Music/Compilations/2005 Pop Ambient 2005/11 Wasted Years.mp3
-/Users/Roambot/Dropbox/Music/Compilations/2005 Pop Ambient 2005/12 With Oil.mp3
-/Users/Roambot/Dropbox/Music/Compilations/2006 Pop Ambient 2006/01 Piano Tec.mp3
-/Users/Roambot/Dropbox/Music/Compilations/2006 Pop Ambient 2006/02 Iceblink.mp3
-/Users/Roambot/Dropbox/Music/Compilations/2006 Pop Ambient 2006/03 Baghira.mp3
-/Users/Roambot/Dropbox/Music/Compilations/2006 Pop Ambient 2006/04 Come to Where I Go.mp3
-/Users/Roambot/Dropbox/Music/Compilations/2006 Pop Ambient 2006/05 Edelgrun.mp3
-/Users/Roambot/Dropbox/Music/Compilations/2006 Pop Ambient 2006/06 Gymnopedie # 1.mp3
-/Users/Roambot/Dropbox/Music/Compilations/2006 Pop Ambient 2006/07 M + K.mp3
-/Users/Roambot/Dropbox/Music/Compilations/2006 Pop Ambient 2006/08 Burning Bright.mp3
-/Users/Roambot/Dropbox/Music/Compilations/2006 Pop Ambient 2006/09 Albatros.mp3
-/Users/Roambot/Dropbox/Music/Compilations/2006 Pop Ambient 2006/10 Tropfstein.mp3
-/Users/Roambot/Dropbox/Music/Compilations/2006 Pop Ambient 2006/11 Wandel.mp3
-/Users/Roambot/Dropbox/Music/Compilations/2006 Pop Ambient 2006/12 Decline.mp3
-/Users/Roambot/Dropbox/Music/Compilations/2006 Pop Ambient 2006/13 Milk (Klimek remix).mp3
-/Users/Roambot/Dropbox/Music/Compilations/2007 Pop Ambient 2007/01 Hafen.mp3
-/Users/Roambot/Dropbox/Music/Compilations/2007 Pop Ambient 2007/02 Altocomulus Opacus.mp3
-/Users/Roambot/Dropbox/Music/Compilations/2007 Pop Ambient 2007/03 Nach 1912.mp3
-/Users/Roambot/Dropbox/Music/Compilations/2007 Pop Ambient 2007/04 Kappsta.mp3
-/Users/Roambot/Dropbox/Music/Compilations/2007 Pop Ambient 2007/05 Next to the Field.mp3
-/Users/Roambot/Dropbox/Music/Compilations/2007 Pop Ambient 2007/06 Das Wunder der Kulperhutte.mp3
-/Users/Roambot/Dropbox/Music/Compilations/2007 Pop Ambient 2007/07 Ou La Nostalgie Habite.mp3
-/Users/Roambot/Dropbox/Music/Compilations/2007 Pop Ambient 2007/08 Ruined in a Day (Buenos Aires).mp3
-/Users/Roambot/Dropbox/Music/Compilations/2007 Pop Ambient 2007/09 Lai King Est.mp3
-/Users/Roambot/Dropbox/Music/Compilations/2007 Pop Ambient 2007/10 I Am Here Where Are You.mp3
+/Users/Roambot/Dropbox/Music/Compilations/2004 Pop Ambient 2005/01 Falkenbruck.mp3
+/Users/Roambot/Dropbox/Music/Compilations/2004 Pop Ambient 2005/02 Innenfeld.mp3
+/Users/Roambot/Dropbox/Music/Compilations/2004 Pop Ambient 2005/03 Pop.mp3
+/Users/Roambot/Dropbox/Music/Compilations/2004 Pop Ambient 2005/04 Mondlied.mp3
+/Users/Roambot/Dropbox/Music/Compilations/2004 Pop Ambient 2005/05 Blue.mp3
+/Users/Roambot/Dropbox/Music/Compilations/2004 Pop Ambient 2005/06 Gold.mp3
+/Users/Roambot/Dropbox/Music/Compilations/2004 Pop Ambient 2005/07 Hummell.mp3
+/Users/Roambot/Dropbox/Music/Compilations/2004 Pop Ambient 2005/08 Soft Bullets.mp3
+/Users/Roambot/Dropbox/Music/Compilations/2004 Pop Ambient 2005/09 Let the Snakes Crinkle Their Heads to Death.mp3
+/Users/Roambot/Dropbox/Music/Compilations/2004 Pop Ambient 2005/10 Sunbeams.mp3
+/Users/Roambot/Dropbox/Music/Compilations/2004 Pop Ambient 2005/11 Wasted Years.mp3
+/Users/Roambot/Dropbox/Music/Compilations/2004 Pop Ambient 2005/12 With Oil.mp3
+/Users/Roambot/Dropbox/Music/Compilations/2005 Pop Ambient 2006/01 Piano Tec.mp3
+/Users/Roambot/Dropbox/Music/Compilations/2005 Pop Ambient 2006/02 Iceblink.mp3
+/Users/Roambot/Dropbox/Music/Compilations/2005 Pop Ambient 2006/03 Baghira.mp3
+/Users/Roambot/Dropbox/Music/Compilations/2005 Pop Ambient 2006/04 Come to Where I Go.mp3
+/Users/Roambot/Dropbox/Music/Compilations/2005 Pop Ambient 2006/05 Edelgrun.mp3
+/Users/Roambot/Dropbox/Music/Compilations/2005 Pop Ambient 2006/06 Gymnopedie # 1.mp3
+/Users/Roambot/Dropbox/Music/Compilations/2005 Pop Ambient 2006/07 M + K.mp3
+/Users/Roambot/Dropbox/Music/Compilations/2005 Pop Ambient 2006/08 Burning Bright.mp3
+/Users/Roambot/Dropbox/Music/Compilations/2005 Pop Ambient 2006/09 Albatros.mp3
+/Users/Roambot/Dropbox/Music/Compilations/2005 Pop Ambient 2006/10 Tropfstein.mp3
+/Users/Roambot/Dropbox/Music/Compilations/2005 Pop Ambient 2006/11 Wandel.mp3
+/Users/Roambot/Dropbox/Music/Compilations/2005 Pop Ambient 2006/12 Decline.mp3
+/Users/Roambot/Dropbox/Music/Compilations/2005 Pop Ambient 2006/13 Milk (Klimek remix).mp3
+/Users/Roambot/Dropbox/Music/Compilations/2006 Pop Ambient 2007/01 Hafen.mp3
+/Users/Roambot/Dropbox/Music/Compilations/2006 Pop Ambient 2007/02 Altocomulus Opacus.mp3
+/Users/Roambot/Dropbox/Music/Compilations/2006 Pop Ambient 2007/03 Nach 1912.mp3
+/Users/Roambot/Dropbox/Music/Compilations/2006 Pop Ambient 2007/04 Kappsta.mp3
+/Users/Roambot/Dropbox/Music/Compilations/2006 Pop Ambient 2007/05 Next to the Field.mp3
+/Users/Roambot/Dropbox/Music/Compilations/2006 Pop Ambient 2007/06 Das Wunder der Kulperhutte.mp3
+/Users/Roambot/Dropbox/Music/Compilations/2006 Pop Ambient 2007/07 Ou La Nostalgie Habite.mp3
+/Users/Roambot/Dropbox/Music/Compilations/2006 Pop Ambient 2007/08 Ruined in a Day (Buenos Aires).mp3
+/Users/Roambot/Dropbox/Music/Compilations/2006 Pop Ambient 2007/09 Lai King Est.mp3
+/Users/Roambot/Dropbox/Music/Compilations/2006 Pop Ambient 2007/10 I Am Here Where Are You.mp3
 /Users/Roambot/Dropbox/Music/Compilations/2008 Pop Ambient 2008/01 Oceans Day.mp3
 /Users/Roambot/Dropbox/Music/Compilations/2008 Pop Ambient 2008/02 Sag Alles Ab.mp3
 /Users/Roambot/Dropbox/Music/Compilations/2008 Pop Ambient 2008/03 In Lourdes.mp3
@@ -4114,70 +4285,70 @@
 /Users/Roambot/Dropbox/Music/Compilations/2010 Pop Ambient 2010/11 In the Wind.mp3
 /Users/Roambot/Dropbox/Music/Compilations/2010 Pop Ambient 2010/12 Deutz Air.mp3
 /Users/Roambot/Dropbox/Music/Compilations/2010 Pop Ambient 2010/13 Will You Know Where to Find Me.mp3
-/Users/Roambot/Dropbox/Music/Compilations/2014 Pop Ambient 2014/01 Sicht.mp3
-/Users/Roambot/Dropbox/Music/Compilations/2014 Pop Ambient 2014/02 Treatment.mp3
-/Users/Roambot/Dropbox/Music/Compilations/2014 Pop Ambient 2014/03 Patience.mp3
-/Users/Roambot/Dropbox/Music/Compilations/2014 Pop Ambient 2014/04 The Philosophers Trap.mp3
-/Users/Roambot/Dropbox/Music/Compilations/2014 Pop Ambient 2014/05 Moorpark.mp3
-/Users/Roambot/Dropbox/Music/Compilations/2014 Pop Ambient 2014/06 Fur Betty.mp3
-/Users/Roambot/Dropbox/Music/Compilations/2014 Pop Ambient 2014/07 Aquamarine (Triola mix).mp3
-/Users/Roambot/Dropbox/Music/Compilations/2014 Pop Ambient 2014/08 Ruckverzauberung 8.mp3
-/Users/Roambot/Dropbox/Music/Compilations/2014 Pop Ambient 2014/10 PCC.mp3
-/Users/Roambot/Dropbox/Music/Compilations/2014 Pop Ambient 2015/01 Wie Es Euch Gefallt.mp3
-/Users/Roambot/Dropbox/Music/Compilations/2014 Pop Ambient 2015/02 Nero.mp3
-/Users/Roambot/Dropbox/Music/Compilations/2014 Pop Ambient 2015/03 Daydreamer.mp3
-/Users/Roambot/Dropbox/Music/Compilations/2014 Pop Ambient 2015/04 Assperg.mp3
-/Users/Roambot/Dropbox/Music/Compilations/2014 Pop Ambient 2015/05 Nada Es Para Siempre.mp3
-/Users/Roambot/Dropbox/Music/Compilations/2014 Pop Ambient 2015/06 Container Love.mp3
-/Users/Roambot/Dropbox/Music/Compilations/2014 Pop Ambient 2015/07 Refresh.mp3
-/Users/Roambot/Dropbox/Music/Compilations/2014 Pop Ambient 2015/08 In White Pagodas, I'll Wait For You.mp3
-/Users/Roambot/Dropbox/Music/Compilations/2014 Pop Ambient 2015/09 Mowen.mp3
-/Users/Roambot/Dropbox/Music/Compilations/2014 Pop Ambient 2015/10 Jovenes _ Ambient Remake.mp3
+/Users/Roambot/Dropbox/Music/Various Artists/2014 Pop Ambient 2014/01 Sicht.mp3
+/Users/Roambot/Dropbox/Music/Various Artists/2014 Pop Ambient 2014/02 Treatment.mp3
+/Users/Roambot/Dropbox/Music/Various Artists/2014 Pop Ambient 2014/03 Patience.mp3
+/Users/Roambot/Dropbox/Music/Various Artists/2014 Pop Ambient 2014/04 The Philosophers Trap.mp3
+/Users/Roambot/Dropbox/Music/Various Artists/2014 Pop Ambient 2014/05 Moorpark.mp3
+/Users/Roambot/Dropbox/Music/Various Artists/2014 Pop Ambient 2014/06 Fur Betty.mp3
+/Users/Roambot/Dropbox/Music/Various Artists/2014 Pop Ambient 2014/07 Aquamarine (Triola mix).mp3
+/Users/Roambot/Dropbox/Music/Various Artists/2014 Pop Ambient 2014/08 Ruckverzauberung 8.mp3
+/Users/Roambot/Dropbox/Music/Various Artists/2014 Pop Ambient 2014/10 PCC.mp3
+/Users/Roambot/Dropbox/Music/Various Artists/2014 Pop Ambient 2015/01 Wie Es Euch Gefallt.mp3
+/Users/Roambot/Dropbox/Music/Various Artists/2014 Pop Ambient 2015/02 Nero.mp3
+/Users/Roambot/Dropbox/Music/Various Artists/2014 Pop Ambient 2015/03 Daydreamer.mp3
+/Users/Roambot/Dropbox/Music/Various Artists/2014 Pop Ambient 2015/04 Assperg.mp3
+/Users/Roambot/Dropbox/Music/Various Artists/2014 Pop Ambient 2015/05 Nada Es Para Siempre.mp3
+/Users/Roambot/Dropbox/Music/Various Artists/2014 Pop Ambient 2015/06 Container Love.mp3
+/Users/Roambot/Dropbox/Music/Various Artists/2014 Pop Ambient 2015/07 Refresh.mp3
+/Users/Roambot/Dropbox/Music/Various Artists/2014 Pop Ambient 2015/08 In White Pagodas, I'll Wait For You.mp3
+/Users/Roambot/Dropbox/Music/Various Artists/2014 Pop Ambient 2015/09 Mowen.mp3
+/Users/Roambot/Dropbox/Music/Various Artists/2014 Pop Ambient 2015/10 Jovenes _ Ambient Remake.mp3
 /Users/Roambot/Dropbox/Music/William Basinski/2009 92982/01 92982.1.mp3
 /Users/Roambot/Dropbox/Music/William Basinski/2009 92982/02 92982.2.mp3
 /Users/Roambot/Dropbox/Music/William Basinski/2009 92982/03 92982.4.mp3
 /Users/Roambot/Dropbox/Music/William Basinski/2009 92982/04 92982.3.mp3
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias/01 Invention No. 1 in C major, BWV 772.m4a
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias/02 Invention No. 1 in C major, BWV 722a (variante).m4a
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias/03 Invention No. 2 in C minor, BWV 733.m4a
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias/04 Invention No. 3 in D major, BWV 774.m4a
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias/05 Invention No. 4 in D minor, BWV 775.m4a
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias/06 Invention No. 5 in E-flat major, BWV 776.m4a
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias/07 Invention No. 6 in E major, BWV 777.m4a
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias/08 Invention No. 7 in E minor, BWV 778.m4a
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias/09 Invention No. 8 in F major, BWV 779.m4a
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias/10 Invention No. 9 in F minor, BWV 780.m4a
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias/11 Invention No. 10 in G major, BWV 781.m4a
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias/12 Invention No. 11 in G minor, BWV 782.m4a
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias/13 Invention No. 12 in A major, BWV 783.m4a
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias/14 Invention No. 13 in A minor, BWV 784.m4a
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias/15 Invention No. 14 in B-flat major, BWV 785.m4a
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias/16 Invention No. 15 in B minor, BWV 786.m4a
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias/17 Sinfonia No. 1 in C major, BWV 787.m4a
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias/18 Sinfonia No. 2 in C minor, BWV 788.m4a
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias/19 Sinfonia No. 3 in D major, BWV 789.m4a
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias/20 Sinfonia No. 4 in D minor, BWV 790.m4a
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias/21 Sinfonia No. 5 in E-flat major, BWV 791.m4a
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias/22 Sinfonia No. 6 in E major, BWV 792.m4a
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias/23 Sinfonia No. 7 in E minor, BWV 793.m4a
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias/24 Sinfonia No. 8 in F major, BWV 794.m4a
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias/25 Sinfonia No. 9 in F minor, BWV 795.m4a
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias/26 Sinfonia No. 10 in G major, BWV 796.m4a
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias/27 Sinfonia No. 11 in G minor, BWV 797.m4a
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias/28 Sinfonia No. 12 in A major, BWV 798.m4a
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias/29 Sinfonia No. 13 in A minor, BWV 799.m4a
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias/30 Sinfonia No. 14 in B-flat major, BWV 800.m4a
-/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685 - 1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias/31 Sinfonia No. 15 in B minor, BWV 801.m4a
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias (Complete)/01 Invention No. 1 in C major, BWV 772.m4a
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias (Complete)/02 Invention No. 1 in C major, BWV 722a (variante).m4a
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias (Complete)/03 Invention No. 2 in C minor, BWV 773.m4a
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias (Complete)/04 Invention No. 3 in D major, BWV 774.m4a
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias (Complete)/05 Invention No. 4 in D minor, BWV 775.m4a
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias (Complete)/06 Invention No. 5 in E-flat major, BWV 776.m4a
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias (Complete)/07 Invention No. 6 in E major, BWV 777.m4a
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias (Complete)/08 Invention No. 7 in E minor, BWV 778.m4a
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias (Complete)/09 Invention No. 8 in F major, BWV 779.m4a
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias (Complete)/10 Invention No. 9 in F minor, BWV 780.m4a
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias (Complete)/11 Invention No. 10 in G major, BWV 781.m4a
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias (Complete)/12 Invention No. 11 in G minor, BWV 782.m4a
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias (Complete)/13 Invention No. 12 in A major, BWV 783.m4a
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias (Complete)/14 Invention No. 13 in A minor, BWV 784.m4a
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias (Complete)/15 Invention No. 14 in B-flat major, BWV 785.m4a
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias (Complete)/16 Invention No. 15 in B minor, BWV 786.m4a
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias (Complete)/17 Sinfonia No. 1 in C major, BWV 787.m4a
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias (Complete)/18 Sinfonia No. 2 in C minor, BWV 788.m4a
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias (Complete)/19 Sinfonia No. 3 in D major, BWV 789.m4a
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias (Complete)/20 Sinfonia No. 4 in D minor, BWV 790.m4a
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias (Complete)/21 Sinfonia No. 5 in E-flat major, BWV 791.m4a
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias (Complete)/22 Sinfonia No. 6 in E major, BWV 792.m4a
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias (Complete)/23 Sinfonia No. 7 in E minor, BWV 793.m4a
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias (Complete)/24 Sinfonia No. 8 in F major, BWV 794.m4a
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias (Complete)/25 Sinfonia No. 9 in F minor, BWV 795.m4a
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias (Complete)/26 Sinfonia No. 10 in G major, BWV 796.m4a
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias (Complete)/27 Sinfonia No. 11 in G minor, BWV 797.m4a
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias (Complete)/28 Sinfonia No. 12 in A major, BWV 798.m4a
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias (Complete)/29 Sinfonia No. 13 in A minor, BWV 799.m4a
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias (Complete)/30 Sinfonia No. 14 in B-flat major, BWV 800.m4a
+/Users/Roambot/Dropbox/Music/Classical/Bach, Johann Sebastian (1685-1750)/Wolfgang Rubsam/1995 Inventions and Sinfonias (Complete)/31 Sinfonia No. 15 in B minor, BWV 801.m4a
 /Users/Roambot/Dropbox/Music/Yagya/2009 Rigning/01 Rigning Einn.mp3
-/Users/Roambot/Dropbox/Music/Yagya/2009 Rigning/02 Rigning Tvö.mp3
-/Users/Roambot/Dropbox/Music/Yagya/2009 Rigning/03 Rigning þrjú.mp3
-/Users/Roambot/Dropbox/Music/Yagya/2009 Rigning/04 Rigning Fjórir.mp3
+/Users/Roambot/Dropbox/Music/Yagya/2009 Rigning/02 Rigning Tvo.mp3
+/Users/Roambot/Dropbox/Music/Yagya/2009 Rigning/03 Rigning thrju.mp3
+/Users/Roambot/Dropbox/Music/Yagya/2009 Rigning/04 Rigning Fjorir.mp3
 /Users/Roambot/Dropbox/Music/Yagya/2009 Rigning/05 Rigning Fimm.mp3
 /Users/Roambot/Dropbox/Music/Yagya/2009 Rigning/06 Rigning Sex.mp3
-/Users/Roambot/Dropbox/Music/Yagya/2009 Rigning/07 Rigning Sjö.mp3
-/Users/Roambot/Dropbox/Music/Yagya/2009 Rigning/08 Rigning Átta.mp3
-/Users/Roambot/Dropbox/Music/Yagya/2009 Rigning/09 Rigning Níu.mp3
-/Users/Roambot/Dropbox/Music/Yagya/2009 Rigning/10 Rigning Tíu.mp3
+/Users/Roambot/Dropbox/Music/Yagya/2009 Rigning/07 Rigning Sjo.mp3
+/Users/Roambot/Dropbox/Music/Yagya/2009 Rigning/08 Rigning Atta.mp3
+/Users/Roambot/Dropbox/Music/Yagya/2009 Rigning/09 Rigning Niu.mp3
+/Users/Roambot/Dropbox/Music/Yagya/2009 Rigning/10 Rigning Tiu.mp3
 /Users/Roambot/Dropbox/Music/Yagya/2012 Rhythm of Snow/01 Snowflake 1.mp3
 /Users/Roambot/Dropbox/Music/Yagya/2012 Rhythm of Snow/02 Snowflake 2.mp3
 /Users/Roambot/Dropbox/Music/Yagya/2012 Rhythm of Snow/03 Snowflake 3.mp3
@@ -4206,3 +4377,16 @@
 /Users/Roambot/Dropbox/Music/Yagya/2014 Will I Dream During the Process_ _ DeepChord Redesigns/06 DeepChord Redesigns 6.mp3
 /Users/Roambot/Dropbox/Music/Yagya/2014 Will I Dream During the Process_ _ DeepChord Redesigns/07 DeepChord Redesigns 7.mp3
 /Users/Roambot/Dropbox/Music/Yagya/2014 Will I Dream During the Process_ _ DeepChord Redesigns/08 DeepChord Redesigns 8.mp3
+/Users/Roambot/Dropbox/Music/µ-Ziq/1997 Lunatic Harness/01 Brace Yourself Jason.flac
+/Users/Roambot/Dropbox/Music/µ-Ziq/1997 Lunatic Harness/02 Hasty Boom Alert.flac
+/Users/Roambot/Dropbox/Music/µ-Ziq/1997 Lunatic Harness/03 Mushroom Compost.flac
+/Users/Roambot/Dropbox/Music/µ-Ziq/1997 Lunatic Harness/04 Blainville.flac
+/Users/Roambot/Dropbox/Music/µ-Ziq/1997 Lunatic Harness/05 Lunatic Harness.flac
+/Users/Roambot/Dropbox/Music/µ-Ziq/1997 Lunatic Harness/06 Approaching Menace.flac
+/Users/Roambot/Dropbox/Music/µ-Ziq/1997 Lunatic Harness/07 My Little Beautiful.flac
+/Users/Roambot/Dropbox/Music/µ-Ziq/1997 Lunatic Harness/08 Secret Stair, Part 1.flac
+/Users/Roambot/Dropbox/Music/µ-Ziq/1997 Lunatic Harness/09 Secret Stair, Part 2.flac
+/Users/Roambot/Dropbox/Music/µ-Ziq/1997 Lunatic Harness/10 Wannabe.flac
+/Users/Roambot/Dropbox/Music/µ-Ziq/1997 Lunatic Harness/11 Catkin and Teasel.flac
+/Users/Roambot/Dropbox/Music/µ-Ziq/1997 Lunatic Harness/12 London.flac
+/Users/Roambot/Dropbox/Music/µ-Ziq/1997 Lunatic Harness/13 Midwinter Log.flac

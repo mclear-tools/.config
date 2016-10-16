@@ -1,9 +1,3 @@
-open_with Preview
-git pull
-cdf
-cd
-find 
-shell 
 rename .subversion
 git stash
 Git stash
@@ -11,7 +5,6 @@ l
 help
 open_with jjkk
 delete 
-search bin
 shell touch rdiocurrent.sh
 search rdio
 shell chmod +x rdiocurrent.sh
@@ -34,7 +27,6 @@ open_with vox.app
 open_with /Applications/vox.app
 
 open_w`h
-open_with vim
 open_with 
 search Qu
 search lin
@@ -44,7 +36,15 @@ f
 finder
 open
 open_with emacs
-open_with nvim
 search org
 search inline
+open_with vim
+open_with nvim
+search bin
+search tm
+open_with h
+search proj
+search confmacs
+delete pandoc
 delete
+search firefox
